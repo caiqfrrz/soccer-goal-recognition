@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.egg-info/
+.DS_Store
+
+# large / regenerable
+data/soccernet/
+data/features/
+data/windows/
+outputs/cache/
+outputs/models/

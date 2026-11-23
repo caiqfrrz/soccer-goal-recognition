@@ -1,0 +1,122 @@
+kind,game,half,time,prob,visibility,events_in_window
+false alarm,england_epl/2016-2017/2017-04-09 - 18-00 Everton 4 - 2 Leicester,1,11:29,1.0,,Ball out of play
+false alarm,europe_uefa-champions-league/2015-2016/2015-09-16 - 21-45 Olympiakos Piraeus 0 - 3 Bayern Munich,1,18:06,1.0,,Ball out of play
+false alarm,italy_serie-a/2016-2017/2016-09-18 - 21-45 Fiorentina 1 - 0 AS Roma,2,42:20,1.0,,Clearance
+false alarm,italy_serie-a/2016-2017/2017-01-22 - 22-45 AS Roma 1 - 0 Cagliari,2,05:58,1.0,,Ball out of play; Indirect free-kick
+false alarm,italy_serie-a/2016-2017/2017-04-15 - 21-45 Napoli 3 - 0 Udinese,2,41:23,1.0,,Clearance
+false alarm,spain_laliga/2014-2015/2015-04-11 - 21-00 Sevilla 2 - 2 Barcelona,2,19:17,1.0,,Ball out of play; Shots off target
+false alarm,spain_laliga/2016-2017/2017-01-21 - 18-15 Real Madrid 2 - 1 Malaga,1,39:55,1.0,,
+false alarm,spain_laliga/2016-2017/2017-04-23 - 21-45 Real Madrid 2 - 3 Barcelona,2,21:42,1.0,,Offside
+false alarm,europe_uefa-champions-league/2015-2016/2015-11-04 - 22-45 Barcelona 3 - 0 BATE,1,28:16,0.999,,Ball out of play; Shots off target
+false alarm,france_ligue-1/2016-2017/2016-09-20 - 22-00 Paris SG 3 - 0 Dijon,2,34:14,0.999,,Ball out of play
+false alarm,spain_laliga/2016-2017/2017-01-21 - 18-15 Real Madrid 2 - 1 Malaga,2,13:54,0.998,,
+false alarm,italy_serie-a/2016-2017/2017-03-12 - 22-45 Palermo 0 - 3 AS Roma,2,23:41,0.997,,Ball out of play
+false alarm,italy_serie-a/2016-2017/2017-04-15 - 21-45 Napoli 3 - 0 Udinese,2,40:23,0.997,,Ball out of play
+false alarm,spain_laliga/2014-2015/2015-04-11 - 21-00 Sevilla 2 - 2 Barcelona,2,44:23,0.997,,Corner
+false alarm,italy_serie-a/2016-2017/2016-08-20 - 19-00 AS Roma 4 - 0 Udinese,1,24:13,0.995,,
+false alarm,spain_laliga/2014-2015/2015-05-02 - 21-00 Sevilla 2 - 3 Real Madrid,1,41:43,0.994,,Clearance
+false alarm,spain_laliga/2015-2016/2015-12-20 - 18-00 Real Madrid 1 - 0 Rayo Vallecano,2,33:00,0.99,,Shots off target
+false alarm,italy_serie-a/2016-2017/2017-04-02 - 21-45 Napoli 1 - 1 Juventus,1,11:37,0.989,,
+false alarm,italy_serie-a/2016-2017/2017-04-30 - 13-30 AS Roma 1 - 3 Lazio,2,05:46,0.989,,Kick-off
+false alarm,italy_serie-a/2016-2017/2017-03-12 - 22-45 Palermo 0 - 3 AS Roma,2,24:02,0.988,,Ball out of play; Corner; Shots off target
+false alarm,spain_laliga/2015-2016/2015-12-20 - 18-00 Real Madrid 1 - 0 Rayo Vallecano,2,41:50,0.986,,Corner
+false alarm,germany_bundesliga/2016-2017/2016-12-03 - 17-30 Dortmund 4 - 1 B. Monchengladbach,2,04:29,0.972,,
+false alarm,italy_serie-a/2016-2017/2017-01-22 - 22-45 AS Roma 1 - 0 Cagliari,2,35:55,0.972,,Ball out of play; Throw-in
+false alarm,england_epl/2015-2016/2015-12-26 - 18-00 Chelsea 2 - 2 Watford,2,27:49,0.97,,Throw-in
+false alarm,spain_laliga/2014-2015/2015-05-02 - 19-00 Atl. Madrid 0 - 0 Ath Bilbao,2,09:23,0.969,,Ball out of play; Shots off target
+false alarm,spain_laliga/2016-2017/2017-04-23 - 21-45 Real Madrid 2 - 3 Barcelona,1,02:35,0.965,,Ball out of play; Throw-in
+false alarm,england_epl/2015-2016/2016-03-05 - 18-00 Manchester City 4 - 0 Aston Villa,1,10:11,0.948,,Ball out of play; Shots off target
+false alarm,england_epl/2016-2017/2016-10-22 - 17-00 Arsenal 0 - 0 Middlesbrough,2,25:46,0.94,,Corner
+false alarm,europe_uefa-champions-league/2015-2016/2015-09-16 - 21-45 Olympiakos Piraeus 0 - 3 Bayern Munich,2,26:38,0.938,,
+false alarm,england_epl/2015-2016/2015-09-26 - 17-00 Leicester 2 - 5 Arsenal,1,05:23,0.916,,Ball out of play
+false alarm,england_epl/2015-2016/2015-12-26 - 18-00 Chelsea 2 - 2 Watford,2,38:31,0.909,,
+false alarm,europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 Barcelona 2 - 1 Bayer Leverkusen,1,32:26,0.908,,
+false alarm,england_epl/2015-2016/2015-10-03 - 17-00 Manchester City 6 - 1 Newcastle Utd,2,37:50,0.895,,
+false alarm,spain_laliga/2016-2017/2017-04-23 - 21-45 Real Madrid 2 - 3 Barcelona,2,03:59,0.895,,Ball out of play
+false alarm,germany_bundesliga/2015-2016/2015-09-20 - 18-30 Dortmund 3 - 0 Bayer Leverkusen,1,11:35,0.867,,Ball out of play
+false alarm,italy_serie-a/2016-2017/2017-01-22 - 22-45 AS Roma 1 - 0 Cagliari,1,03:31,0.86,,Ball out of play
+false alarm,italy_serie-a/2016-2017/2017-05-06 - 19-00 Napoli 3 - 1 Cagliari,2,36:15,0.855,,Ball out of play
+false alarm,spain_laliga/2015-2016/2015-12-20 - 18-00 Real Madrid 1 - 0 Rayo Vallecano,2,10:53,0.854,,Throw-in
+false alarm,italy_serie-a/2014-2015/2015-05-10 - 21-45 Lazio 1 - 2 Inter,2,39:45,0.847,,
+false alarm,europe_uefa-champions-league/2015-2016/2015-09-16 - 21-45 Olympiakos Piraeus 0 - 3 Bayern Munich,1,18:33,0.835,,Corner
+false alarm,spain_laliga/2016-2017/2017-05-14 - 21-00 Las Palmas 1 - 4 Barcelona,2,39:13,0.825,,Substitution
+false alarm,england_epl/2015-2016/2016-01-23 - 20-30 West Ham 2 - 2 Manchester City,1,10:12,0.796,,
+false alarm,europe_uefa-champions-league/2014-2015/2014-11-05 - 22-45 Ajax 0 - 2 Barcelona,1,30:08,0.795,,Shots on target
+false alarm,germany_bundesliga/2015-2016/2015-09-20 - 18-30 Dortmund 3 - 0 Bayer Leverkusen,1,08:20,0.762,,Ball out of play; Throw-in
+false alarm,england_epl/2015-2016/2015-12-26 - 18-00 Chelsea 2 - 2 Watford,1,25:23,0.74,,Ball out of play
+false alarm,italy_serie-a/2016-2017/2016-12-12 - 23-00 AS Roma 1 - 0 AC Milan,1,15:14,0.717,,Ball out of play; Throw-in
+false alarm,spain_laliga/2015-2016/2016-01-03 - 22-30 Valencia 2 - 2 Real Madrid,2,07:57,0.665,,
+false alarm,spain_laliga/2015-2016/2016-02-13 - 18-00 Real Madrid 4 - 2 Ath Bilbao,2,44:10,0.62,,Corner
+false alarm,italy_serie-a/2014-2015/2015-05-10 - 21-45 Lazio 1 - 2 Inter,1,36:42,0.593,,
+false alarm,spain_laliga/2014-2015/2015-04-11 - 21-00 Sevilla 2 - 2 Barcelona,2,26:35,0.565,,Ball out of play
+false alarm,italy_serie-a/2014-2015/2015-05-10 - 21-45 Lazio 1 - 2 Inter,1,35:07,0.54,,Ball out of play; Throw-in
+false alarm,italy_serie-a/2016-2017/2016-12-12 - 23-00 AS Roma 1 - 0 AC Milan,2,36:07,0.54,,Ball out of play; Shots on target
+false alarm,italy_serie-a/2016-2017/2017-05-06 - 19-00 Napoli 3 - 1 Cagliari,1,28:11,0.507,,Ball out of play; Shots off target
+missed goal,italy_serie-a/2016-2017/2017-02-19 - 17-00 Chievo 1 - 3 Napoli,1,30:34,0.479,visible,Goal; Shots on target
+missed goal,england_epl/2015-2016/2016-04-23 - 17-00 Bournemouth 1 - 4 Chelsea,2,25:30,0.428,visible,Goal; Shots on target
+missed goal,europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 Barcelona 2 - 1 Bayer Leverkusen,1,21:41,0.418,visible,Corner; Goal; Shots on target
+missed goal,spain_laliga/2014-2015/2015-04-28 - 21-00 Barcelona 6 - 0 Getafe,1,27:19,0.399,visible,Goal; Shots on target
+missed goal,europe_uefa-champions-league/2014-2015/2015-04-15 - 21-45 Paris SG 1 - 3 Barcelona,2,33:30,0.391,visible,Goal; Shots on target
+missed goal,europe_uefa-champions-league/2014-2015/2015-04-15 - 21-45 Paris SG 1 - 3 Barcelona,2,33:30,0.391,visible,Goal; Shots on target
+missed goal,spain_laliga/2014-2015/2015-04-11 - 21-00 Sevilla 2 - 2 Barcelona,1,37:03,0.372,visible,Goal; Shots on target
+missed goal,germany_bundesliga/2015-2016/2015-10-04 - 18-30 Bayern Munich 5 - 1 Dortmund,1,34:00,0.366,visible,Goal; Penalty
+missed goal,germany_bundesliga/2016-2017/2016-12-03 - 17-30 Dortmund 4 - 1 B. Monchengladbach,1,06:22,0.356,visible,Goal; Shots on target
+missed goal,europe_uefa-champions-league/2016-2017/2016-09-28 - 21-45 Napoli 4 - 2 Benfica,1,19:05,0.347,visible,Corner; Goal; Shots on target
+missed goal,england_epl/2015-2016/2015-10-03 - 17-00 Manchester City 6 - 1 Newcastle Utd,1,16:57,0.329,visible,Goal; Shots on target
+missed goal,spain_laliga/2016-2017/2016-10-15 - 17-15 Barcelona 4 - 0 Dep. La Coruna,1,35:37,0.269,visible,Goal; Indirect free-kick; Shots on target
+missed goal,england_epl/2016-2017/2016-12-04 - 16-30 Bournemouth 4 - 3 Liverpool,2,30:28,0.256,visible,Goal; Shots on target
+missed goal,spain_laliga/2014-2015/2015-05-02 - 21-00 Sevilla 2 - 3 Real Madrid,2,33:33,0.202,visible,Goal; Shots on target
+missed goal,england_epl/2016-2017/2016-10-29 - 19-30 Crystal Palace 2 - 4 Liverpool,1,15:08,0.193,visible,Goal; Shots on target
+missed goal,germany_bundesliga/2015-2016/2015-11-07 - 17-30 Bayern Munich 4 - 0 VfB Stuttgart,1,16:59,0.185,visible,Goal; Shots on target
+missed goal,germany_bundesliga/2016-2017/2017-02-25 - 17-30 SC Freiburg 0 - 3 Dortmund,1,12:02,0.168,visible,Goal; Indirect free-kick; Shots on target
+missed goal,spain_laliga/2016-2017/2017-05-14 - 21-00 Las Palmas 1 - 4 Barcelona,2,21:42,0.167,visible,Goal
+missed goal,spain_laliga/2016-2017/2017-05-14 - 21-00 Las Palmas 1 - 4 Barcelona,2,21:41,0.15,visible,Goal
+missed goal,spain_laliga/2016-2017/2016-10-02 - 21-45 Celta Vigo 4 - 3 Barcelona,1,32:18,0.142,visible,Goal; Shots on target
+missed goal,spain_laliga/2016-2017/2016-09-17 - 14-00 Leganes 1 - 5 Barcelona,2,34:53,0.114,visible,Direct free-kick; Goal; Shots on target
+missed goal,europe_uefa-champions-league/2014-2015/2014-12-09 - 22-45 Galatasaray 1 - 4 Arsenal,2,46:53,0.11,visible,Goal; Shots on target
+missed goal,spain_laliga/2015-2016/2016-03-20 - 22-30 Real Madrid 4 - 0 Sevilla,1,05:27,0.108,visible,Goal; Shots on target
+missed goal,europe_uefa-champions-league/2014-2015/2015-03-11 - 22-45 Bayern Munich 7 - 0 Shakhtar Donetsk,2,41:55,0.078,visible,Goal; Shots on target
+missed goal,italy_serie-a/2015-2016/2015-09-26 - 21-45 Napoli 2 - 1 Juventus,1,25:08,0.078,visible,Goal; Shots on target
+missed goal,europe_uefa-champions-league/2014-2015/2014-12-09 - 22-45 Galatasaray 1 - 4 Arsenal,1,10:16,0.052,visible,Goal; Shots on target
+missed goal,england_epl/2015-2016/2016-02-13 - 20-30 Chelsea 5 - 1 Newcastle Utd,1,16:11,0.037,visible,Goal; Shots on target
+missed goal,spain_laliga/2016-2017/2016-10-02 - 21-45 Celta Vigo 4 - 3 Barcelona,2,41:09,0.036,visible,Goal; Shots on target
+missed goal,spain_laliga/2016-2017/2017-04-29 - 21-45 Espanyol 0 - 3 Barcelona,2,41:08,0.036,visible,Goal
+missed goal,england_epl/2015-2016/2016-02-13 - 20-30 Chelsea 5 - 1 Newcastle Utd,2,44:08,0.035,visible,Goal; Shots on target
+missed goal,spain_laliga/2014-2015/2015-05-23 - 21-30 Real Madrid 7 - 3 Getafe,2,44:37,0.028,visible,Goal; Shots on target
+missed goal,germany_bundesliga/2015-2016/2015-10-04 - 18-30 Bayern Munich 5 - 1 Dortmund,1,25:19,0.023,visible,Goal; Shots on target
+missed goal,italy_serie-a/2016-2017/2017-02-19 - 17-00 Chievo 1 - 3 Napoli,2,26:28,0.022,visible,Goal; Shots on target
+missed goal,england_epl/2015-2016/2016-02-13 - 20-30 Chelsea 5 - 1 Newcastle Utd,1,08:21,0.012,visible,Goal; Shots on target
+missed goal,spain_laliga/2016-2017/2017-05-14 - 21-00 Las Palmas 1 - 4 Barcelona,1,24:27,0.011,visible,Goal
+missed goal,spain_laliga/2016-2017/2017-05-14 - 21-00 Las Palmas 1 - 4 Barcelona,2,25:51,0.01,visible,Goal
+missed goal,germany_bundesliga/2016-2017/2016-12-03 - 17-30 Dortmund 4 - 1 B. Monchengladbach,1,05:22,0.008,visible,Goal; Shots on target
+missed goal,england_epl/2015-2016/2015-09-26 - 17-00 Leicester 2 - 5 Arsenal,2,47:42,0.005,visible,Goal; Shots on target
+missed goal,germany_bundesliga/2016-2017/2017-02-25 - 17-30 SC Freiburg 0 - 3 Dortmund,2,24:49,0.005,visible,Goal
+missed goal,spain_laliga/2015-2016/2015-10-24 - 17-00 Celta Vigo 1 - 3 Real Madrid,2,39:27,0.005,visible,Goal; Shots on target
+missed goal,spain_laliga/2014-2015/2015-04-11 - 17-00 Real Madrid 3 - 0 Eibar,2,37:31,0.004,visible,Goal; Shots on target
+missed goal,italy_serie-a/2014-2015/2015-05-17 - 13-30 Sassuolo 3 - 2 AC Milan,1,12:50,0.003,visible,Goal; Shots on target
+missed goal,spain_laliga/2015-2016/2015-09-26 - 17-00 Barcelona 2 - 1 Las Palmas,2,42:07,0.003,visible,Goal; Shots on target
+missed goal,england_epl/2015-2016/2015-12-26 - 18-00 Chelsea 2 - 2 Watford,1,41:37,0.002,visible,Goal; Penalty; Shots on target
+missed goal,europe_uefa-champions-league/2015-2016/2015-09-16 - 21-45 Dyn. Kiev 2 - 2 FC Porto,1,22:20,0.001,visible,Goal; Shots on target
+missed goal,france_ligue-1/2016-2017/2016-09-20 - 22-00 Paris SG 3 - 0 Dijon,1,14:23,0.001,visible,Goal
+missed goal,germany_bundesliga/2015-2016/2016-04-23 - 16-30 Hertha Berlin 0 - 2 Bayern Munich,2,02:03,0.001,visible,Goal; Shots on target
+missed goal,italy_serie-a/2015-2016/2015-09-26 - 21-45 Napoli 2 - 1 Juventus,2,17:47,0.001,visible,Goal; Shots on target
+missed goal,italy_serie-a/2016-2017/2017-04-30 - 13-30 AS Roma 1 - 3 Lazio,1,11:01,0.001,visible,Goal; Shots on target
+missed goal,spain_laliga/2015-2016/2015-10-24 - 17-00 Celta Vigo 1 - 3 Real Madrid,1,07:46,0.001,visible,Goal; Shots on target
+missed goal,england_epl/2015-2016/2016-01-23 - 20-30 West Ham 2 - 2 Manchester City,1,08:46,0.0,visible,Goal; Penalty; Shots on target
+missed goal,england_epl/2015-2016/2016-02-27 - 18-00 Southampton 1 - 2 Chelsea,2,29:33,0.0,visible,Goal; Shots on target
+missed goal,england_epl/2016-2017/2016-12-04 - 16-30 Bournemouth 4 - 3 Liverpool,2,10:48,0.0,visible,Goal; Penalty; Shots on target
+missed goal,europe_uefa-champions-league/2014-2015/2014-12-09 - 22-45 Galatasaray 1 - 4 Arsenal,2,42:23,0.0,visible,Direct free-kick; Goal; Shots on target
+missed goal,europe_uefa-champions-league/2014-2015/2014-12-09 - 22-45 Galatasaray 1 - 4 Arsenal,2,42:23,0.0,visible,Direct free-kick; Goal; Shots on target
+missed goal,europe_uefa-champions-league/2015-2016/2015-09-16 - 21-45 Olympiakos Piraeus 0 - 3 Bayern Munich,2,46:19,0.0,visible,Goal; Penalty; Shots on target
+missed goal,europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 FC Porto 2 - 1 Chelsea,2,06:10,0.0,visible,Corner; Goal; Shots on target
+missed goal,europe_uefa-champions-league/2015-2016/2015-11-24 - 20-00 BATE 1 - 1 Bayer Leverkusen,2,22:16,0.0,visible,Goal; Shots on target
+missed goal,france_ligue-1/2016-2017/2016-08-21 - 21-45 Paris SG 3 - 0 Metz,2,48:12,0.0,visible,Corner; Goal; Shots on target
+missed goal,italy_serie-a/2014-2015/2015-05-17 - 13-30 Sassuolo 3 - 2 AC Milan,1,32:26,0.0,visible,Goal; Shots on target
+missed goal,spain_laliga/2014-2015/2015-04-28 - 21-00 Barcelona 6 - 0 Getafe,1,08:45,0.0,visible,Goal; Penalty; Shots on target
+missed goal,spain_laliga/2014-2015/2015-05-23 - 21-30 Real Madrid 7 - 3 Getafe,1,41:19,0.0,visible,Corner; Goal; Shots on target
+missed goal,spain_laliga/2015-2016/2015-12-20 - 18-00 Real Madrid 1 - 0 Rayo Vallecano,2,33:55,0.0,visible,Goal; Shots on target
+missed goal,spain_laliga/2015-2016/2016-02-13 - 18-00 Real Madrid 4 - 2 Ath Bilbao,2,44:50,0.0,visible,Goal; Shots on target
+missed goal,spain_laliga/2016-2017/2016-08-21 - 21-15 Real Sociedad 0 - 3 Real Madrid,2,48:48,0.0,visible,Goal; Indirect free-kick; Shots on target
+missed goal,spain_laliga/2016-2017/2016-08-21 - 21-15 Real Sociedad 0 - 3 Real Madrid,2,48:49,0.0,visible,Goal; Indirect free-kick; Shots on target
+missed goal,spain_laliga/2016-2017/2016-10-15 - 17-15 Barcelona 4 - 0 Dep. La Coruna,1,20:17,0.0,visible,Goal; Shots on target
+missed goal,spain_laliga/2016-2017/2017-05-14 - 21-00 Las Palmas 1 - 4 Barcelona,2,17:29,0.0,visible,Goal

@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "goalspot"
+version = "0.1.0"
+description = "Goal detection and spotting on SoccerNet"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy",
+    "torch",
+    "scikit-learn",
+    "matplotlib",
+    "SoccerNet",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]

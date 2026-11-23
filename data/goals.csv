@@ -1,0 +1,1704 @@
+split,game,half,position_ms,visibility
+train,england_epl/2014-2015/2015-02-21 - 18-00 Chelsea 1 - 1 Burnley,1,790722,visible
+train,england_epl/2014-2015/2015-02-21 - 18-00 Chelsea 1 - 1 Burnley,2,2121494,visible
+train,england_epl/2014-2015/2015-02-21 - 18-00 Crystal Palace 1 - 2 Arsenal,1,426646,visible
+train,england_epl/2014-2015/2015-02-21 - 18-00 Crystal Palace 1 - 2 Arsenal,1,2708042,visible
+train,england_epl/2014-2015/2015-02-21 - 18-00 Crystal Palace 1 - 2 Arsenal,2,2913948,visible
+train,england_epl/2014-2015/2015-02-21 - 18-00 Swansea 2 - 1 Manchester United,1,1656477,visible
+train,england_epl/2014-2015/2015-02-21 - 18-00 Swansea 2 - 1 Manchester United,1,1772491,visible
+train,england_epl/2014-2015/2015-02-21 - 18-00 Swansea 2 - 1 Manchester United,2,1627793,visible
+train,england_epl/2014-2015/2015-02-22 - 19-15 Southampton 0 - 2 Liverpool,1,152023,visible
+train,england_epl/2014-2015/2015-02-22 - 19-15 Southampton 0 - 2 Liverpool,2,1669533,visible
+train,england_epl/2015-2016/2015-08-08 - 19-30 Chelsea 2 - 2 Swansea,1,1329040,visible
+train,england_epl/2015-2016/2015-08-08 - 19-30 Chelsea 2 - 2 Swansea,1,1696760,visible
+train,england_epl/2015-2016/2015-08-08 - 19-30 Chelsea 2 - 2 Swansea,1,1788600,visible
+train,england_epl/2015-2016/2015-08-08 - 19-30 Chelsea 2 - 2 Swansea,2,544391,visible
+train,england_epl/2015-2016/2015-08-29 - 17-00 Chelsea 1 - 2 Crystal Palace,2,1173280,visible
+train,england_epl/2015-2016/2015-08-29 - 17-00 Chelsea 1 - 2 Crystal Palace,2,2022320,visible
+train,england_epl/2015-2016/2015-08-29 - 17-00 Chelsea 1 - 2 Crystal Palace,2,2130080,visible
+train,england_epl/2015-2016/2015-08-29 - 17-00 Manchester City 2 - 0 Watford,2,88440,visible
+train,england_epl/2015-2016/2015-08-29 - 17-00 Manchester City 2 - 0 Watford,2,609840,visible
+train,england_epl/2015-2016/2015-09-12 - 14-45 Everton 3 - 1 Chelsea,1,977760,visible
+train,england_epl/2015-2016/2015-09-12 - 14-45 Everton 3 - 1 Chelsea,1,1280902,visible
+train,england_epl/2015-2016/2015-09-12 - 14-45 Everton 3 - 1 Chelsea,1,2110559,visible
+train,england_epl/2015-2016/2015-09-12 - 14-45 Everton 3 - 1 Chelsea,2,2215880,visible
+train,england_epl/2015-2016/2015-09-12 - 17-00 Crystal Palace 0 - 1 Manchester City,2,2673320,visible
+train,england_epl/2015-2016/2015-09-19 - 19-30 Manchester City 1 - 2 West Ham,1,320440,visible
+train,england_epl/2015-2016/2015-09-19 - 19-30 Manchester City 1 - 2 West Ham,1,1845800,visible
+train,england_epl/2015-2016/2015-09-19 - 19-30 Manchester City 1 - 2 West Ham,1,2772960,visible
+train,england_epl/2015-2016/2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,63311,visible
+train,england_epl/2015-2016/2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,778575,visible
+train,england_epl/2015-2016/2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,1210979,visible
+train,england_epl/2015-2016/2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,1278880,visible
+train,england_epl/2015-2016/2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,1499600,visible
+train,england_epl/2015-2016/2015-10-17 - 17-00 Chelsea 2 - 0 Aston Villa,1,2002239,visible
+train,england_epl/2015-2016/2015-10-17 - 17-00 Chelsea 2 - 0 Aston Villa,2,484000,visible
+train,england_epl/2015-2016/2015-10-31 - 15-45 Chelsea 1 - 3 Liverpool,1,201953,visible
+train,england_epl/2015-2016/2015-10-31 - 15-45 Chelsea 1 - 3 Liverpool,1,2843400,visible
+train,england_epl/2015-2016/2015-10-31 - 15-45 Chelsea 1 - 3 Liverpool,2,1716320,visible
+train,england_epl/2015-2016/2015-10-31 - 15-45 Chelsea 1 - 3 Liverpool,2,2227800,visible
+train,england_epl/2015-2016/2015-11-07 - 18-00 Manchester United 2 - 0 West Brom,2,387768,visible
+train,england_epl/2015-2016/2015-11-07 - 18-00 Manchester United 2 - 0 West Brom,2,2753000,visible
+train,england_epl/2015-2016/2015-11-21 - 20-30 Manchester City 1 - 4 Liverpool,1,415559,visible
+train,england_epl/2015-2016/2015-11-21 - 20-30 Manchester City 1 - 4 Liverpool,1,1351600,visible
+train,england_epl/2015-2016/2015-11-21 - 20-30 Manchester City 1 - 4 Liverpool,1,1899960,visible
+train,england_epl/2015-2016/2015-11-21 - 20-30 Manchester City 1 - 4 Liverpool,1,2589400,visible
+train,england_epl/2015-2016/2015-11-21 - 20-30 Manchester City 1 - 4 Liverpool,2,2140400,visible
+train,england_epl/2015-2016/2015-12-05 - 20-30 Chelsea 0 - 1 Bournemouth,2,2184960,visible
+train,england_epl/2015-2016/2015-12-19 - 18-00 Chelsea 3 - 1 Sunderland,1,293200,visible
+train,england_epl/2015-2016/2015-12-19 - 18-00 Chelsea 3 - 1 Sunderland,1,733880,visible
+train,england_epl/2015-2016/2015-12-19 - 18-00 Chelsea 3 - 1 Sunderland,2,255440,visible
+train,england_epl/2015-2016/2015-12-19 - 18-00 Chelsea 3 - 1 Sunderland,2,418320,visible
+train,england_epl/2015-2016/2015-12-26 - 18-00 Manchester City 4 - 1 Sunderland,1,715200,visible
+train,england_epl/2015-2016/2015-12-26 - 18-00 Manchester City 4 - 1 Sunderland,1,981720,visible
+train,england_epl/2015-2016/2015-12-26 - 18-00 Manchester City 4 - 1 Sunderland,1,1274760,visible
+train,england_epl/2015-2016/2015-12-26 - 18-00 Manchester City 4 - 1 Sunderland,2,487320,visible
+train,england_epl/2015-2016/2015-12-26 - 18-00 Manchester City 4 - 1 Sunderland,2,784640,visible
+train,england_epl/2015-2016/2016-01-03 - 16-30 Crystal Palace 0 - 3 Chelsea,1,1684000,visible
+train,england_epl/2015-2016/2016-01-03 - 16-30 Crystal Palace 0 - 3 Chelsea,2,888680,visible
+train,england_epl/2015-2016/2016-01-03 - 16-30 Crystal Palace 0 - 3 Chelsea,2,1240120,visible
+train,england_epl/2015-2016/2016-01-13 - 22-45 Chelsea 2 - 2 West Brom,1,1174280,visible
+train,england_epl/2015-2016/2016-01-13 - 22-45 Chelsea 2 - 2 West Brom,1,1963000,visible
+train,england_epl/2015-2016/2016-01-13 - 22-45 Chelsea 2 - 2 West Brom,2,1676000,visible
+train,england_epl/2015-2016/2016-01-13 - 22-45 Chelsea 2 - 2 West Brom,2,2398680,visible
+train,england_epl/2015-2016/2016-02-07 - 19-00 Chelsea 1 - 1 Manchester United,2,903640,visible
+train,england_epl/2015-2016/2016-02-07 - 19-00 Chelsea 1 - 1 Manchester United,2,2744880,visible
+train,england_epl/2015-2016/2016-02-14 - 19-15 Manchester City 1 - 2 Tottenham,2,476400,visible
+train,england_epl/2015-2016/2016-02-14 - 19-15 Manchester City 1 - 2 Tottenham,2,1718480,visible
+train,england_epl/2015-2016/2016-02-14 - 19-15 Manchester City 1 - 2 Tottenham,2,2262200,visible
+train,england_epl/2015-2016/2016-03-02 - 23-00 Liverpool 3 - 0 Manchester City,1,2001000,visible
+train,england_epl/2015-2016/2016-03-02 - 23-00 Liverpool 3 - 0 Manchester City,1,2412000,visible
+train,england_epl/2015-2016/2016-03-02 - 23-00 Liverpool 3 - 0 Manchester City,2,701960,visible
+train,england_epl/2015-2016/2016-03-05 - 18-00 Chelsea 1 - 1 Stoke City,1,2322800,visible
+train,england_epl/2015-2016/2016-03-05 - 18-00 Chelsea 1 - 1 Stoke City,2,2356920,visible
+train,england_epl/2015-2016/2016-03-19 - 18-00 Chelsea 2 - 2 West Ham,1,973640,visible
+train,england_epl/2015-2016/2016-03-19 - 18-00 Chelsea 2 - 2 West Ham,1,2859040,visible
+train,england_epl/2015-2016/2016-03-19 - 18-00 Chelsea 2 - 2 West Ham,2,950480,visible
+train,england_epl/2015-2016/2016-03-19 - 18-00 Chelsea 2 - 2 West Ham,2,2602800,visible
+train,england_epl/2015-2016/2016-04-09 - 17-00 Swansea 1 - 0 Chelsea,1,1488400,visible
+train,england_epl/2015-2016/2016-04-09 - 19-30 Manchester City 2 - 1 West Brom,1,301800,visible
+train,england_epl/2015-2016/2016-04-09 - 19-30 Manchester City 2 - 1 West Brom,1,1088520,visible
+train,england_epl/2015-2016/2016-04-09 - 19-30 Manchester City 2 - 1 West Brom,2,1226120,visible
+train,england_epl/2015-2016/2016-05-07 - 17-00 Sunderland 3 - 2 Chelsea,1,831880,visible
+train,england_epl/2015-2016/2016-05-07 - 17-00 Sunderland 3 - 2 Chelsea,1,2430689,visible
+train,england_epl/2015-2016/2016-05-07 - 17-00 Sunderland 3 - 2 Chelsea,1,2875327,visible
+train,england_epl/2015-2016/2016-05-07 - 17-00 Sunderland 3 - 2 Chelsea,2,1302602,visible
+train,england_epl/2015-2016/2016-05-07 - 17-00 Sunderland 3 - 2 Chelsea,2,1440538,visible
+train,england_epl/2016-2017/2016-08-14 - 18-00 Arsenal 3 - 4 Liverpool,1,1811677,visible
+train,england_epl/2016-2017/2016-08-14 - 18-00 Arsenal 3 - 4 Liverpool,1,2758999,visible
+train,england_epl/2016-2017/2016-08-14 - 18-00 Arsenal 3 - 4 Liverpool,2,209140,visible
+train,england_epl/2016-2017/2016-08-14 - 18-00 Arsenal 3 - 4 Liverpool,2,608372,visible
+train,england_epl/2016-2017/2016-08-14 - 18-00 Arsenal 3 - 4 Liverpool,2,1051163,visible
+train,england_epl/2016-2017/2016-08-14 - 18-00 Arsenal 3 - 4 Liverpool,2,1123046,visible
+train,england_epl/2016-2017/2016-08-14 - 18-00 Arsenal 3 - 4 Liverpool,2,1776213,visible
+train,england_epl/2016-2017/2016-08-20 - 17-00 Burnley 2 - 0 Liverpool,1,98603,visible
+train,england_epl/2016-2017/2016-08-20 - 17-00 Burnley 2 - 0 Liverpool,1,2198480,visible
+train,england_epl/2016-2017/2016-09-10 - 17-00 Arsenal 2 - 1 Southampton,1,1033640,visible
+train,england_epl/2016-2017/2016-09-10 - 17-00 Arsenal 2 - 1 Southampton,1,1709960,visible
+train,england_epl/2016-2017/2016-09-10 - 17-00 Arsenal 2 - 1 Southampton,2,2923360,visible
+train,england_epl/2016-2017/2016-09-16 - 22-00 Chelsea 1 - 2 Liverpool,1,984931,visible
+train,england_epl/2016-2017/2016-09-16 - 22-00 Chelsea 1 - 2 Liverpool,1,2137200,visible
+train,england_epl/2016-2017/2016-09-16 - 22-00 Chelsea 1 - 2 Liverpool,2,950000,visible
+train,england_epl/2016-2017/2016-09-17 - 17-00 Hull City 1 - 4 Arsenal,1,992854,visible
+train,england_epl/2016-2017/2016-09-17 - 17-00 Hull City 1 - 4 Arsenal,2,549273,visible
+train,england_epl/2016-2017/2016-09-17 - 17-00 Hull City 1 - 4 Arsenal,2,1990400,visible
+train,england_epl/2016-2017/2016-09-17 - 17-00 Hull City 1 - 4 Arsenal,2,2224560,visible
+train,england_epl/2016-2017/2016-09-17 - 17-00 Hull City 1 - 4 Arsenal,2,2796628,visible
+train,england_epl/2016-2017/2016-09-24 - 19-30 Arsenal 3 - 0 Chelsea,1,653931,visible
+train,england_epl/2016-2017/2016-09-24 - 19-30 Arsenal 3 - 0 Chelsea,1,793480,visible
+train,england_epl/2016-2017/2016-09-24 - 19-30 Arsenal 3 - 0 Chelsea,1,2375711,visible
+train,england_epl/2016-2017/2016-10-22 - 19-30 Liverpool 2 - 1 West Brom,1,1199221,visible
+train,england_epl/2016-2017/2016-10-22 - 19-30 Liverpool 2 - 1 West Brom,1,2073809,visible
+train,england_epl/2016-2017/2016-10-22 - 19-30 Liverpool 2 - 1 West Brom,2,2151560,visible
+train,england_epl/2016-2017/2016-10-29 - 14-30 Sunderland 1 - 4 Arsenal,1,1087807,visible
+train,england_epl/2016-2017/2016-10-29 - 14-30 Sunderland 1 - 4 Arsenal,2,1186920,visible
+train,england_epl/2016-2017/2016-10-29 - 14-30 Sunderland 1 - 4 Arsenal,2,1543640,visible
+train,england_epl/2016-2017/2016-10-29 - 14-30 Sunderland 1 - 4 Arsenal,2,1817440,visible
+train,england_epl/2016-2017/2016-10-29 - 14-30 Sunderland 1 - 4 Arsenal,2,1925680,visible
+train,england_epl/2016-2017/2016-10-29 - 17-00 Tottenham 1 - 1 Leicester,1,2593400,visible
+train,england_epl/2016-2017/2016-10-29 - 17-00 Tottenham 1 - 1 Leicester,2,140097,visible
+train,england_epl/2016-2017/2016-11-06 - 17-15 Liverpool 6 - 1 Watford,1,1572239,visible
+train,england_epl/2016-2017/2016-11-06 - 17-15 Liverpool 6 - 1 Watford,1,1768400,visible
+train,england_epl/2016-2017/2016-11-06 - 17-15 Liverpool 6 - 1 Watford,1,2527103,visible
+train,england_epl/2016-2017/2016-11-06 - 17-15 Liverpool 6 - 1 Watford,2,706400,visible
+train,england_epl/2016-2017/2016-11-06 - 17-15 Liverpool 6 - 1 Watford,2,890240,visible
+train,england_epl/2016-2017/2016-11-06 - 17-15 Liverpool 6 - 1 Watford,2,1771600,visible
+train,england_epl/2016-2017/2016-11-06 - 17-15 Liverpool 6 - 1 Watford,2,2706800,visible
+train,england_epl/2016-2017/2016-11-06 - 19-30 Leicester 1 - 2 West Brom,2,383520,visible
+train,england_epl/2016-2017/2016-11-06 - 19-30 Leicester 1 - 2 West Brom,2,564200,visible
+train,england_epl/2016-2017/2016-11-06 - 19-30 Leicester 1 - 2 West Brom,2,1599880,visible
+train,england_epl/2016-2017/2016-11-26 - 18-00 Liverpool 2 - 0 Sunderland,2,1784280,visible
+train,england_epl/2016-2017/2016-11-26 - 18-00 Liverpool 2 - 0 Sunderland,2,2709880,visible
+train,england_epl/2016-2017/2016-12-10 - 20-30 Leicester 4 - 2 Manchester City,1,123638,visible
+train,england_epl/2016-2017/2016-12-10 - 20-30 Leicester 4 - 2 Manchester City,1,257743,visible
+train,england_epl/2016-2017/2016-12-10 - 20-30 Leicester 4 - 2 Manchester City,1,1194440,visible
+train,england_epl/2016-2017/2016-12-10 - 20-30 Leicester 4 - 2 Manchester City,2,1965236,visible
+train,england_epl/2016-2017/2016-12-10 - 20-30 Leicester 4 - 2 Manchester City,2,2175960,visible
+train,england_epl/2016-2017/2016-12-10 - 20-30 Leicester 4 - 2 Manchester City,2,2672720,visible
+train,england_epl/2016-2017/2016-12-11 - 19-30 Liverpool 2 - 2 West Ham,1,249056,visible
+train,england_epl/2016-2017/2016-12-11 - 19-30 Liverpool 2 - 2 West Ham,1,1620507,visible
+train,england_epl/2016-2017/2016-12-11 - 19-30 Liverpool 2 - 2 West Ham,1,2308520,visible
+train,england_epl/2016-2017/2016-12-11 - 19-30 Liverpool 2 - 2 West Ham,2,122200,visible
+train,england_epl/2016-2017/2016-12-14 - 22-45 Middlesbrough 0 - 3 Liverpool,1,1705860,visible
+train,england_epl/2016-2017/2016-12-14 - 22-45 Middlesbrough 0 - 3 Liverpool,2,896192,visible
+train,england_epl/2016-2017/2016-12-14 - 22-45 Middlesbrough 0 - 3 Liverpool,2,1377075,visible
+train,england_epl/2016-2017/2016-12-19 - 23-00 Everton 0 - 1 Liverpool,2,2931667,visible
+train,england_epl/2016-2017/2016-12-27 - 20-15 Liverpool 4 - 1 Stoke City,1,704491,visible
+train,england_epl/2016-2017/2016-12-27 - 20-15 Liverpool 4 - 1 Stoke City,1,2040585,visible
+train,england_epl/2016-2017/2016-12-27 - 20-15 Liverpool 4 - 1 Stoke City,1,2594406,visible
+train,england_epl/2016-2017/2016-12-27 - 20-15 Liverpool 4 - 1 Stoke City,2,837179,visible
+train,england_epl/2016-2017/2016-12-27 - 20-15 Liverpool 4 - 1 Stoke City,2,1498128,visible
+train,england_epl/2016-2017/2016-12-31 - 20-30 Liverpool 1 - 0 Manchester City,1,457000,visible
+train,england_epl/2016-2017/2017-01-02 - 18-00 Sunderland 2 - 2 Liverpool,1,1139504,visible
+train,england_epl/2016-2017/2017-01-02 - 18-00 Sunderland 2 - 2 Liverpool,1,1484066,visible
+train,england_epl/2016-2017/2017-01-02 - 18-00 Sunderland 2 - 2 Liverpool,2,1578101,visible
+train,england_epl/2016-2017/2017-01-02 - 18-00 Sunderland 2 - 2 Liverpool,2,2323438,visible
+train,england_epl/2016-2017/2017-01-14 - 20-30 Leicester 0 - 3 Chelsea,1,339329,visible
+train,england_epl/2016-2017/2017-01-14 - 20-30 Leicester 0 - 3 Chelsea,2,348758,visible
+train,england_epl/2016-2017/2017-01-14 - 20-30 Leicester 0 - 3 Chelsea,2,1514375,visible
+train,england_epl/2016-2017/2017-01-15 - 19-00 Manchester United 1 - 1 Liverpool,1,1596859,visible
+train,england_epl/2016-2017/2017-01-15 - 19-00 Manchester United 1 - 1 Liverpool,2,2288993,visible
+train,england_epl/2016-2017/2017-01-31 - 23-00 Liverpool 1 - 1 Chelsea,1,1439829,visible
+train,england_epl/2016-2017/2017-01-31 - 23-00 Liverpool 1 - 1 Chelsea,2,716378,visible
+train,england_epl/2016-2017/2017-02-27 - 23-00 Leicester 3 - 1 Liverpool,1,1632654,visible
+train,england_epl/2016-2017/2017-02-27 - 23-00 Leicester 3 - 1 Liverpool,1,2284764,visible
+train,england_epl/2016-2017/2017-02-27 - 23-00 Leicester 3 - 1 Liverpool,2,881698,visible
+train,england_epl/2016-2017/2017-02-27 - 23-00 Leicester 3 - 1 Liverpool,2,1353473,visible
+train,england_epl/2016-2017/2017-04-26 - 21-45 Arsenal 1 - 0 Leicester,2,2446812,visible
+train,england_epl/2016-2017/2017-05-13 - 14-30 Manchester City 2 - 1 Leicester,1,1704446,visible
+train,england_epl/2016-2017/2017-05-13 - 14-30 Manchester City 2 - 1 Leicester,1,2124727,visible
+train,england_epl/2016-2017/2017-05-13 - 14-30 Manchester City 2 - 1 Leicester,1,2467317,visible
+train,europe_uefa-champions-league/2014-2015/2014-11-04 - 22-45 Arsenal 3 - 3 Anderlecht,1,1463125,visible
+train,europe_uefa-champions-league/2014-2015/2014-11-04 - 22-45 Arsenal 3 - 3 Anderlecht,1,1682178,visible
+train,europe_uefa-champions-league/2014-2015/2014-11-04 - 22-45 Arsenal 3 - 3 Anderlecht,2,755531,visible
+train,europe_uefa-champions-league/2014-2015/2014-11-04 - 22-45 Arsenal 3 - 3 Anderlecht,2,912836,visible
+train,europe_uefa-champions-league/2014-2015/2014-11-04 - 22-45 Arsenal 3 - 3 Anderlecht,2,1623762,visible
+train,europe_uefa-champions-league/2014-2015/2014-11-04 - 22-45 Arsenal 3 - 3 Anderlecht,2,2666000,visible
+train,europe_uefa-champions-league/2014-2015/2014-11-04 - 22-45 Arsenal 3 - 3 Anderlecht,2,2666690,visible
+train,europe_uefa-champions-league/2014-2015/2014-11-04 - 22-45 Dortmund 4 - 1 Galatasaray,1,2289021,visible
+train,europe_uefa-champions-league/2014-2015/2014-11-04 - 22-45 Dortmund 4 - 1 Galatasaray,2,599427,visible
+train,europe_uefa-champions-league/2014-2015/2014-11-04 - 22-45 Dortmund 4 - 1 Galatasaray,2,1467592,visible
+train,europe_uefa-champions-league/2014-2015/2014-11-04 - 22-45 Dortmund 4 - 1 Galatasaray,2,1726653,visible
+train,europe_uefa-champions-league/2014-2015/2014-11-04 - 22-45 Dortmund 4 - 1 Galatasaray,2,2393294,visible
+train,europe_uefa-champions-league/2014-2015/2014-11-05 - 22-45 Bayern Munich 2 - 0 AS Roma,1,2402874,visible
+train,europe_uefa-champions-league/2014-2015/2014-11-05 - 22-45 Bayern Munich 2 - 0 AS Roma,2,1119687,visible
+train,europe_uefa-champions-league/2014-2015/2014-12-09 - 22-45 Dortmund 1 - 1 Anderlecht,2,770579,visible
+train,europe_uefa-champions-league/2014-2015/2014-12-09 - 22-45 Dortmund 1 - 1 Anderlecht,2,2301262,visible
+train,europe_uefa-champions-league/2014-2015/2014-12-09 - 22-45 Liverpool 1 - 1 Basel,1,1450394,visible
+train,europe_uefa-champions-league/2014-2015/2014-12-09 - 22-45 Liverpool 1 - 1 Basel,2,2134091,visible
+train,europe_uefa-champions-league/2014-2015/2014-12-10 - 22-45 Barcelona 3 - 1 Paris SG,1,873857,visible
+train,europe_uefa-champions-league/2014-2015/2014-12-10 - 22-45 Barcelona 3 - 1 Paris SG,1,1109075,visible
+train,europe_uefa-champions-league/2014-2015/2014-12-10 - 22-45 Barcelona 3 - 1 Paris SG,1,2456523,visible
+train,europe_uefa-champions-league/2014-2015/2014-12-10 - 22-45 Barcelona 3 - 1 Paris SG,2,1884656,visible
+train,europe_uefa-champions-league/2014-2015/2014-12-10 - 22-45 Bayern Munich 3 - 0 CSKA Moscow,1,1027178,visible
+train,europe_uefa-champions-league/2014-2015/2014-12-10 - 22-45 Bayern Munich 3 - 0 CSKA Moscow,2,2280219,visible
+train,europe_uefa-champions-league/2014-2015/2014-12-10 - 22-45 Bayern Munich 3 - 0 CSKA Moscow,2,2685537,visible
+train,europe_uefa-champions-league/2014-2015/2015-02-17 - 22-45 Paris SG 1 - 1 Chelsea,1,2124032,visible
+train,europe_uefa-champions-league/2014-2015/2015-02-17 - 22-45 Paris SG 1 - 1 Chelsea,2,532000,visible
+train,europe_uefa-champions-league/2014-2015/2015-02-17 - 22-45 Paris SG 1 - 1 Chelsea,2,532069,visible
+train,europe_uefa-champions-league/2014-2015/2015-02-18 - 22-45 Schalke 0 - 2 Real Madrid,1,1547000,visible
+train,europe_uefa-champions-league/2014-2015/2015-02-18 - 22-45 Schalke 0 - 2 Real Madrid,1,1554007,visible
+train,europe_uefa-champions-league/2014-2015/2015-02-18 - 22-45 Schalke 0 - 2 Real Madrid,2,2014177,visible
+train,europe_uefa-champions-league/2014-2015/2015-02-25 - 22-45 Arsenal 1 - 3 Monaco,1,2259000,visible
+train,europe_uefa-champions-league/2014-2015/2015-02-25 - 22-45 Arsenal 1 - 3 Monaco,1,2259810,visible
+train,europe_uefa-champions-league/2014-2015/2015-02-25 - 22-45 Arsenal 1 - 3 Monaco,2,460000,visible
+train,europe_uefa-champions-league/2014-2015/2015-02-25 - 22-45 Arsenal 1 - 3 Monaco,2,460577,visible
+train,europe_uefa-champions-league/2014-2015/2015-02-25 - 22-45 Arsenal 1 - 3 Monaco,2,2706000,visible
+train,europe_uefa-champions-league/2014-2015/2015-02-25 - 22-45 Arsenal 1 - 3 Monaco,2,2706214,visible
+train,europe_uefa-champions-league/2014-2015/2015-02-25 - 22-45 Arsenal 1 - 3 Monaco,2,2903051,visible
+train,europe_uefa-champions-league/2014-2015/2015-02-25 - 22-45 Bayer Leverkusen 1 - 0 Atl. Madrid,2,664309,visible
+train,europe_uefa-champions-league/2014-2015/2015-02-25 - 22-45 Bayer Leverkusen 1 - 0 Atl. Madrid,2,665000,visible
+train,europe_uefa-champions-league/2014-2015/2015-03-10 - 22-45 FC Porto 4 - 0 Basel,1,782000,visible
+train,europe_uefa-champions-league/2014-2015/2015-03-10 - 22-45 FC Porto 4 - 0 Basel,1,782904,visible
+train,europe_uefa-champions-league/2014-2015/2015-03-10 - 22-45 FC Porto 4 - 0 Basel,2,109000,visible
+train,europe_uefa-champions-league/2014-2015/2015-03-10 - 22-45 FC Porto 4 - 0 Basel,2,109010,visible
+train,europe_uefa-champions-league/2014-2015/2015-03-10 - 22-45 FC Porto 4 - 0 Basel,2,635000,visible
+train,europe_uefa-champions-league/2014-2015/2015-03-10 - 22-45 FC Porto 4 - 0 Basel,2,635308,visible
+train,europe_uefa-champions-league/2014-2015/2015-03-10 - 22-45 FC Porto 4 - 0 Basel,2,1805000,visible
+train,europe_uefa-champions-league/2014-2015/2015-03-10 - 22-45 FC Porto 4 - 0 Basel,2,1805774,visible
+train,europe_uefa-champions-league/2014-2015/2015-03-18 - 22-45 Barcelona 1 - 0 Manchester City,1,1850000,visible
+train,europe_uefa-champions-league/2014-2015/2015-03-18 - 22-45 Barcelona 1 - 0 Manchester City,1,1850742,visible
+train,europe_uefa-champions-league/2014-2015/2015-03-18 - 22-45 Dortmund 0 - 3 Juventus,1,130679,visible
+train,europe_uefa-champions-league/2014-2015/2015-03-18 - 22-45 Dortmund 0 - 3 Juventus,2,1471000,visible
+train,europe_uefa-champions-league/2014-2015/2015-03-18 - 22-45 Dortmund 0 - 3 Juventus,2,1471353,visible
+train,europe_uefa-champions-league/2014-2015/2015-03-18 - 22-45 Dortmund 0 - 3 Juventus,2,2005000,visible
+train,europe_uefa-champions-league/2014-2015/2015-03-18 - 22-45 Dortmund 0 - 3 Juventus,2,2006063,visible
+train,europe_uefa-champions-league/2014-2015/2015-04-14 - 21-45 Juventus 1 - 0 Monaco,2,685828,visible
+train,europe_uefa-champions-league/2014-2015/2015-04-21 - 21-45 Bayern Munich 6 - 1 FC Porto,1,814693,visible
+train,europe_uefa-champions-league/2014-2015/2015-04-21 - 21-45 Bayern Munich 6 - 1 FC Porto,1,1305981,visible
+train,europe_uefa-champions-league/2014-2015/2015-04-21 - 21-45 Bayern Munich 6 - 1 FC Porto,1,1586889,visible
+train,europe_uefa-champions-league/2014-2015/2015-04-21 - 21-45 Bayern Munich 6 - 1 FC Porto,1,2103320,visible
+train,europe_uefa-champions-league/2014-2015/2015-04-21 - 21-45 Bayern Munich 6 - 1 FC Porto,1,2381182,visible
+train,europe_uefa-champions-league/2014-2015/2015-04-21 - 21-45 Bayern Munich 6 - 1 FC Porto,2,1668021,visible
+train,europe_uefa-champions-league/2014-2015/2015-04-21 - 21-45 Bayern Munich 6 - 1 FC Porto,2,2564000,visible
+train,europe_uefa-champions-league/2014-2015/2015-04-21 - 21-45 Bayern Munich 6 - 1 FC Porto,2,2564207,visible
+train,europe_uefa-champions-league/2014-2015/2015-05-06 - 21-45 Barcelona 3 - 0 Bayern Munich,2,1889134,visible
+train,europe_uefa-champions-league/2014-2015/2015-05-06 - 21-45 Barcelona 3 - 0 Bayern Munich,2,2091676,visible
+train,europe_uefa-champions-league/2014-2015/2015-05-06 - 21-45 Barcelona 3 - 0 Bayern Munich,2,2886000,visible
+train,europe_uefa-champions-league/2014-2015/2015-05-06 - 21-45 Barcelona 3 - 0 Bayern Munich,2,2886601,visible
+train,europe_uefa-champions-league/2014-2015/2015-05-12 - 21-45 Bayern Munich 3 - 2 Barcelona,1,406297,visible
+train,europe_uefa-champions-league/2014-2015/2015-05-12 - 21-45 Bayern Munich 3 - 2 Barcelona,1,856429,visible
+train,europe_uefa-champions-league/2014-2015/2015-05-12 - 21-45 Bayern Munich 3 - 2 Barcelona,1,1728122,visible
+train,europe_uefa-champions-league/2014-2015/2015-05-12 - 21-45 Bayern Munich 3 - 2 Barcelona,2,824981,visible
+train,europe_uefa-champions-league/2014-2015/2015-05-12 - 21-45 Bayern Munich 3 - 2 Barcelona,2,1698010,visible
+train,europe_uefa-champions-league/2015-2016/2015-09-15 - 21-45 Galatasaray 0 - 2 Atl. Madrid,1,1034560,visible
+train,europe_uefa-champions-league/2015-2016/2015-09-15 - 21-45 Galatasaray 0 - 2 Atl. Madrid,1,1444857,visible
+train,europe_uefa-champions-league/2015-2016/2015-09-15 - 21-45 Manchester City 1 - 2 Juventus,2,693064,visible
+train,europe_uefa-champions-league/2015-2016/2015-09-15 - 21-45 Manchester City 1 - 2 Juventus,2,1487596,visible
+train,europe_uefa-champions-league/2015-2016/2015-09-15 - 21-45 Manchester City 1 - 2 Juventus,2,2132000,visible
+train,europe_uefa-champions-league/2015-2016/2015-09-15 - 21-45 Paris SG 2 - 0 Malmo FF,1,232267,visible
+train,europe_uefa-champions-league/2015-2016/2015-09-15 - 21-45 Paris SG 2 - 0 Malmo FF,2,954638,visible
+train,europe_uefa-champions-league/2015-2016/2015-09-15 - 21-45 Real Madrid 4 - 0 Shakhtar Donetsk,1,1772600,visible
+train,europe_uefa-champions-league/2015-2016/2015-09-15 - 21-45 Real Madrid 4 - 0 Shakhtar Donetsk,2,576466,visible
+train,europe_uefa-champions-league/2015-2016/2015-09-15 - 21-45 Real Madrid 4 - 0 Shakhtar Donetsk,2,1074688,visible
+train,europe_uefa-champions-league/2015-2016/2015-09-15 - 21-45 Real Madrid 4 - 0 Shakhtar Donetsk,2,2126299,visible
+train,europe_uefa-champions-league/2015-2016/2015-09-15 - 21-45 Sevilla 3 - 0 B. Monchengladbach,2,101349,visible
+train,europe_uefa-champions-league/2015-2016/2015-09-15 - 21-45 Sevilla 3 - 0 B. Monchengladbach,2,1254861,visible
+train,europe_uefa-champions-league/2015-2016/2015-09-15 - 21-45 Sevilla 3 - 0 B. Monchengladbach,2,2294947,visible
+train,europe_uefa-champions-league/2015-2016/2015-09-16 - 21-45 AS Roma 1 - 1 Barcelona,1,1221480,visible
+train,europe_uefa-champions-league/2015-2016/2015-09-16 - 21-45 AS Roma 1 - 1 Barcelona,1,1838364,visible
+train,europe_uefa-champions-league/2015-2016/2015-09-16 - 21-45 Bayer Leverkusen 4 - 1 BATE,1,221600,visible
+train,europe_uefa-champions-league/2015-2016/2015-09-16 - 21-45 Bayer Leverkusen 4 - 1 BATE,1,737640,visible
+train,europe_uefa-champions-league/2015-2016/2015-09-16 - 21-45 Bayer Leverkusen 4 - 1 BATE,2,100410,visible
+train,europe_uefa-champions-league/2015-2016/2015-09-16 - 21-45 Bayer Leverkusen 4 - 1 BATE,2,778536,visible
+train,europe_uefa-champions-league/2015-2016/2015-09-16 - 21-45 Bayer Leverkusen 4 - 1 BATE,2,1773340,visible
+train,europe_uefa-champions-league/2015-2016/2015-09-16 - 21-45 Gent 1 - 1 Lyon,2,763600,visible
+train,europe_uefa-champions-league/2015-2016/2015-09-16 - 21-45 Gent 1 - 1 Lyon,2,1346240,visible
+train,europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 Arsenal 2 - 3 Olympiakos Piraeus,1,1916280,visible
+train,europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 Arsenal 2 - 3 Olympiakos Piraeus,1,2066120,visible
+train,europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 Arsenal 2 - 3 Olympiakos Piraeus,1,2362800,visible
+train,europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 Arsenal 2 - 3 Olympiakos Piraeus,2,1193320,visible
+train,europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 Arsenal 2 - 3 Olympiakos Piraeus,2,1253280,visible
+train,europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 Lyon 0 - 1 Valencia,1,2488385,visible
+train,europe_uefa-champions-league/2015-2016/2015-10-20 - 21-45 Arsenal 2 - 0 Bayern Munich,2,1887960,visible
+train,europe_uefa-champions-league/2015-2016/2015-10-20 - 21-45 Arsenal 2 - 0 Bayern Munich,2,2889040,visible
+train,europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 B. Monchengladbach 1 - 1 Juventus,1,1038457,visible
+train,europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 B. Monchengladbach 1 - 1 Juventus,1,2610680,visible
+train,europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 Manchester United 1 - 0 CSKA Moscow,2,2026280,visible
+train,europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 PSV 2 - 0 Wolfsburg,2,600389,visible
+train,europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 PSV 2 - 0 Wolfsburg,2,2423560,visible
+train,europe_uefa-champions-league/2015-2016/2015-11-04 - 22-45 Bayern Munich 5 - 1 Arsenal,1,587033,visible
+train,europe_uefa-champions-league/2015-2016/2015-11-04 - 22-45 Bayern Munich 5 - 1 Arsenal,1,1696120,visible
+train,europe_uefa-champions-league/2015-2016/2015-11-04 - 22-45 Bayern Munich 5 - 1 Arsenal,1,2596920,visible
+train,europe_uefa-champions-league/2015-2016/2015-11-04 - 22-45 Bayern Munich 5 - 1 Arsenal,2,578240,visible
+train,europe_uefa-champions-league/2015-2016/2015-11-04 - 22-45 Bayern Munich 5 - 1 Arsenal,2,1426480,visible
+train,europe_uefa-champions-league/2015-2016/2015-11-04 - 22-45 Bayern Munich 5 - 1 Arsenal,2,2618720,visible
+train,europe_uefa-champions-league/2015-2016/2015-11-04 - 22-45 Gent 1 - 0 Valencia,2,208520,visible
+train,europe_uefa-champions-league/2015-2016/2015-11-04 - 22-45 Lyon 0 - 2 Zenit Petersburg,1,1497856,visible
+train,europe_uefa-champions-league/2015-2016/2015-11-04 - 22-45 Lyon 0 - 2 Zenit Petersburg,2,710973,visible
+train,europe_uefa-champions-league/2015-2016/2015-11-04 - 22-45 Maccabi Tel Aviv 1 - 3 FC Porto,1,1105253,visible
+train,europe_uefa-champions-league/2015-2016/2015-11-04 - 22-45 Maccabi Tel Aviv 1 - 3 FC Porto,2,234160,visible
+train,europe_uefa-champions-league/2015-2016/2015-11-04 - 22-45 Maccabi Tel Aviv 1 - 3 FC Porto,2,1572320,visible
+train,europe_uefa-champions-league/2015-2016/2015-11-04 - 22-45 Maccabi Tel Aviv 1 - 3 FC Porto,2,1753200,visible
+train,europe_uefa-champions-league/2015-2016/2015-11-24 - 20-00 Zenit Petersburg 2 - 0 Valencia,1,874440,visible
+train,europe_uefa-champions-league/2015-2016/2015-11-24 - 20-00 Zenit Petersburg 2 - 0 Valencia,2,1733120,visible
+train,europe_uefa-champions-league/2015-2016/2015-11-24 - 22-45 Barcelona 6 - 1 AS Roma,1,874200,visible
+train,europe_uefa-champions-league/2015-2016/2015-11-24 - 22-45 Barcelona 6 - 1 AS Roma,1,1028560,visible
+train,europe_uefa-champions-league/2015-2016/2015-11-24 - 22-45 Barcelona 6 - 1 AS Roma,1,2613942,visible
+train,europe_uefa-champions-league/2015-2016/2015-11-24 - 22-45 Barcelona 6 - 1 AS Roma,2,839200,visible
+train,europe_uefa-champions-league/2015-2016/2015-11-24 - 22-45 Barcelona 6 - 1 AS Roma,2,1881160,visible
+train,europe_uefa-champions-league/2015-2016/2015-11-24 - 22-45 Barcelona 6 - 1 AS Roma,2,2745711,visible
+train,europe_uefa-champions-league/2015-2016/2015-11-24 - 22-45 Bayern Munich 4 - 0 Olympiakos Piraeus,1,454720,visible
+train,europe_uefa-champions-league/2015-2016/2015-11-24 - 22-45 Bayern Munich 4 - 0 Olympiakos Piraeus,1,914880,visible
+train,europe_uefa-champions-league/2015-2016/2015-11-24 - 22-45 Bayern Munich 4 - 0 Olympiakos Piraeus,1,1154960,visible
+train,europe_uefa-champions-league/2015-2016/2015-11-24 - 22-45 Bayern Munich 4 - 0 Olympiakos Piraeus,2,1437680,visible
+train,europe_uefa-champions-league/2015-2016/2015-11-24 - 22-45 FC Porto 0 - 2 Dyn. Kiev,1,2088320,visible
+train,europe_uefa-champions-league/2015-2016/2015-11-24 - 22-45 FC Porto 0 - 2 Dyn. Kiev,2,1085480,visible
+train,europe_uefa-champions-league/2015-2016/2015-11-24 - 22-45 Maccabi Tel Aviv 0 - 4 Chelsea,1,1188920,visible
+train,europe_uefa-champions-league/2015-2016/2015-11-24 - 22-45 Maccabi Tel Aviv 0 - 4 Chelsea,2,1647640,visible
+train,europe_uefa-champions-league/2015-2016/2015-11-24 - 22-45 Maccabi Tel Aviv 0 - 4 Chelsea,2,1868040,visible
+train,europe_uefa-champions-league/2015-2016/2015-11-24 - 22-45 Maccabi Tel Aviv 0 - 4 Chelsea,2,2737376,visible
+train,europe_uefa-champions-league/2015-2016/2015-11-25 - 20-00 CSKA Moscow 0 - 2 Wolfsburg,2,1276800,visible
+train,europe_uefa-champions-league/2015-2016/2015-11-25 - 20-00 CSKA Moscow 0 - 2 Wolfsburg,2,2535920,visible
+train,europe_uefa-champions-league/2015-2016/2015-11-25 - 22-45 Atl. Madrid 2 - 0 Galatasaray,1,722800,visible
+train,europe_uefa-champions-league/2015-2016/2015-11-25 - 22-45 Atl. Madrid 2 - 0 Galatasaray,2,1140720,visible
+train,europe_uefa-champions-league/2015-2016/2015-11-25 - 22-45 B. Monchengladbach 4 - 2 Sevilla,1,1705440,visible
+train,europe_uefa-champions-league/2015-2016/2015-11-25 - 22-45 B. Monchengladbach 4 - 2 Sevilla,2,1338280,visible
+train,europe_uefa-champions-league/2015-2016/2015-11-25 - 22-45 B. Monchengladbach 4 - 2 Sevilla,2,1938600,visible
+train,europe_uefa-champions-league/2015-2016/2015-11-25 - 22-45 B. Monchengladbach 4 - 2 Sevilla,2,2176000,visible
+train,europe_uefa-champions-league/2015-2016/2015-11-25 - 22-45 B. Monchengladbach 4 - 2 Sevilla,2,2249680,visible
+train,europe_uefa-champions-league/2015-2016/2015-11-25 - 22-45 B. Monchengladbach 4 - 2 Sevilla,2,2743232,visible
+train,europe_uefa-champions-league/2015-2016/2015-11-25 - 22-45 Malmo FF 0 - 5 Paris SG,1,175520,visible
+train,europe_uefa-champions-league/2015-2016/2015-11-25 - 22-45 Malmo FF 0 - 5 Paris SG,1,832160,visible
+train,europe_uefa-champions-league/2015-2016/2015-11-25 - 22-45 Malmo FF 0 - 5 Paris SG,2,242600,visible
+train,europe_uefa-champions-league/2015-2016/2015-11-25 - 22-45 Malmo FF 0 - 5 Paris SG,2,1326400,visible
+train,europe_uefa-champions-league/2015-2016/2015-11-25 - 22-45 Malmo FF 0 - 5 Paris SG,2,2171520,visible
+train,europe_uefa-champions-league/2015-2016/2015-12-09 - 22-45 D. Zagreb 0 - 2 Bayern Munich,2,950280,visible
+train,europe_uefa-champions-league/2015-2016/2015-12-09 - 22-45 D. Zagreb 0 - 2 Bayern Munich,2,1091080,visible
+train,europe_uefa-champions-league/2016-2017/2016-09-13 - 21-45 Barcelona 7 - 0 Celtic,1,164960,visible
+train,europe_uefa-champions-league/2016-2017/2016-09-13 - 21-45 Barcelona 7 - 0 Celtic,1,1596240,visible
+train,europe_uefa-champions-league/2016-2017/2016-09-13 - 21-45 Barcelona 7 - 0 Celtic,2,243440,visible
+train,europe_uefa-champions-league/2016-2017/2016-09-13 - 21-45 Barcelona 7 - 0 Celtic,2,805000,visible
+train,europe_uefa-champions-league/2016-2017/2016-09-13 - 21-45 Barcelona 7 - 0 Celtic,2,880720,visible
+train,europe_uefa-champions-league/2016-2017/2016-09-13 - 21-45 Barcelona 7 - 0 Celtic,2,1764360,visible
+train,europe_uefa-champions-league/2016-2017/2016-09-13 - 21-45 Barcelona 7 - 0 Celtic,2,2554200,visible
+train,europe_uefa-champions-league/2016-2017/2016-09-13 - 21-45 Dyn. Kiev 1 - 2 Napoli,1,1532840,visible
+train,europe_uefa-champions-league/2016-2017/2016-09-13 - 21-45 Dyn. Kiev 1 - 2 Napoli,1,2105120,visible
+train,europe_uefa-champions-league/2016-2017/2016-09-13 - 21-45 Dyn. Kiev 1 - 2 Napoli,1,2772360,visible
+train,europe_uefa-champions-league/2016-2017/2016-09-28 - 21-45 Ludogorets 1 - 3 Paris SG,1,895920,visible
+train,europe_uefa-champions-league/2016-2017/2016-09-28 - 21-45 Ludogorets 1 - 3 Paris SG,1,2401000,visible
+train,europe_uefa-champions-league/2016-2017/2016-09-28 - 21-45 Ludogorets 1 - 3 Paris SG,2,594160,visible
+train,europe_uefa-champions-league/2016-2017/2016-09-28 - 21-45 Ludogorets 1 - 3 Paris SG,2,893595,visible
+train,europe_uefa-champions-league/2016-2017/2016-10-19 - 21-45 Barcelona 4 - 0 Manchester City,1,966160,visible
+train,europe_uefa-champions-league/2016-2017/2016-10-19 - 21-45 Barcelona 4 - 0 Manchester City,2,914702,visible
+train,europe_uefa-champions-league/2016-2017/2016-10-19 - 21-45 Barcelona 4 - 0 Manchester City,2,1406200,visible
+train,europe_uefa-champions-league/2016-2017/2016-10-19 - 21-45 Barcelona 4 - 0 Manchester City,2,2625664,visible
+train,europe_uefa-champions-league/2016-2017/2016-11-23 - 22-45 Celtic 0 - 2 Barcelona,1,1409480,visible
+train,europe_uefa-champions-league/2016-2017/2016-11-23 - 22-45 Celtic 0 - 2 Barcelona,2,597760,visible
+train,europe_uefa-champions-league/2016-2017/2016-12-06 - 22-45 Benfica 1 - 2 Napoli,2,844027,visible
+train,europe_uefa-champions-league/2016-2017/2016-12-06 - 22-45 Benfica 1 - 2 Napoli,2,1995016,visible
+train,europe_uefa-champions-league/2016-2017/2016-12-06 - 22-45 Benfica 1 - 2 Napoli,2,2498920,visible
+train,europe_uefa-champions-league/2016-2017/2017-02-14 - 22-45 Paris SG 4 - 0 Barcelona,1,1070640,visible
+train,europe_uefa-champions-league/2016-2017/2017-02-14 - 22-45 Paris SG 4 - 0 Barcelona,1,2350812,visible
+train,europe_uefa-champions-league/2016-2017/2017-02-14 - 22-45 Paris SG 4 - 0 Barcelona,2,569789,visible
+train,europe_uefa-champions-league/2016-2017/2017-02-14 - 22-45 Paris SG 4 - 0 Barcelona,2,1557847,visible
+train,europe_uefa-champions-league/2016-2017/2017-02-15 - 22-45 Real Madrid 3 - 1 Napoli,1,445535,visible
+train,europe_uefa-champions-league/2016-2017/2017-02-15 - 22-45 Real Madrid 3 - 1 Napoli,1,1074856,visible
+train,europe_uefa-champions-league/2016-2017/2017-02-15 - 22-45 Real Madrid 3 - 1 Napoli,2,218058,visible
+train,europe_uefa-champions-league/2016-2017/2017-02-15 - 22-45 Real Madrid 3 - 1 Napoli,2,521248,visible
+train,europe_uefa-champions-league/2016-2017/2017-03-07 - 22-45 Napoli 1 - 3 Real Madrid,1,1415960,visible
+train,europe_uefa-champions-league/2016-2017/2017-03-07 - 22-45 Napoli 1 - 3 Real Madrid,2,355272,visible
+train,europe_uefa-champions-league/2016-2017/2017-03-07 - 22-45 Napoli 1 - 3 Real Madrid,2,680360,visible
+train,europe_uefa-champions-league/2016-2017/2017-03-07 - 22-45 Napoli 1 - 3 Real Madrid,2,2730080,visible
+train,europe_uefa-champions-league/2016-2017/2017-04-18 - 21-45 Real Madrid 4 - 2 Bayern Munich,2,430040,visible
+train,europe_uefa-champions-league/2016-2017/2017-04-18 - 21-45 Real Madrid 4 - 2 Bayern Munich,2,1811680,visible
+train,europe_uefa-champions-league/2016-2017/2017-04-18 - 21-45 Real Madrid 4 - 2 Bayern Munich,2,1914301,visible
+train,france_ligue-1/2014-2015/2015-04-05 - 22-00 Marseille 2 - 3 Paris SG,1,1771640,visible
+train,france_ligue-1/2014-2015/2015-04-05 - 22-00 Marseille 2 - 3 Paris SG,1,2071240,visible
+train,france_ligue-1/2014-2015/2015-04-05 - 22-00 Marseille 2 - 3 Paris SG,1,2521320,visible
+train,france_ligue-1/2014-2015/2015-04-05 - 22-00 Marseille 2 - 3 Paris SG,2,218587,visible
+train,france_ligue-1/2014-2015/2015-04-05 - 22-00 Marseille 2 - 3 Paris SG,2,348800,visible
+train,france_ligue-1/2015-2016/2015-09-26 - 18-30 Nantes 1 - 4 Paris SG,1,616048,visible
+train,france_ligue-1/2015-2016/2015-09-26 - 18-30 Nantes 1 - 4 Paris SG,2,135833,visible
+train,france_ligue-1/2015-2016/2015-09-26 - 18-30 Nantes 1 - 4 Paris SG,2,1641000,visible
+train,france_ligue-1/2015-2016/2015-09-26 - 18-30 Nantes 1 - 4 Paris SG,2,1641677,visible
+train,france_ligue-1/2015-2016/2015-09-26 - 18-30 Nantes 1 - 4 Paris SG,2,2052973,visible
+train,france_ligue-1/2015-2016/2015-09-26 - 18-30 Nantes 1 - 4 Paris SG,2,2053000,visible
+train,france_ligue-1/2015-2016/2015-09-26 - 18-30 Nantes 1 - 4 Paris SG,2,2693000,visible
+train,france_ligue-1/2015-2016/2015-09-26 - 18-30 Nantes 1 - 4 Paris SG,2,2693102,visible
+train,france_ligue-1/2015-2016/2015-11-07 - 19-00 Paris SG 5 - 0 Toulouse,1,344576,visible
+train,france_ligue-1/2015-2016/2015-11-07 - 19-00 Paris SG 5 - 0 Toulouse,1,1032000,visible
+train,france_ligue-1/2015-2016/2015-11-07 - 19-00 Paris SG 5 - 0 Toulouse,1,1033006,visible
+train,france_ligue-1/2015-2016/2015-11-07 - 19-00 Paris SG 5 - 0 Toulouse,2,1253625,visible
+train,france_ligue-1/2015-2016/2015-11-07 - 19-00 Paris SG 5 - 0 Toulouse,2,1748432,visible
+train,france_ligue-1/2015-2016/2015-11-07 - 19-00 Paris SG 5 - 0 Toulouse,2,1955051,visible
+train,france_ligue-1/2016-2017/2016-08-12 - 21-00 Bastia 0 - 1 Paris SG,2,1679233,visible
+train,france_ligue-1/2016-2017/2016-09-16 - 21-45 Caen 0 - 6 Paris SG,1,699387,visible
+train,france_ligue-1/2016-2017/2016-09-16 - 21-45 Caen 0 - 6 Paris SG,1,1329596,visible
+train,france_ligue-1/2016-2017/2016-09-16 - 21-45 Caen 0 - 6 Paris SG,1,2257440,visible
+train,france_ligue-1/2016-2017/2016-09-16 - 21-45 Caen 0 - 6 Paris SG,1,2757000,visible
+train,france_ligue-1/2016-2017/2016-09-16 - 21-45 Caen 0 - 6 Paris SG,2,1271177,visible
+train,france_ligue-1/2016-2017/2016-09-16 - 21-45 Caen 0 - 6 Paris SG,2,1971920,visible
+train,france_ligue-1/2016-2017/2016-09-23 - 21-45 Toulouse 2 - 0 Paris SG,2,143760,visible
+train,france_ligue-1/2016-2017/2016-09-23 - 21-45 Toulouse 2 - 0 Paris SG,2,2012560,visible
+train,france_ligue-1/2016-2017/2016-10-01 - 18-00 Paris SG 2 - 0 Bordeaux,1,133536,visible
+train,france_ligue-1/2016-2017/2016-10-01 - 18-00 Paris SG 2 - 0 Bordeaux,1,1787000,visible
+train,france_ligue-1/2016-2017/2016-10-01 - 18-00 Paris SG 2 - 0 Bordeaux,1,1787000,visible
+train,france_ligue-1/2016-2017/2016-10-15 - 18-00 Nancy 1 - 2 Paris SG,1,767796,visible
+train,france_ligue-1/2016-2017/2016-10-15 - 18-00 Nancy 1 - 2 Paris SG,1,1055160,visible
+train,france_ligue-1/2016-2017/2016-10-15 - 18-00 Nancy 1 - 2 Paris SG,2,587612,visible
+train,france_ligue-1/2016-2017/2016-10-28 - 21-45 Lille 0 - 1 Paris SG,2,1165400,visible
+train,france_ligue-1/2016-2017/2016-11-06 - 22-45 Paris SG 4 - 0 Rennes,1,1830560,visible
+train,france_ligue-1/2016-2017/2016-11-06 - 22-45 Paris SG 4 - 0 Rennes,1,2483000,visible
+train,france_ligue-1/2016-2017/2016-11-06 - 22-45 Paris SG 4 - 0 Rennes,2,1275000,visible
+train,france_ligue-1/2016-2017/2016-11-06 - 22-45 Paris SG 4 - 0 Rennes,2,2016587,visible
+train,france_ligue-1/2016-2017/2016-11-19 - 19-00 Paris SG 2 - 0 Nantes,1,768620,visible
+train,france_ligue-1/2016-2017/2016-11-19 - 19-00 Paris SG 2 - 0 Nantes,2,2660120,visible
+train,france_ligue-1/2016-2017/2016-11-27 - 22-45 Lyon 1 - 2 Paris SG,1,1749640,visible
+train,france_ligue-1/2016-2017/2016-11-27 - 22-45 Lyon 1 - 2 Paris SG,2,162880,visible
+train,france_ligue-1/2016-2017/2016-11-27 - 22-45 Lyon 1 - 2 Paris SG,2,2146000,visible
+train,france_ligue-1/2016-2017/2016-11-27 - 22-45 Lyon 1 - 2 Paris SG,2,2147280,visible
+train,france_ligue-1/2016-2017/2016-12-11 - 22-45 Paris SG 2 - 2 Nice,1,1886160,visible
+train,france_ligue-1/2016-2017/2016-12-11 - 22-45 Paris SG 2 - 2 Nice,1,2845440,visible
+train,france_ligue-1/2016-2017/2016-12-11 - 22-45 Paris SG 2 - 2 Nice,2,54240,visible
+train,france_ligue-1/2016-2017/2016-12-11 - 22-45 Paris SG 2 - 2 Nice,2,841160,visible
+train,france_ligue-1/2016-2017/2016-12-17 - 19-00 Guingamp 2 - 1 Paris SG,2,1203240,visible
+train,france_ligue-1/2016-2017/2016-12-17 - 19-00 Guingamp 2 - 1 Paris SG,2,1487960,visible
+train,france_ligue-1/2016-2017/2016-12-17 - 19-00 Guingamp 2 - 1 Paris SG,2,2055610,visible
+train,france_ligue-1/2016-2017/2016-12-21 - 22-50 Paris SG 5 - 0 Lorient,1,1452297,visible
+train,france_ligue-1/2016-2017/2016-12-21 - 22-50 Paris SG 5 - 0 Lorient,1,2635000,visible
+train,france_ligue-1/2016-2017/2016-12-21 - 22-50 Paris SG 5 - 0 Lorient,2,271421,visible
+train,france_ligue-1/2016-2017/2016-12-21 - 22-50 Paris SG 5 - 0 Lorient,2,1033040,visible
+train,france_ligue-1/2016-2017/2016-12-21 - 22-50 Paris SG 5 - 0 Lorient,2,1461760,visible
+train,france_ligue-1/2016-2017/2017-01-21 - 19-00 Nantes 0 - 2 Paris SG,1,1206824,visible
+train,france_ligue-1/2016-2017/2017-01-21 - 19-00 Nantes 0 - 2 Paris SG,2,1189080,visible
+train,france_ligue-1/2016-2017/2017-02-10 - 22-45 Bordeaux 0 - 3 Paris SG,1,330833,visible
+train,france_ligue-1/2016-2017/2017-02-10 - 22-45 Bordeaux 0 - 3 Paris SG,1,2390560,visible
+train,france_ligue-1/2016-2017/2017-02-10 - 22-45 Bordeaux 0 - 3 Paris SG,2,104133,visible
+train,france_ligue-1/2016-2017/2017-02-26 - 23-00 Marseille 1 - 5 Paris SG,1,334381,visible
+train,france_ligue-1/2016-2017/2017-02-26 - 23-00 Marseille 1 - 5 Paris SG,1,924560,visible
+train,france_ligue-1/2016-2017/2017-02-26 - 23-00 Marseille 1 - 5 Paris SG,2,258220,visible
+train,france_ligue-1/2016-2017/2017-02-26 - 23-00 Marseille 1 - 5 Paris SG,2,903360,visible
+train,france_ligue-1/2016-2017/2017-02-26 - 23-00 Marseille 1 - 5 Paris SG,2,1439080,visible
+train,france_ligue-1/2016-2017/2017-02-26 - 23-00 Marseille 1 - 5 Paris SG,2,1613320,visible
+train,france_ligue-1/2016-2017/2017-03-12 - 23-00 Lorient 1 - 2 Paris SG,1,1677150,visible
+train,france_ligue-1/2016-2017/2017-03-12 - 23-00 Lorient 1 - 2 Paris SG,2,368000,visible
+train,france_ligue-1/2016-2017/2017-03-12 - 23-00 Lorient 1 - 2 Paris SG,2,1371000,visible
+train,france_ligue-1/2016-2017/2017-03-19 - 23-00 Paris SG 2 - 1 Lyon,1,340784,visible
+train,france_ligue-1/2016-2017/2017-03-19 - 23-00 Paris SG 2 - 1 Lyon,1,1986320,visible
+train,france_ligue-1/2016-2017/2017-03-19 - 23-00 Paris SG 2 - 1 Lyon,1,2363906,visible
+train,france_ligue-1/2016-2017/2017-04-14 - 21-45 Angers 0 - 2 Paris SG,1,1652045,visible
+train,france_ligue-1/2016-2017/2017-04-14 - 21-45 Angers 0 - 2 Paris SG,2,2298784,visible
+train,france_ligue-1/2016-2017/2017-04-18 - 19-30 Metz 2 - 3 Paris SG,1,1940326,visible
+train,france_ligue-1/2016-2017/2017-04-18 - 19-30 Metz 2 - 3 Paris SG,1,2147392,visible
+train,france_ligue-1/2016-2017/2017-04-18 - 19-30 Metz 2 - 3 Paris SG,2,1978787,visible
+train,france_ligue-1/2016-2017/2017-04-18 - 19-30 Metz 2 - 3 Paris SG,2,2550048,visible
+train,france_ligue-1/2016-2017/2017-04-18 - 19-30 Metz 2 - 3 Paris SG,2,2849845,visible
+train,france_ligue-1/2016-2017/2017-04-22 - 18-00 Paris SG 2 - 0 Montpellier,1,1691237,visible
+train,france_ligue-1/2016-2017/2017-04-22 - 18-00 Paris SG 2 - 0 Montpellier,2,162425,visible
+train,france_ligue-1/2016-2017/2017-04-30 - 22-00 Nice 3 - 1 Paris SG,1,1502480,visible
+train,france_ligue-1/2016-2017/2017-04-30 - 22-00 Nice 3 - 1 Paris SG,2,163464,visible
+train,france_ligue-1/2016-2017/2017-04-30 - 22-00 Nice 3 - 1 Paris SG,2,1127818,visible
+train,france_ligue-1/2016-2017/2017-04-30 - 22-00 Nice 3 - 1 Paris SG,2,2784815,visible
+train,france_ligue-1/2016-2017/2017-05-06 - 18-00 Paris SG 5 - 0 Bastia,1,1915242,visible
+train,france_ligue-1/2016-2017/2017-05-06 - 18-00 Paris SG 5 - 0 Bastia,1,2044022,visible
+train,france_ligue-1/2016-2017/2017-05-06 - 18-00 Paris SG 5 - 0 Bastia,2,1817560,visible
+train,france_ligue-1/2016-2017/2017-05-06 - 18-00 Paris SG 5 - 0 Bastia,2,2199127,visible
+train,france_ligue-1/2016-2017/2017-05-06 - 18-00 Paris SG 5 - 0 Bastia,2,2611206,visible
+train,france_ligue-1/2016-2017/2017-05-20 - 22-00 Paris SG 1 - 1 Caen,1,738955,visible
+train,france_ligue-1/2016-2017/2017-05-20 - 22-00 Paris SG 1 - 1 Caen,2,2716265,visible
+train,germany_bundesliga/2014-2015/2015-02-21 - 17-30 Paderborn 0 - 6 Bayern Munich,1,1382945,visible
+train,germany_bundesliga/2014-2015/2015-02-21 - 17-30 Paderborn 0 - 6 Bayern Munich,1,2210369,visible
+train,germany_bundesliga/2014-2015/2015-02-21 - 17-30 Paderborn 0 - 6 Bayern Munich,2,1075010,visible
+train,germany_bundesliga/2014-2015/2015-02-21 - 17-30 Paderborn 0 - 6 Bayern Munich,2,1595240,visible
+train,germany_bundesliga/2014-2015/2015-02-21 - 17-30 Paderborn 0 - 6 Bayern Munich,2,1925220,visible
+train,germany_bundesliga/2014-2015/2015-02-21 - 17-30 Paderborn 0 - 6 Bayern Munich,2,2408480,visible
+train,germany_bundesliga/2014-2015/2015-04-11 - 16-30 Bayern Munich 3 - 0 Eintracht Frankfurt,1,857077,visible
+train,germany_bundesliga/2014-2015/2015-04-11 - 16-30 Bayern Munich 3 - 0 Eintracht Frankfurt,2,1212997,visible
+train,germany_bundesliga/2014-2015/2015-04-11 - 16-30 Bayern Munich 3 - 0 Eintracht Frankfurt,2,2181804,visible
+train,germany_bundesliga/2014-2015/2015-04-25 - 16-30 Dortmund 2 - 0 Eintracht Frankfurt,1,1436197,visible
+train,germany_bundesliga/2014-2015/2015-04-25 - 16-30 Dortmund 2 - 0 Eintracht Frankfurt,1,1868969,visible
+train,germany_bundesliga/2014-2015/2015-05-09 - 16-30 Dortmund 2 - 0 Hertha Berlin,1,512000,visible
+train,germany_bundesliga/2014-2015/2015-05-09 - 16-30 Dortmund 2 - 0 Hertha Berlin,1,512149,visible
+train,germany_bundesliga/2014-2015/2015-05-09 - 16-30 Dortmund 2 - 0 Hertha Berlin,2,72655,visible
+train,germany_bundesliga/2014-2015/2015-05-16 - 16-30 Wolfsburg 2 - 1 Dortmund,1,39294,visible
+train,germany_bundesliga/2014-2015/2015-05-16 - 16-30 Wolfsburg 2 - 1 Dortmund,1,628175,visible
+train,germany_bundesliga/2014-2015/2015-05-16 - 16-30 Wolfsburg 2 - 1 Dortmund,2,210000,visible
+train,germany_bundesliga/2014-2015/2015-05-16 - 16-30 Wolfsburg 2 - 1 Dortmund,2,210721,visible
+train,germany_bundesliga/2015-2016/2015-08-22 - 16-30 Hoffenheim 1 - 2 Bayern Munich,1,7391,visible
+train,germany_bundesliga/2015-2016/2015-08-22 - 16-30 Hoffenheim 1 - 2 Bayern Munich,1,2411423,visible
+train,germany_bundesliga/2015-2016/2015-08-22 - 16-30 Hoffenheim 1 - 2 Bayern Munich,2,2676400,visible
+train,germany_bundesliga/2015-2016/2015-08-30 - 16-30 Dortmund 3 - 1 Hertha Berlin,1,1596782,visible
+train,germany_bundesliga/2015-2016/2015-08-30 - 16-30 Dortmund 3 - 1 Hertha Berlin,2,326480,visible
+train,germany_bundesliga/2015-2016/2015-08-30 - 16-30 Dortmund 3 - 1 Hertha Berlin,2,1956480,visible
+train,germany_bundesliga/2015-2016/2015-08-30 - 16-30 Dortmund 3 - 1 Hertha Berlin,2,2841240,visible
+train,germany_bundesliga/2015-2016/2015-09-19 - 16-30 Darmstadt 0 - 3 Bayern Munich,1,1151757,visible
+train,germany_bundesliga/2015-2016/2015-09-19 - 16-30 Darmstadt 0 - 3 Bayern Munich,2,986973,visible
+train,germany_bundesliga/2015-2016/2015-09-19 - 16-30 Darmstadt 0 - 3 Bayern Munich,2,1069168,visible
+train,germany_bundesliga/2015-2016/2015-09-22 - 21-00 Bayern Munich 5 - 1 Wolfsburg,1,1548745,visible
+train,germany_bundesliga/2015-2016/2015-09-22 - 21-00 Bayern Munich 5 - 1 Wolfsburg,2,341833,visible
+train,germany_bundesliga/2015-2016/2015-09-22 - 21-00 Bayern Munich 5 - 1 Wolfsburg,2,402161,visible
+train,germany_bundesliga/2015-2016/2015-09-22 - 21-00 Bayern Munich 5 - 1 Wolfsburg,2,543824,visible
+train,germany_bundesliga/2015-2016/2015-09-22 - 21-00 Bayern Munich 5 - 1 Wolfsburg,2,684136,visible
+train,germany_bundesliga/2015-2016/2015-09-22 - 21-00 Bayern Munich 5 - 1 Wolfsburg,2,880799,visible
+train,germany_bundesliga/2015-2016/2015-09-26 - 16-30 1. FSV Mainz 05 0 - 3 Bayern Munich,2,334904,visible
+train,germany_bundesliga/2015-2016/2015-09-26 - 16-30 1. FSV Mainz 05 0 - 3 Bayern Munich,2,1057502,visible
+train,germany_bundesliga/2015-2016/2015-09-26 - 16-30 1. FSV Mainz 05 0 - 3 Bayern Munich,2,1333412,visible
+train,germany_bundesliga/2015-2016/2015-12-12 - 17-30 Bayern Munich 2 - 0 Ingolstadt,2,1165079,visible
+train,germany_bundesliga/2015-2016/2015-12-12 - 17-30 Bayern Munich 2 - 0 Ingolstadt,2,1775474,visible
+train,germany_bundesliga/2015-2016/2016-01-31 - 19-30 Bayern Munich 2 - 0 Hoffenheim,1,1908109,visible
+train,germany_bundesliga/2015-2016/2016-01-31 - 19-30 Bayern Munich 2 - 0 Hoffenheim,2,1119550,visible
+train,germany_bundesliga/2015-2016/2016-04-02 - 16-30 Bayern Munich 1 - 0 Eintracht Frankfurt,1,1160810,visible
+train,germany_bundesliga/2015-2016/2016-04-09 - 16-30 VfB Stuttgart 1 - 3 Bayern Munich,1,1817520,visible
+train,germany_bundesliga/2015-2016/2016-04-09 - 16-30 VfB Stuttgart 1 - 3 Bayern Munich,2,390195,visible
+train,germany_bundesliga/2015-2016/2016-04-09 - 16-30 VfB Stuttgart 1 - 3 Bayern Munich,2,1052712,visible
+train,germany_bundesliga/2015-2016/2016-04-09 - 16-30 VfB Stuttgart 1 - 3 Bayern Munich,2,2594099,visible
+train,germany_bundesliga/2015-2016/2016-04-16 - 19-30 Bayern Munich 3 - 0 Schalke,2,492738,visible
+train,germany_bundesliga/2015-2016/2016-04-16 - 19-30 Bayern Munich 3 - 0 Schalke,2,1144973,visible
+train,germany_bundesliga/2015-2016/2016-04-16 - 19-30 Bayern Munich 3 - 0 Schalke,2,1672339,visible
+train,germany_bundesliga/2016-2017/2016-09-17 - 16-30 Dortmund 6 - 0 Darmstadt,1,380542,visible
+train,germany_bundesliga/2016-2017/2016-09-17 - 16-30 Dortmund 6 - 0 Darmstadt,2,126184,visible
+train,germany_bundesliga/2016-2017/2016-09-17 - 16-30 Dortmund 6 - 0 Darmstadt,2,498681,visible
+train,germany_bundesliga/2016-2017/2016-09-17 - 16-30 Dortmund 6 - 0 Darmstadt,2,1953867,visible
+train,germany_bundesliga/2016-2017/2016-09-17 - 16-30 Dortmund 6 - 0 Darmstadt,2,2330440,visible
+train,germany_bundesliga/2016-2017/2016-09-17 - 16-30 Dortmund 6 - 0 Darmstadt,2,2553558,visible
+train,germany_bundesliga/2016-2017/2016-09-20 - 21-00 Wolfsburg 1 - 5 Dortmund,1,188176,visible
+train,germany_bundesliga/2016-2017/2016-09-20 - 21-00 Wolfsburg 1 - 5 Dortmund,1,957742,visible
+train,germany_bundesliga/2016-2017/2016-09-20 - 21-00 Wolfsburg 1 - 5 Dortmund,2,462660,visible
+train,germany_bundesliga/2016-2017/2016-09-20 - 21-00 Wolfsburg 1 - 5 Dortmund,2,768603,visible
+train,germany_bundesliga/2016-2017/2016-09-20 - 21-00 Wolfsburg 1 - 5 Dortmund,2,982814,visible
+train,germany_bundesliga/2016-2017/2016-09-20 - 21-00 Wolfsburg 1 - 5 Dortmund,2,1657000,visible
+train,germany_bundesliga/2016-2017/2016-09-23 - 21-30 Dortmund 3 - 1 SC Freiburg,1,2642851,visible
+train,germany_bundesliga/2016-2017/2016-09-23 - 21-30 Dortmund 3 - 1 SC Freiburg,2,430692,visible
+train,germany_bundesliga/2016-2017/2016-09-23 - 21-30 Dortmund 3 - 1 SC Freiburg,2,859591,visible
+train,germany_bundesliga/2016-2017/2016-09-23 - 21-30 Dortmund 3 - 1 SC Freiburg,2,2731548,visible
+train,germany_bundesliga/2016-2017/2016-10-14 - 21-30 Dortmund 1 - 1 Hertha Berlin,2,334640,visible
+train,germany_bundesliga/2016-2017/2016-10-14 - 21-30 Dortmund 1 - 1 Hertha Berlin,2,2091690,visible
+train,germany_bundesliga/2016-2017/2016-10-22 - 16-30 Ingolstadt 3 - 3 Dortmund,1,343091,visible
+train,germany_bundesliga/2016-2017/2016-10-22 - 16-30 Ingolstadt 3 - 3 Dortmund,1,1400649,visible
+train,germany_bundesliga/2016-2017/2016-10-22 - 16-30 Ingolstadt 3 - 3 Dortmund,2,799080,visible
+train,germany_bundesliga/2016-2017/2016-10-22 - 16-30 Ingolstadt 3 - 3 Dortmund,2,839478,visible
+train,germany_bundesliga/2016-2017/2016-10-22 - 16-30 Ingolstadt 3 - 3 Dortmund,2,1413795,visible
+train,germany_bundesliga/2016-2017/2016-10-22 - 16-30 Ingolstadt 3 - 3 Dortmund,2,2741041,visible
+train,germany_bundesliga/2016-2017/2016-11-26 - 17-30 Eintracht Frankfurt 2 - 1 Dortmund,2,16420,visible
+train,germany_bundesliga/2016-2017/2016-11-26 - 17-30 Eintracht Frankfurt 2 - 1 Dortmund,2,1914498,visible
+train,germany_bundesliga/2016-2017/2016-11-26 - 17-30 Eintracht Frankfurt 2 - 1 Dortmund,2,1980880,visible
+train,germany_bundesliga/2016-2017/2016-12-10 - 17-30 FC Koln 1 - 1 Dortmund,1,1671489,visible
+train,germany_bundesliga/2016-2017/2016-12-10 - 17-30 FC Koln 1 - 1 Dortmund,2,2674660,visible
+train,germany_bundesliga/2016-2017/2016-12-20 - 22-00 Dortmund 1 - 1 FC Augsburg,1,1951213,visible
+train,germany_bundesliga/2016-2017/2016-12-20 - 22-00 Dortmund 1 - 1 FC Augsburg,2,70885,visible
+train,germany_bundesliga/2016-2017/2017-02-04 - 20-30 Dortmund 1 - 0 RB Leipzig,1,2046933,visible
+train,germany_bundesliga/2016-2017/2017-02-11 - 17-30 Darmstadt 2 - 1 Dortmund,1,1230183,visible
+train,germany_bundesliga/2016-2017/2017-02-11 - 17-30 Darmstadt 2 - 1 Dortmund,1,2599908,visible
+train,germany_bundesliga/2016-2017/2017-02-11 - 17-30 Darmstadt 2 - 1 Dortmund,2,1273069,visible
+train,germany_bundesliga/2016-2017/2017-02-18 - 17-30 Dortmund 3 - 0 Wolfsburg,1,1159289,visible
+train,germany_bundesliga/2016-2017/2017-02-18 - 17-30 Dortmund 3 - 0 Wolfsburg,2,169956,visible
+train,germany_bundesliga/2016-2017/2017-02-18 - 17-30 Dortmund 3 - 0 Wolfsburg,2,828474,visible
+train,germany_bundesliga/2016-2017/2017-03-17 - 22-30 Dortmund 1 - 0 Ingolstadt,1,814170,visible
+train,germany_bundesliga/2016-2017/2017-04-01 - 16-30 Schalke 1 - 1 Dortmund,2,467854,visible
+train,germany_bundesliga/2016-2017/2017-04-01 - 16-30 Schalke 1 - 1 Dortmund,2,1873320,visible
+train,germany_bundesliga/2016-2017/2017-04-15 - 16-30 Dortmund 3 - 1 Eintracht Frankfurt,1,121294,visible
+train,germany_bundesliga/2016-2017/2017-04-15 - 16-30 Dortmund 3 - 1 Eintracht Frankfurt,1,1684400,visible
+train,germany_bundesliga/2016-2017/2017-04-15 - 16-30 Dortmund 3 - 1 Eintracht Frankfurt,1,2036240,visible
+train,germany_bundesliga/2016-2017/2017-04-15 - 16-30 Dortmund 3 - 1 Eintracht Frankfurt,2,2404600,visible
+train,germany_bundesliga/2016-2017/2017-05-13 - 16-30 FC Augsburg 1 - 1 Dortmund,1,1675678,visible
+train,germany_bundesliga/2016-2017/2017-05-13 - 16-30 FC Augsburg 1 - 1 Dortmund,1,1892932,visible
+train,italy_serie-a/2014-2015/2015-02-15 - 14-30 AC Milan 1 - 1 Empoli,1,2379020,visible
+train,italy_serie-a/2014-2015/2015-02-15 - 14-30 AC Milan 1 - 1 Empoli,2,1371127,visible
+train,italy_serie-a/2014-2015/2015-04-11 - 21-45 Verona 0 - 3 Inter,1,617216,visible
+train,italy_serie-a/2014-2015/2015-04-11 - 21-45 Verona 0 - 3 Inter,2,172284,visible
+train,italy_serie-a/2014-2015/2015-04-11 - 21-45 Verona 0 - 3 Inter,2,2784697,visible
+train,italy_serie-a/2014-2015/2015-04-25 - 21-45 Inter 2 - 1 AS Roma,1,894240,visible
+train,italy_serie-a/2014-2015/2015-04-25 - 21-45 Inter 2 - 1 AS Roma,2,1029440,visible
+train,italy_serie-a/2014-2015/2015-04-25 - 21-45 Inter 2 - 1 AS Roma,2,2540520,visible
+train,italy_serie-a/2014-2015/2015-04-26 - 16-00 Torino 2 - 1 Juventus,1,2059320,visible
+train,italy_serie-a/2014-2015/2015-04-26 - 16-00 Torino 2 - 1 Juventus,1,2650994,visible
+train,italy_serie-a/2014-2015/2015-04-26 - 16-00 Torino 2 - 1 Juventus,2,687560,visible
+train,italy_serie-a/2014-2015/2015-05-03 - 21-45 Napoli 3 - 0 AC Milan,2,1473840,visible
+train,italy_serie-a/2014-2015/2015-05-03 - 21-45 Napoli 3 - 0 AC Milan,2,1716080,visible
+train,italy_serie-a/2014-2015/2015-05-03 - 21-45 Napoli 3 - 0 AC Milan,2,1850160,visible
+train,italy_serie-a/2014-2015/2015-05-16 - 19-00 Inter 1 - 2 Juventus,1,518560,visible
+train,italy_serie-a/2014-2015/2015-05-16 - 19-00 Inter 1 - 2 Juventus,1,2514209,visible
+train,italy_serie-a/2014-2015/2015-05-16 - 19-00 Inter 1 - 2 Juventus,2,2240840,visible
+train,italy_serie-a/2015-2016/2015-09-20 - 13-30 Chievo 0 - 1 Inter,1,2464283,visible
+train,italy_serie-a/2015-2016/2015-09-22 - 21-45 Udinese 2 - 3 AC Milan,1,292043,visible
+train,italy_serie-a/2015-2016/2015-09-22 - 21-45 Udinese 2 - 3 AC Milan,1,592395,visible
+train,italy_serie-a/2015-2016/2015-09-22 - 21-45 Udinese 2 - 3 AC Milan,1,2738639,visible
+train,italy_serie-a/2015-2016/2015-09-22 - 21-45 Udinese 2 - 3 AC Milan,2,341699,visible
+train,italy_serie-a/2015-2016/2015-09-22 - 21-45 Udinese 2 - 3 AC Milan,2,727317,visible
+train,italy_serie-a/2015-2016/2015-11-01 - 22-45 Lazio 1 - 3 AC Milan,1,1475628,visible
+train,italy_serie-a/2015-2016/2015-11-01 - 22-45 Lazio 1 - 3 AC Milan,2,423701,visible
+train,italy_serie-a/2015-2016/2015-11-01 - 22-45 Lazio 1 - 3 AC Milan,2,2033764,visible
+train,italy_serie-a/2015-2016/2015-11-01 - 22-45 Lazio 1 - 3 AC Milan,2,2337968,visible
+train,italy_serie-a/2015-2016/2015-11-22 - 22-45 Inter 4 - 0 Frosinone,1,1714278,visible
+train,italy_serie-a/2015-2016/2015-11-22 - 22-45 Inter 4 - 0 Frosinone,2,452743,visible
+train,italy_serie-a/2015-2016/2015-11-22 - 22-45 Inter 4 - 0 Frosinone,2,2476078,visible
+train,italy_serie-a/2015-2016/2015-11-22 - 22-45 Inter 4 - 0 Frosinone,2,2788175,visible
+train,italy_serie-a/2016-2017/2016-08-21 - 21-45 Pescara 2 - 2 Napoli,1,467880,visible
+train,italy_serie-a/2016-2017/2016-08-21 - 21-45 Pescara 2 - 2 Napoli,1,2094000,visible
+train,italy_serie-a/2016-2017/2016-08-21 - 21-45 Pescara 2 - 2 Napoli,2,849278,visible
+train,italy_serie-a/2016-2017/2016-08-21 - 21-45 Pescara 2 - 2 Napoli,2,1039684,visible
+train,italy_serie-a/2016-2017/2016-08-28 - 21-45 Cagliari 2 - 2 AS Roma,1,336360,visible
+train,italy_serie-a/2016-2017/2016-08-28 - 21-45 Cagliari 2 - 2 AS Roma,2,52522,visible
+train,italy_serie-a/2016-2017/2016-08-28 - 21-45 Cagliari 2 - 2 AS Roma,2,649410,visible
+train,italy_serie-a/2016-2017/2016-08-28 - 21-45 Cagliari 2 - 2 AS Roma,2,2516776,visible
+train,italy_serie-a/2016-2017/2016-09-10 - 21-45 Palermo 0 - 3 Napoli,2,112000,visible
+train,italy_serie-a/2016-2017/2016-09-10 - 21-45 Palermo 0 - 3 Napoli,2,113025,visible
+train,italy_serie-a/2016-2017/2016-09-10 - 21-45 Palermo 0 - 3 Napoli,2,349962,visible
+train,italy_serie-a/2016-2017/2016-09-10 - 21-45 Palermo 0 - 3 Napoli,2,1195216,visible
+train,italy_serie-a/2016-2017/2016-09-16 - 21-45 Sampdoria 0 - 1 AC Milan,2,2377659,visible
+train,italy_serie-a/2016-2017/2016-09-17 - 21-45 Napoli 3 - 1 Bologna,1,789010,visible
+train,italy_serie-a/2016-2017/2016-09-17 - 21-45 Napoli 3 - 1 Bologna,2,653686,visible
+train,italy_serie-a/2016-2017/2016-09-17 - 21-45 Napoli 3 - 1 Bologna,2,1312755,visible
+train,italy_serie-a/2016-2017/2016-09-17 - 21-45 Napoli 3 - 1 Bologna,2,1313000,visible
+train,italy_serie-a/2016-2017/2016-09-17 - 21-45 Napoli 3 - 1 Bologna,2,1921516,visible
+train,italy_serie-a/2016-2017/2016-09-21 - 21-45 AS Roma 4 - 0 Crotone,1,1515770,visible
+train,italy_serie-a/2016-2017/2016-09-21 - 21-45 AS Roma 4 - 0 Crotone,1,2171832,visible
+train,italy_serie-a/2016-2017/2016-09-21 - 21-45 AS Roma 4 - 0 Crotone,2,156381,visible
+train,italy_serie-a/2016-2017/2016-09-21 - 21-45 AS Roma 4 - 0 Crotone,2,671395,visible
+train,italy_serie-a/2016-2017/2016-10-15 - 16-00 Napoli 1 - 3 AS Roma,1,2551692,visible
+train,italy_serie-a/2016-2017/2016-10-15 - 16-00 Napoli 1 - 3 AS Roma,2,505373,visible
+train,italy_serie-a/2016-2017/2016-10-15 - 16-00 Napoli 1 - 3 AS Roma,2,765475,visible
+train,italy_serie-a/2016-2017/2016-10-15 - 16-00 Napoli 1 - 3 AS Roma,2,2398199,visible
+train,italy_serie-a/2016-2017/2016-10-23 - 16-00 Crotone 1 - 2 Napoli,1,1010414,visible
+train,italy_serie-a/2016-2017/2016-10-23 - 16-00 Crotone 1 - 2 Napoli,1,1974660,visible
+train,italy_serie-a/2016-2017/2016-10-23 - 16-00 Crotone 1 - 2 Napoli,2,2614707,visible
+train,italy_serie-a/2016-2017/2016-10-23 - 21-45 AS Roma 4 - 1 Palermo,1,1838762,visible
+train,italy_serie-a/2016-2017/2016-10-23 - 21-45 AS Roma 4 - 1 Palermo,2,348026,visible
+train,italy_serie-a/2016-2017/2016-10-23 - 21-45 AS Roma 4 - 1 Palermo,2,1363593,visible
+train,italy_serie-a/2016-2017/2016-10-23 - 21-45 AS Roma 4 - 1 Palermo,2,2058170,visible
+train,italy_serie-a/2016-2017/2016-10-23 - 21-45 AS Roma 4 - 1 Palermo,2,2189006,visible
+train,italy_serie-a/2016-2017/2016-10-25 - 21-45 Genoa 3 - 0 AC Milan,1,627163,visible
+train,italy_serie-a/2016-2017/2016-10-25 - 21-45 Genoa 3 - 0 AC Milan,2,2049589,visible
+train,italy_serie-a/2016-2017/2016-10-25 - 21-45 Genoa 3 - 0 AC Milan,2,2432740,visible
+train,italy_serie-a/2016-2017/2016-10-26 - 21-45 Napoli 2 - 0 Empoli,2,330910,visible
+train,italy_serie-a/2016-2017/2016-10-26 - 21-45 Napoli 2 - 0 Empoli,2,2123447,visible
+train,italy_serie-a/2016-2017/2016-10-26 - 21-45 Sassuolo 1 - 3 AS Roma,1,708999,visible
+train,italy_serie-a/2016-2017/2016-10-26 - 21-45 Sassuolo 1 - 3 AS Roma,2,670469,visible
+train,italy_serie-a/2016-2017/2016-10-26 - 21-45 Sassuolo 1 - 3 AS Roma,2,1828078,visible
+train,italy_serie-a/2016-2017/2016-10-26 - 21-45 Sassuolo 1 - 3 AS Roma,2,1935298,visible
+train,italy_serie-a/2016-2017/2016-10-30 - 17-00 AC Milan 1 - 0 Pescara,2,194234,visible
+train,italy_serie-a/2016-2017/2016-11-06 - 17-00 Palermo 1 - 2 AC Milan,1,861599,visible
+train,italy_serie-a/2016-2017/2016-11-06 - 17-00 Palermo 1 - 2 AC Milan,2,1547998,visible
+train,italy_serie-a/2016-2017/2016-11-06 - 17-00 Palermo 1 - 2 AC Milan,2,2175863,visible
+train,italy_serie-a/2016-2017/2016-11-06 - 22-45 AS Roma 3 - 0 Bologna,1,724454,visible
+train,italy_serie-a/2016-2017/2016-11-06 - 22-45 AS Roma 3 - 0 Bologna,2,1010941,visible
+train,italy_serie-a/2016-2017/2016-11-06 - 22-45 AS Roma 3 - 0 Bologna,2,1511291,visible
+train,italy_serie-a/2016-2017/2016-11-20 - 22-45 AC Milan 2 - 2 Inter,1,2519690,visible
+train,italy_serie-a/2016-2017/2016-11-20 - 22-45 AC Milan 2 - 2 Inter,2,434757,visible
+train,italy_serie-a/2016-2017/2016-11-20 - 22-45 AC Milan 2 - 2 Inter,2,733877,visible
+train,italy_serie-a/2016-2017/2016-11-20 - 22-45 AC Milan 2 - 2 Inter,2,2794777,visible
+train,italy_serie-a/2016-2017/2016-11-27 - 22-45 AS Roma 3 - 2 Pescara,1,397720,visible
+train,italy_serie-a/2016-2017/2016-11-27 - 22-45 AS Roma 3 - 2 Pescara,1,595160,visible
+train,italy_serie-a/2016-2017/2016-11-27 - 22-45 AS Roma 3 - 2 Pescara,2,882240,visible
+train,italy_serie-a/2016-2017/2016-11-27 - 22-45 AS Roma 3 - 2 Pescara,2,1502107,visible
+train,italy_serie-a/2016-2017/2016-11-27 - 22-45 AS Roma 3 - 2 Pescara,2,1697920,visible
+train,italy_serie-a/2016-2017/2016-12-04 - 14-30 AC Milan 2 - 1 Crotone,1,1543606,visible
+train,italy_serie-a/2016-2017/2016-12-04 - 14-30 AC Milan 2 - 1 Crotone,1,2413435,visible
+train,italy_serie-a/2016-2017/2016-12-04 - 14-30 AC Milan 2 - 1 Crotone,2,2443840,visible
+train,italy_serie-a/2016-2017/2016-12-22 - 22-45 AS Roma 3 - 1 Chievo,1,2181069,visible
+train,italy_serie-a/2016-2017/2016-12-22 - 22-45 AS Roma 3 - 1 Chievo,1,2735804,visible
+train,italy_serie-a/2016-2017/2016-12-22 - 22-45 AS Roma 3 - 1 Chievo,2,398638,visible
+train,italy_serie-a/2016-2017/2016-12-22 - 22-45 AS Roma 3 - 1 Chievo,2,2823122,visible
+train,italy_serie-a/2016-2017/2017-01-08 - 20-00 AC Milan 1 - 0 Cagliari,2,2533760,visible
+train,italy_serie-a/2016-2017/2017-01-15 - 17-00 Napoli 3 - 1 Pescara,2,80538,visible
+train,italy_serie-a/2016-2017/2017-01-15 - 17-00 Napoli 3 - 1 Pescara,2,223689,visible
+train,italy_serie-a/2016-2017/2017-01-15 - 17-00 Napoli 3 - 1 Pescara,2,2393578,visible
+train,italy_serie-a/2016-2017/2017-01-15 - 17-00 Napoli 3 - 1 Pescara,2,2922000,visible
+train,italy_serie-a/2016-2017/2017-01-15 - 17-00 Napoli 3 - 1 Pescara,2,2922866,visible
+train,italy_serie-a/2016-2017/2017-01-15 - 17-00 Udinese 0 - 1 AS Roma,1,685736,visible
+train,italy_serie-a/2016-2017/2017-01-21 - 22-45 AC Milan 1 - 2 Napoli,1,307464,visible
+train,italy_serie-a/2016-2017/2017-01-21 - 22-45 AC Milan 1 - 2 Napoli,1,495000,visible
+train,italy_serie-a/2016-2017/2017-01-21 - 22-45 AC Milan 1 - 2 Napoli,1,2183200,visible
+train,italy_serie-a/2016-2017/2017-02-04 - 22-45 Bologna 1 - 7 Napoli,1,228556,visible
+train,italy_serie-a/2016-2017/2017-02-04 - 22-45 Bologna 1 - 7 Napoli,1,336009,visible
+train,italy_serie-a/2016-2017/2017-02-04 - 22-45 Bologna 1 - 7 Napoli,1,1963646,visible
+train,italy_serie-a/2016-2017/2017-02-04 - 22-45 Bologna 1 - 7 Napoli,1,2123960,visible
+train,italy_serie-a/2016-2017/2017-02-04 - 22-45 Bologna 1 - 7 Napoli,1,2554542,visible
+train,italy_serie-a/2016-2017/2017-02-04 - 22-45 Bologna 1 - 7 Napoli,2,1480097,visible
+train,italy_serie-a/2016-2017/2017-02-04 - 22-45 Bologna 1 - 7 Napoli,2,1695902,visible
+train,italy_serie-a/2016-2017/2017-02-04 - 22-45 Bologna 1 - 7 Napoli,2,2650129,visible
+train,italy_serie-a/2016-2017/2017-02-10 - 22-45 Napoli 2 - 0 Genoa,2,265841,visible
+train,italy_serie-a/2016-2017/2017-02-10 - 22-45 Napoli 2 - 0 Genoa,2,1331560,visible
+train,italy_serie-a/2016-2017/2017-02-12 - 14-30 Crotone 0 - 2 AS Roma,1,2347038,visible
+train,italy_serie-a/2016-2017/2017-02-12 - 14-30 Crotone 0 - 2 AS Roma,2,1883360,visible
+train,italy_serie-a/2016-2017/2017-02-19 - 20-00 AS Roma 4 - 1 Torino,1,569588,visible
+train,italy_serie-a/2016-2017/2017-02-19 - 20-00 AS Roma 4 - 1 Torino,1,992747,visible
+train,italy_serie-a/2016-2017/2017-02-19 - 20-00 AS Roma 4 - 1 Torino,2,1176120,visible
+train,italy_serie-a/2016-2017/2017-02-19 - 20-00 AS Roma 4 - 1 Torino,2,2334360,visible
+train,italy_serie-a/2016-2017/2017-02-19 - 20-00 AS Roma 4 - 1 Torino,2,2754600,visible
+train,italy_serie-a/2016-2017/2017-03-04 - 17-00 AS Roma 1 - 2 Napoli,1,1537628,visible
+train,italy_serie-a/2016-2017/2017-03-04 - 17-00 AS Roma 1 - 2 Napoli,2,245321,visible
+train,italy_serie-a/2016-2017/2017-03-04 - 17-00 AS Roma 1 - 2 Napoli,2,2621647,visible
+train,italy_serie-a/2016-2017/2017-03-12 - 17-00 Napoli 3 - 0 Crotone,1,1853838,visible
+train,italy_serie-a/2016-2017/2017-03-12 - 17-00 Napoli 3 - 0 Crotone,2,1207808,visible
+train,italy_serie-a/2016-2017/2017-03-12 - 17-00 Napoli 3 - 0 Crotone,2,1453945,visible
+train,italy_serie-a/2016-2017/2017-03-19 - 14-30 Empoli 2 - 3 Napoli,1,1127785,visible
+train,italy_serie-a/2016-2017/2017-03-19 - 14-30 Empoli 2 - 3 Napoli,1,1387080,visible
+train,italy_serie-a/2016-2017/2017-03-19 - 14-30 Empoli 2 - 3 Napoli,1,2248769,visible
+train,italy_serie-a/2016-2017/2017-03-19 - 14-30 Empoli 2 - 3 Napoli,2,1460732,visible
+train,italy_serie-a/2016-2017/2017-03-19 - 14-30 Empoli 2 - 3 Napoli,2,2200184,visible
+train,italy_serie-a/2016-2017/2017-03-19 - 22-45 AS Roma 3 - 1 Sassuolo,1,483530,visible
+train,italy_serie-a/2016-2017/2017-03-19 - 22-45 AS Roma 3 - 1 Sassuolo,1,947709,visible
+train,italy_serie-a/2016-2017/2017-03-19 - 22-45 AS Roma 3 - 1 Sassuolo,1,2815081,visible
+train,italy_serie-a/2016-2017/2017-03-19 - 22-45 AS Roma 3 - 1 Sassuolo,2,1357483,visible
+train,italy_serie-a/2016-2017/2017-04-09 - 16-00 Bologna 0 - 3 AS Roma,1,1494221,visible
+train,italy_serie-a/2016-2017/2017-04-09 - 16-00 Bologna 0 - 3 AS Roma,1,2421509,visible
+train,italy_serie-a/2016-2017/2017-04-09 - 16-00 Bologna 0 - 3 AS Roma,2,1754073,visible
+train,italy_serie-a/2016-2017/2017-04-09 - 21-45 Lazio 0 - 3 Napoli,1,1496883,visible
+train,italy_serie-a/2016-2017/2017-04-09 - 21-45 Lazio 0 - 3 Napoli,2,341244,visible
+train,italy_serie-a/2016-2017/2017-04-09 - 21-45 Lazio 0 - 3 Napoli,2,2771762,visible
+train,italy_serie-a/2016-2017/2017-04-15 - 16-00 AS Roma 1 - 1 Atalanta,1,1296822,visible
+train,italy_serie-a/2016-2017/2017-04-15 - 16-00 AS Roma 1 - 1 Atalanta,2,249835,visible
+train,italy_serie-a/2016-2017/2017-04-23 - 13-30 Sassuolo 2 - 2 Napoli,2,386951,visible
+train,italy_serie-a/2016-2017/2017-04-23 - 13-30 Sassuolo 2 - 2 Napoli,2,796572,visible
+train,italy_serie-a/2016-2017/2017-04-23 - 13-30 Sassuolo 2 - 2 Napoli,2,2092610,visible
+train,italy_serie-a/2016-2017/2017-04-23 - 13-30 Sassuolo 2 - 2 Napoli,2,2337954,visible
+train,italy_serie-a/2016-2017/2017-04-24 - 21-45 Pescara 1 - 4 AS Roma,1,2600371,visible
+train,italy_serie-a/2016-2017/2017-04-24 - 21-45 Pescara 1 - 4 AS Roma,1,2681884,visible
+train,italy_serie-a/2016-2017/2017-04-24 - 21-45 Pescara 1 - 4 AS Roma,2,151782,visible
+train,italy_serie-a/2016-2017/2017-04-24 - 21-45 Pescara 1 - 4 AS Roma,2,844613,visible
+train,italy_serie-a/2016-2017/2017-04-24 - 21-45 Pescara 1 - 4 AS Roma,2,2245879,visible
+train,italy_serie-a/2016-2017/2017-05-07 - 21-45 AC Milan 1 - 4 AS Roma,1,440143,visible
+train,italy_serie-a/2016-2017/2017-05-07 - 21-45 AC Milan 1 - 4 AS Roma,1,1646035,visible
+train,italy_serie-a/2016-2017/2017-05-07 - 21-45 AC Milan 1 - 4 AS Roma,2,1806476,visible
+train,italy_serie-a/2016-2017/2017-05-07 - 21-45 AC Milan 1 - 4 AS Roma,2,1925525,visible
+train,italy_serie-a/2016-2017/2017-05-07 - 21-45 AC Milan 1 - 4 AS Roma,2,2478650,visible
+train,italy_serie-a/2016-2017/2017-05-14 - 16-00 Torino 0 - 5 Napoli,1,373524,visible
+train,italy_serie-a/2016-2017/2017-05-14 - 16-00 Torino 0 - 5 Napoli,2,844675,visible
+train,italy_serie-a/2016-2017/2017-05-14 - 16-00 Torino 0 - 5 Napoli,2,1587639,visible
+train,italy_serie-a/2016-2017/2017-05-14 - 16-00 Torino 0 - 5 Napoli,2,1841516,visible
+train,italy_serie-a/2016-2017/2017-05-14 - 16-00 Torino 0 - 5 Napoli,2,1964175,visible
+train,italy_serie-a/2016-2017/2017-05-14 - 21-45 AS Roma 3 - 1 Juventus,1,1228728,visible
+train,italy_serie-a/2016-2017/2017-05-14 - 21-45 AS Roma 3 - 1 Juventus,1,1447480,visible
+train,italy_serie-a/2016-2017/2017-05-14 - 21-45 AS Roma 3 - 1 Juventus,2,624198,visible
+train,italy_serie-a/2016-2017/2017-05-14 - 21-45 AS Roma 3 - 1 Juventus,2,1193902,visible
+train,italy_serie-a/2016-2017/2017-05-20 - 19-00 Chievo 3 - 5 AS Roma,1,856516,visible
+train,italy_serie-a/2016-2017/2017-05-20 - 19-00 Chievo 3 - 5 AS Roma,1,1647244,visible
+train,italy_serie-a/2016-2017/2017-05-20 - 19-00 Chievo 3 - 5 AS Roma,1,2211120,visible
+train,italy_serie-a/2016-2017/2017-05-20 - 19-00 Chievo 3 - 5 AS Roma,1,2516068,visible
+train,italy_serie-a/2016-2017/2017-05-20 - 19-00 Chievo 3 - 5 AS Roma,2,750346,visible
+train,italy_serie-a/2016-2017/2017-05-20 - 19-00 Chievo 3 - 5 AS Roma,2,1860495,visible
+train,italy_serie-a/2016-2017/2017-05-20 - 19-00 Chievo 3 - 5 AS Roma,2,2243471,visible
+train,italy_serie-a/2016-2017/2017-05-20 - 19-00 Chievo 3 - 5 AS Roma,2,2452345,not shown
+train,italy_serie-a/2016-2017/2017-05-28 - 19-00 AS Roma 3 - 2 Genoa,1,127643,visible
+train,italy_serie-a/2016-2017/2017-05-28 - 19-00 AS Roma 3 - 2 Genoa,1,586083,visible
+train,italy_serie-a/2016-2017/2017-05-28 - 19-00 AS Roma 3 - 2 Genoa,2,1690372,visible
+train,italy_serie-a/2016-2017/2017-05-28 - 19-00 AS Roma 3 - 2 Genoa,2,2018144,visible
+train,italy_serie-a/2016-2017/2017-05-28 - 19-00 AS Roma 3 - 2 Genoa,2,2676328,visible
+train,italy_serie-a/2016-2017/2017-05-28 - 19-00 Sampdoria 2 - 4 Napoli,1,2106460,visible
+train,italy_serie-a/2016-2017/2017-05-28 - 19-00 Sampdoria 2 - 4 Napoli,1,2503792,visible
+train,italy_serie-a/2016-2017/2017-05-28 - 19-00 Sampdoria 2 - 4 Napoli,2,225106,visible
+train,italy_serie-a/2016-2017/2017-05-28 - 19-00 Sampdoria 2 - 4 Napoli,2,290948,visible
+train,italy_serie-a/2016-2017/2017-05-28 - 19-00 Sampdoria 2 - 4 Napoli,2,1153721,visible
+train,italy_serie-a/2016-2017/2017-05-28 - 19-00 Sampdoria 2 - 4 Napoli,2,2647038,visible
+train,spain_laliga/2014-2015/2015-02-21 - 18-00 Barcelona 0 - 1 Malaga,1,414760,visible
+train,spain_laliga/2014-2015/2015-02-22 - 23-00 Elche 0 - 2 Real Madrid,2,640640,visible
+train,spain_laliga/2014-2015/2015-02-22 - 23-00 Elche 0 - 2 Real Madrid,2,1399440,visible
+train,spain_laliga/2014-2015/2015-05-09 - 21-00 Real Madrid 2 - 2 Valencia,1,1130855,visible
+train,spain_laliga/2014-2015/2015-05-09 - 21-00 Real Madrid 2 - 2 Valencia,1,1514640,visible
+train,spain_laliga/2014-2015/2015-05-09 - 21-00 Real Madrid 2 - 2 Valencia,2,636450,visible
+train,spain_laliga/2014-2015/2015-05-09 - 21-00 Real Madrid 2 - 2 Valencia,2,2285442,visible
+train,spain_laliga/2014-2015/2015-05-17 - 20-00 Atl. Madrid 0 - 1 Barcelona,2,1188560,visible
+train,spain_laliga/2014-2015/2015-05-17 - 20-00 Espanyol 1 - 4 Real Madrid,1,2650599,visible
+train,spain_laliga/2014-2015/2015-05-17 - 20-00 Espanyol 1 - 4 Real Madrid,2,814160,visible
+train,spain_laliga/2014-2015/2015-05-17 - 20-00 Espanyol 1 - 4 Real Madrid,2,1655880,visible
+train,spain_laliga/2014-2015/2015-05-17 - 20-00 Espanyol 1 - 4 Real Madrid,2,1994969,visible
+train,spain_laliga/2014-2015/2015-05-17 - 20-00 Espanyol 1 - 4 Real Madrid,2,2232994,visible
+train,spain_laliga/2014-2015/2015-05-17 - 20-00 Espanyol 1 - 4 Real Madrid,2,2704721,visible
+train,spain_laliga/2014-2015/2015-05-23 - 19-30 Barcelona 2 - 2 Dep. La Coruna,1,267000,visible
+train,spain_laliga/2014-2015/2015-05-23 - 19-30 Barcelona 2 - 2 Dep. La Coruna,2,828160,visible
+train,spain_laliga/2014-2015/2015-05-23 - 19-30 Barcelona 2 - 2 Dep. La Coruna,2,1289440,visible
+train,spain_laliga/2014-2015/2015-05-23 - 19-30 Barcelona 2 - 2 Dep. La Coruna,2,1820160,visible
+train,spain_laliga/2015-2016/2015-08-29 - 21-30 Barcelona 1 - 0 Malaga,2,1626718,visible
+train,spain_laliga/2015-2016/2015-09-12 - 17-00 Espanyol 0 - 6 Real Madrid,1,403655,visible
+train,spain_laliga/2015-2016/2015-09-12 - 17-00 Espanyol 0 - 6 Real Madrid,1,994397,visible
+train,spain_laliga/2015-2016/2015-09-12 - 17-00 Espanyol 0 - 6 Real Madrid,1,1167915,visible
+train,spain_laliga/2015-2016/2015-09-12 - 17-00 Espanyol 0 - 6 Real Madrid,1,1672760,visible
+train,spain_laliga/2015-2016/2015-09-12 - 17-00 Espanyol 0 - 6 Real Madrid,2,959920,visible
+train,spain_laliga/2015-2016/2015-09-12 - 17-00 Espanyol 0 - 6 Real Madrid,2,2106440,visible
+train,spain_laliga/2015-2016/2015-09-23 - 22-00 Ath Bilbao 1 - 2 Real Madrid,1,1119480,visible
+train,spain_laliga/2015-2016/2015-09-23 - 22-00 Ath Bilbao 1 - 2 Real Madrid,2,1316440,visible
+train,spain_laliga/2015-2016/2015-09-23 - 22-00 Ath Bilbao 1 - 2 Real Madrid,2,1477760,visible
+train,spain_laliga/2015-2016/2015-10-04 - 21-30 Atl. Madrid 1 - 1 Real Madrid,1,493800,visible
+train,spain_laliga/2015-2016/2015-10-04 - 21-30 Atl. Madrid 1 - 1 Real Madrid,2,2273274,visible
+train,spain_laliga/2015-2016/2015-11-21 - 20-15 Real Madrid 0 - 4 Barcelona,1,604240,visible
+train,spain_laliga/2015-2016/2015-11-21 - 20-15 Real Madrid 0 - 4 Barcelona,1,2315370,visible
+train,spain_laliga/2015-2016/2015-11-21 - 20-15 Real Madrid 0 - 4 Barcelona,2,437840,visible
+train,spain_laliga/2015-2016/2015-11-21 - 20-15 Real Madrid 0 - 4 Barcelona,2,1720960,visible
+train,spain_laliga/2015-2016/2015-11-29 - 18-00 Eibar 0 - 2 Real Madrid,1,2547451,visible
+train,spain_laliga/2015-2016/2015-11-29 - 18-00 Eibar 0 - 2 Real Madrid,2,2193240,visible
+train,spain_laliga/2015-2016/2016-01-24 - 22-30 Betis 1 - 1 Real Madrid,1,380855,visible
+train,spain_laliga/2015-2016/2016-01-24 - 22-30 Betis 1 - 1 Real Madrid,2,1525111,visible
+train,spain_laliga/2015-2016/2016-01-31 - 22-30 Real Madrid 6 - 0 Espanyol,1,412948,visible
+train,spain_laliga/2015-2016/2016-01-31 - 22-30 Real Madrid 6 - 0 Espanyol,1,667960,visible
+train,spain_laliga/2015-2016/2016-01-31 - 22-30 Real Madrid 6 - 0 Espanyol,1,925272,visible
+train,spain_laliga/2015-2016/2016-01-31 - 22-30 Real Madrid 6 - 0 Espanyol,1,2684000,visible
+train,spain_laliga/2015-2016/2016-01-31 - 22-30 Real Madrid 6 - 0 Espanyol,2,2173204,visible
+train,spain_laliga/2015-2016/2016-01-31 - 22-30 Real Madrid 6 - 0 Espanyol,2,2436080,visible
+train,spain_laliga/2015-2016/2016-02-07 - 22-30 Granada CF 1 - 2 Real Madrid,1,1793312,visible
+train,spain_laliga/2015-2016/2016-02-07 - 22-30 Granada CF 1 - 2 Real Madrid,2,855760,visible
+train,spain_laliga/2015-2016/2016-02-07 - 22-30 Granada CF 1 - 2 Real Madrid,2,2338945,visible
+train,spain_laliga/2015-2016/2016-02-21 - 18-00 Malaga 1 - 1 Real Madrid,1,1943370,visible
+train,spain_laliga/2015-2016/2016-02-21 - 18-00 Malaga 1 - 1 Real Madrid,2,1249320,visible
+train,spain_laliga/2015-2016/2016-03-05 - 18-00 Real Madrid 7 - 1 Celta Vigo,1,2407348,visible
+train,spain_laliga/2015-2016/2016-03-05 - 18-00 Real Madrid 7 - 1 Celta Vigo,2,277928,visible
+train,spain_laliga/2015-2016/2016-03-05 - 18-00 Real Madrid 7 - 1 Celta Vigo,2,725680,visible
+train,spain_laliga/2015-2016/2016-03-05 - 18-00 Real Madrid 7 - 1 Celta Vigo,2,999643,visible
+train,spain_laliga/2015-2016/2016-03-05 - 18-00 Real Madrid 7 - 1 Celta Vigo,2,1134919,visible
+train,spain_laliga/2015-2016/2016-03-05 - 18-00 Real Madrid 7 - 1 Celta Vigo,2,1835245,visible
+train,spain_laliga/2015-2016/2016-03-05 - 18-00 Real Madrid 7 - 1 Celta Vigo,2,1916920,visible
+train,spain_laliga/2015-2016/2016-03-05 - 18-00 Real Madrid 7 - 1 Celta Vigo,2,2143220,visible
+train,spain_laliga/2015-2016/2016-03-13 - 22-30 Las Palmas 1 - 2 Real Madrid,1,1418279,visible
+train,spain_laliga/2015-2016/2016-03-13 - 22-30 Las Palmas 1 - 2 Real Madrid,2,2493800,visible
+train,spain_laliga/2015-2016/2016-03-13 - 22-30 Las Palmas 1 - 2 Real Madrid,2,2618000,visible
+train,spain_laliga/2015-2016/2016-04-02 - 21-30 Barcelona 1 - 2 Real Madrid,2,644316,visible
+train,spain_laliga/2015-2016/2016-04-02 - 21-30 Barcelona 1 - 2 Real Madrid,2,1015520,visible
+train,spain_laliga/2015-2016/2016-04-02 - 21-30 Barcelona 1 - 2 Real Madrid,2,2375240,visible
+train,spain_laliga/2015-2016/2016-04-09 - 17-00 Real Madrid 4 - 0 Eibar,1,250960,visible
+train,spain_laliga/2015-2016/2016-04-09 - 17-00 Real Madrid 4 - 0 Eibar,1,1027480,visible
+train,spain_laliga/2015-2016/2016-04-09 - 17-00 Real Madrid 4 - 0 Eibar,1,1136240,visible
+train,spain_laliga/2015-2016/2016-04-09 - 17-00 Real Madrid 4 - 0 Eibar,1,2304600,visible
+train,spain_laliga/2015-2016/2016-04-16 - 17-00 Getafe 1 - 5 Real Madrid,1,1727040,visible
+train,spain_laliga/2015-2016/2016-04-16 - 17-00 Getafe 1 - 5 Real Madrid,1,2357520,visible
+train,spain_laliga/2015-2016/2016-04-16 - 17-00 Getafe 1 - 5 Real Madrid,2,248540,visible
+train,spain_laliga/2015-2016/2016-04-16 - 17-00 Getafe 1 - 5 Real Madrid,2,2280568,visible
+train,spain_laliga/2015-2016/2016-04-16 - 17-00 Getafe 1 - 5 Real Madrid,2,2529867,visible
+train,spain_laliga/2015-2016/2016-04-16 - 17-00 Getafe 1 - 5 Real Madrid,2,2774680,visible
+train,spain_laliga/2015-2016/2016-04-20 - 23-00 Real Madrid 3 - 0 Villarreal,1,2414917,visible
+train,spain_laliga/2015-2016/2016-04-20 - 23-00 Real Madrid 3 - 0 Villarreal,2,1384185,visible
+train,spain_laliga/2015-2016/2016-04-20 - 23-00 Real Madrid 3 - 0 Villarreal,2,1843605,visible
+train,spain_laliga/2015-2016/2016-04-30 - 17-00 Real Sociedad 0 - 1 Real Madrid,2,2041984,visible
+train,spain_laliga/2016-2017/2016-08-20 - 19-15 Barcelona 6 - 2 Betis,1,346162,visible
+train,spain_laliga/2016-2017/2016-08-20 - 19-15 Barcelona 6 - 2 Betis,1,1220365,visible
+train,spain_laliga/2016-2017/2016-08-20 - 19-15 Barcelona 6 - 2 Betis,1,2202985,visible
+train,spain_laliga/2016-2017/2016-08-20 - 19-15 Barcelona 6 - 2 Betis,1,2501788,visible
+train,spain_laliga/2016-2017/2016-08-20 - 19-15 Barcelona 6 - 2 Betis,2,633960,visible
+train,spain_laliga/2016-2017/2016-08-20 - 19-15 Barcelona 6 - 2 Betis,2,717967,visible
+train,spain_laliga/2016-2017/2016-08-20 - 19-15 Barcelona 6 - 2 Betis,2,2168533,visible
+train,spain_laliga/2016-2017/2016-08-20 - 19-15 Barcelona 6 - 2 Betis,2,2291866,visible
+train,spain_laliga/2016-2017/2016-08-27 - 21-15 Real Madrid 2 - 1 Celta Vigo,2,858777,visible
+train,spain_laliga/2016-2017/2016-08-27 - 21-15 Real Madrid 2 - 1 Celta Vigo,2,1281414,visible
+train,spain_laliga/2016-2017/2016-08-27 - 21-15 Real Madrid 2 - 1 Celta Vigo,2,2155471,visible
+train,spain_laliga/2016-2017/2016-08-28 - 21-15 Ath Bilbao 0 - 1 Barcelona,1,1241531,visible
+train,spain_laliga/2016-2017/2016-09-18 - 21-45 Espanyol 0 - 2 Real Madrid,1,2779040,visible
+train,spain_laliga/2016-2017/2016-09-18 - 21-45 Espanyol 0 - 2 Real Madrid,2,1504586,visible
+train,spain_laliga/2016-2017/2016-09-21 - 23-00 Barcelona 1 - 1 Atl. Madrid,1,2415411,visible
+train,spain_laliga/2016-2017/2016-09-21 - 23-00 Barcelona 1 - 1 Atl. Madrid,2,909770,visible
+train,spain_laliga/2016-2017/2016-10-02 - 17-15 Real Madrid 1 - 1 Eibar,1,308369,visible
+train,spain_laliga/2016-2017/2016-10-02 - 17-15 Real Madrid 1 - 1 Eibar,1,1018840,visible
+train,spain_laliga/2016-2017/2016-10-15 - 21-45 Betis 1 - 6 Real Madrid,1,189124,visible
+train,spain_laliga/2016-2017/2016-10-15 - 21-45 Betis 1 - 6 Real Madrid,1,1856400,visible
+train,spain_laliga/2016-2017/2016-10-15 - 21-45 Betis 1 - 6 Real Madrid,1,2334520,visible
+train,spain_laliga/2016-2017/2016-10-15 - 21-45 Betis 1 - 6 Real Madrid,1,2686640,visible
+train,spain_laliga/2016-2017/2016-10-15 - 21-45 Betis 1 - 6 Real Madrid,2,589320,visible
+train,spain_laliga/2016-2017/2016-10-15 - 21-45 Betis 1 - 6 Real Madrid,2,1003440,visible
+train,spain_laliga/2016-2017/2016-10-15 - 21-45 Betis 1 - 6 Real Madrid,2,1968707,visible
+train,spain_laliga/2016-2017/2016-10-22 - 17-15 Valencia 2 - 3 Barcelona,1,1308440,visible
+train,spain_laliga/2016-2017/2016-10-22 - 17-15 Valencia 2 - 3 Barcelona,2,417040,visible
+train,spain_laliga/2016-2017/2016-10-22 - 17-15 Valencia 2 - 3 Barcelona,2,647840,visible
+train,spain_laliga/2016-2017/2016-10-22 - 17-15 Valencia 2 - 3 Barcelona,2,970520,visible
+train,spain_laliga/2016-2017/2016-10-22 - 17-15 Valencia 2 - 3 Barcelona,2,2902800,visible
+train,spain_laliga/2016-2017/2016-10-29 - 17-15 Alaves 1 - 4 Real Madrid,1,409481,visible
+train,spain_laliga/2016-2017/2016-10-29 - 17-15 Alaves 1 - 4 Real Madrid,1,975480,visible
+train,spain_laliga/2016-2017/2016-10-29 - 17-15 Alaves 1 - 4 Real Madrid,1,1963240,visible
+train,spain_laliga/2016-2017/2016-10-29 - 17-15 Alaves 1 - 4 Real Madrid,2,2307271,visible
+train,spain_laliga/2016-2017/2016-10-29 - 17-15 Alaves 1 - 4 Real Madrid,2,2551160,visible
+train,spain_laliga/2016-2017/2016-10-29 - 21-45 Barcelona 1 - 0 Granada CF,2,176320,visible
+train,spain_laliga/2016-2017/2016-11-06 - 14-00 Real Madrid 3 - 0 Leganes,1,2262425,visible
+train,spain_laliga/2016-2017/2016-11-06 - 14-00 Real Madrid 3 - 0 Leganes,1,2721600,visible
+train,spain_laliga/2016-2017/2016-11-06 - 14-00 Real Madrid 3 - 0 Leganes,2,1854560,visible
+train,spain_laliga/2016-2017/2016-11-19 - 22-45 Atl. Madrid 0 - 3 Real Madrid,1,1337725,visible
+train,spain_laliga/2016-2017/2016-11-19 - 22-45 Atl. Madrid 0 - 3 Real Madrid,2,1537720,visible
+train,spain_laliga/2016-2017/2016-11-19 - 22-45 Atl. Madrid 0 - 3 Real Madrid,2,1881800,visible
+train,spain_laliga/2016-2017/2016-11-27 - 22-45 Real Sociedad 1 - 1 Barcelona,2,456120,visible
+train,spain_laliga/2016-2017/2016-11-27 - 22-45 Real Sociedad 1 - 1 Barcelona,2,820560,visible
+train,spain_laliga/2016-2017/2016-12-03 - 18-15 Barcelona 1 - 1 Real Madrid,2,443021,visible
+train,spain_laliga/2016-2017/2016-12-03 - 18-15 Barcelona 1 - 1 Real Madrid,2,2689000,visible
+train,spain_laliga/2016-2017/2016-12-10 - 22-45 Real Madrid 3 - 2 Dep. La Coruna,2,292000,visible
+train,spain_laliga/2016-2017/2016-12-10 - 22-45 Real Madrid 3 - 2 Dep. La Coruna,2,292000,visible
+train,spain_laliga/2016-2017/2016-12-10 - 22-45 Real Madrid 3 - 2 Dep. La Coruna,2,1040280,visible
+train,spain_laliga/2016-2017/2016-12-10 - 22-45 Real Madrid 3 - 2 Dep. La Coruna,2,1172053,visible
+train,spain_laliga/2016-2017/2016-12-10 - 22-45 Real Madrid 3 - 2 Dep. La Coruna,2,2311000,visible
+train,spain_laliga/2016-2017/2016-12-10 - 22-45 Real Madrid 3 - 2 Dep. La Coruna,2,2311593,visible
+train,spain_laliga/2016-2017/2016-12-10 - 22-45 Real Madrid 3 - 2 Dep. La Coruna,2,2813000,visible
+train,spain_laliga/2016-2017/2017-01-08 - 22-45 Villarreal 1 - 1 Barcelona,2,241704,visible
+train,spain_laliga/2016-2017/2017-01-08 - 22-45 Villarreal 1 - 1 Barcelona,2,2675710,visible
+train,spain_laliga/2016-2017/2017-01-14 - 18-15 Barcelona 5 - 0 Las Palmas,1,813140,visible
+train,spain_laliga/2016-2017/2017-01-14 - 18-15 Barcelona 5 - 0 Las Palmas,2,387440,visible
+train,spain_laliga/2016-2017/2017-01-14 - 18-15 Barcelona 5 - 0 Las Palmas,2,687160,visible
+train,spain_laliga/2016-2017/2017-01-14 - 18-15 Barcelona 5 - 0 Las Palmas,2,812160,visible
+train,spain_laliga/2016-2017/2017-01-14 - 18-15 Barcelona 5 - 0 Las Palmas,2,2048560,visible
+train,spain_laliga/2016-2017/2017-01-15 - 22-45 Sevilla 2 - 1 Real Madrid,2,1293985,visible
+train,spain_laliga/2016-2017/2017-01-15 - 22-45 Sevilla 2 - 1 Real Madrid,2,2353594,visible
+train,spain_laliga/2016-2017/2017-01-15 - 22-45 Sevilla 2 - 1 Real Madrid,2,2760625,visible
+train,spain_laliga/2016-2017/2017-01-29 - 14-00 Betis 1 - 1 Barcelona,2,1739463,visible
+train,spain_laliga/2016-2017/2017-01-29 - 14-00 Betis 1 - 1 Barcelona,2,2682419,visible
+train,spain_laliga/2016-2017/2017-01-29 - 22-45 Real Madrid 3 - 0 Real Sociedad,1,2240000,visible
+train,spain_laliga/2016-2017/2017-01-29 - 22-45 Real Madrid 3 - 0 Real Sociedad,2,305268,visible
+train,spain_laliga/2016-2017/2017-01-29 - 22-45 Real Madrid 3 - 0 Real Sociedad,2,2206981,visible
+train,spain_laliga/2016-2017/2017-02-19 - 22-45 Barcelona 2 - 1 Leganes,1,193017,visible
+train,spain_laliga/2016-2017/2017-02-19 - 22-45 Barcelona 2 - 1 Leganes,2,1508198,visible
+train,spain_laliga/2016-2017/2017-02-19 - 22-45 Barcelona 2 - 1 Leganes,2,2644683,visible
+train,spain_laliga/2016-2017/2017-02-26 - 18-15 Atl. Madrid 1 - 2 Barcelona,2,1104548,visible
+train,spain_laliga/2016-2017/2017-02-26 - 18-15 Atl. Madrid 1 - 2 Barcelona,2,1491193,visible
+train,spain_laliga/2016-2017/2017-02-26 - 18-15 Atl. Madrid 1 - 2 Barcelona,2,2455533,visible
+train,spain_laliga/2016-2017/2017-02-26 - 22-45 Villarreal 2 - 3 Real Madrid,2,266941,visible
+train,spain_laliga/2016-2017/2017-02-26 - 22-45 Villarreal 2 - 3 Real Madrid,2,638328,visible
+train,spain_laliga/2016-2017/2017-02-26 - 22-45 Villarreal 2 - 3 Real Madrid,2,1124907,visible
+train,spain_laliga/2016-2017/2017-02-26 - 22-45 Villarreal 2 - 3 Real Madrid,2,1721528,visible
+train,spain_laliga/2016-2017/2017-02-26 - 22-45 Villarreal 2 - 3 Real Madrid,2,2275139,visible
+train,spain_laliga/2016-2017/2017-03-01 - 21-30 Barcelona 6 - 1 Gijon,1,483935,visible
+train,spain_laliga/2016-2017/2017-03-01 - 21-30 Barcelona 6 - 1 Gijon,1,602325,visible
+train,spain_laliga/2016-2017/2017-03-01 - 21-30 Barcelona 6 - 1 Gijon,1,1254774,visible
+train,spain_laliga/2016-2017/2017-03-01 - 21-30 Barcelona 6 - 1 Gijon,1,1576902,visible
+train,spain_laliga/2016-2017/2017-03-01 - 21-30 Barcelona 6 - 1 Gijon,2,237790,visible
+train,spain_laliga/2016-2017/2017-03-01 - 21-30 Barcelona 6 - 1 Gijon,2,1201417,visible
+train,spain_laliga/2016-2017/2017-03-01 - 21-30 Barcelona 6 - 1 Gijon,2,2512378,visible
+train,spain_laliga/2016-2017/2017-03-01 - 23-30 Real Madrid 3 - 3 Las Palmas,1,465499,visible
+train,spain_laliga/2016-2017/2017-03-01 - 23-30 Real Madrid 3 - 3 Las Palmas,1,551644,visible
+train,spain_laliga/2016-2017/2017-03-01 - 23-30 Real Madrid 3 - 3 Las Palmas,2,619905,visible
+train,spain_laliga/2016-2017/2017-03-01 - 23-30 Real Madrid 3 - 3 Las Palmas,2,831403,visible
+train,spain_laliga/2016-2017/2017-03-01 - 23-30 Real Madrid 3 - 3 Las Palmas,2,2457154,visible
+train,spain_laliga/2016-2017/2017-03-01 - 23-30 Real Madrid 3 - 3 Las Palmas,2,2630231,visible
+train,spain_laliga/2016-2017/2017-03-04 - 18-15 Eibar 1 - 4 Real Madrid,1,807914,visible
+train,spain_laliga/2016-2017/2017-03-04 - 18-15 Eibar 1 - 4 Real Madrid,1,1448318,visible
+train,spain_laliga/2016-2017/2017-03-04 - 18-15 Eibar 1 - 4 Real Madrid,1,1738969,visible
+train,spain_laliga/2016-2017/2017-03-04 - 18-15 Eibar 1 - 4 Real Madrid,2,861466,visible
+train,spain_laliga/2016-2017/2017-03-04 - 18-15 Eibar 1 - 4 Real Madrid,2,1565771,visible
+train,spain_laliga/2016-2017/2017-03-04 - 22-45 Barcelona 5 - 0 Celta Vigo,1,1403269,visible
+train,spain_laliga/2016-2017/2017-03-04 - 22-45 Barcelona 5 - 0 Celta Vigo,1,2381416,visible
+train,spain_laliga/2016-2017/2017-03-04 - 22-45 Barcelona 5 - 0 Celta Vigo,2,713576,visible
+train,spain_laliga/2016-2017/2017-03-04 - 22-45 Barcelona 5 - 0 Celta Vigo,2,936952,visible
+train,spain_laliga/2016-2017/2017-03-04 - 22-45 Barcelona 5 - 0 Celta Vigo,2,1100711,visible
+train,spain_laliga/2016-2017/2017-03-12 - 18-15 Dep. La Coruna 2 - 1 Barcelona,1,2383202,visible
+train,spain_laliga/2016-2017/2017-03-12 - 18-15 Dep. La Coruna 2 - 1 Barcelona,2,57976,visible
+train,spain_laliga/2016-2017/2017-03-12 - 18-15 Dep. La Coruna 2 - 1 Barcelona,2,1722173,visible
+train,spain_laliga/2016-2017/2017-03-18 - 18-15 Ath Bilbao 1 - 2 Real Madrid,1,1441805,visible
+train,spain_laliga/2016-2017/2017-03-18 - 18-15 Ath Bilbao 1 - 2 Real Madrid,2,1157744,visible
+train,spain_laliga/2016-2017/2017-03-18 - 18-15 Ath Bilbao 1 - 2 Real Madrid,2,1364856,visible
+train,spain_laliga/2016-2017/2017-03-19 - 22-45 Barcelona 4 - 2 Valencia,1,1723063,visible
+train,spain_laliga/2016-2017/2017-03-19 - 22-45 Barcelona 4 - 2 Valencia,1,2075957,visible
+train,spain_laliga/2016-2017/2017-03-19 - 22-45 Barcelona 4 - 2 Valencia,1,2669640,visible
+train,spain_laliga/2016-2017/2017-03-19 - 22-45 Barcelona 4 - 2 Valencia,1,2732566,visible
+train,spain_laliga/2016-2017/2017-03-19 - 22-45 Barcelona 4 - 2 Valencia,2,418183,visible
+train,spain_laliga/2016-2017/2017-03-19 - 22-45 Barcelona 4 - 2 Valencia,2,2571222,visible
+train,spain_laliga/2016-2017/2017-04-02 - 21-45 Granada CF 1 - 4 Barcelona,1,2633247,visible
+train,spain_laliga/2016-2017/2017-04-02 - 21-45 Granada CF 1 - 4 Barcelona,2,276120,visible
+train,spain_laliga/2016-2017/2017-04-02 - 21-45 Granada CF 1 - 4 Barcelona,2,1082881,visible
+train,spain_laliga/2016-2017/2017-04-02 - 21-45 Granada CF 1 - 4 Barcelona,2,2247400,visible
+train,spain_laliga/2016-2017/2017-04-02 - 21-45 Granada CF 1 - 4 Barcelona,2,2721840,visible
+train,spain_laliga/2016-2017/2017-04-05 - 22-30 Leganes 2 - 4 Real Madrid,1,871985,visible
+train,spain_laliga/2016-2017/2017-04-05 - 22-30 Leganes 2 - 4 Real Madrid,1,1058120,visible
+train,spain_laliga/2016-2017/2017-04-05 - 22-30 Leganes 2 - 4 Real Madrid,1,1345640,visible
+train,spain_laliga/2016-2017/2017-04-05 - 22-30 Leganes 2 - 4 Real Madrid,1,1867031,visible
+train,spain_laliga/2016-2017/2017-04-05 - 22-30 Leganes 2 - 4 Real Madrid,1,2037735,visible
+train,spain_laliga/2016-2017/2017-04-05 - 22-30 Leganes 2 - 4 Real Madrid,2,170840,visible
+train,spain_laliga/2016-2017/2017-04-15 - 17-15 Gijon 2 - 3 Real Madrid,1,788629,visible
+train,spain_laliga/2016-2017/2017-04-15 - 17-15 Gijon 2 - 3 Real Madrid,1,974520,visible
+train,spain_laliga/2016-2017/2017-04-15 - 17-15 Gijon 2 - 3 Real Madrid,2,243121,visible
+train,spain_laliga/2016-2017/2017-04-15 - 17-15 Gijon 2 - 3 Real Madrid,2,792600,visible
+train,spain_laliga/2016-2017/2017-04-15 - 17-15 Gijon 2 - 3 Real Madrid,2,2692548,visible
+train,spain_laliga/2016-2017/2017-04-15 - 21-45 Barcelona 3 - 2 Real Sociedad,1,963981,visible
+train,spain_laliga/2016-2017/2017-04-15 - 21-45 Barcelona 3 - 2 Real Sociedad,1,2160730,visible
+train,spain_laliga/2016-2017/2017-04-15 - 21-45 Barcelona 3 - 2 Real Sociedad,1,2514508,visible
+train,spain_laliga/2016-2017/2017-04-15 - 21-45 Barcelona 3 - 2 Real Sociedad,1,2602000,visible
+train,spain_laliga/2016-2017/2017-04-15 - 21-45 Barcelona 3 - 2 Real Sociedad,1,2602863,visible
+train,spain_laliga/2016-2017/2017-04-15 - 21-45 Barcelona 3 - 2 Real Sociedad,1,2753518,visible
+train,spain_laliga/2016-2017/2017-04-26 - 22-30 Dep. La Coruna 2 - 6 Real Madrid,1,52590,visible
+train,spain_laliga/2016-2017/2017-04-26 - 22-30 Dep. La Coruna 2 - 6 Real Madrid,1,805775,visible
+train,spain_laliga/2016-2017/2017-04-26 - 22-30 Dep. La Coruna 2 - 6 Real Madrid,1,2047339,visible
+train,spain_laliga/2016-2017/2017-04-26 - 22-30 Dep. La Coruna 2 - 6 Real Madrid,1,2634773,visible
+train,spain_laliga/2016-2017/2017-04-26 - 22-30 Dep. La Coruna 2 - 6 Real Madrid,2,1256567,visible
+train,spain_laliga/2016-2017/2017-04-26 - 22-30 Dep. La Coruna 2 - 6 Real Madrid,2,1915790,visible
+train,spain_laliga/2016-2017/2017-04-26 - 22-30 Dep. La Coruna 2 - 6 Real Madrid,2,2293767,visible
+train,spain_laliga/2016-2017/2017-04-26 - 22-30 Dep. La Coruna 2 - 6 Real Madrid,2,2486270,visible
+train,spain_laliga/2016-2017/2017-05-06 - 19-30 Barcelona 4 - 1 Villarreal,1,1228216,visible
+train,spain_laliga/2016-2017/2017-05-06 - 19-30 Barcelona 4 - 1 Villarreal,1,1869466,visible
+train,spain_laliga/2016-2017/2017-05-06 - 19-30 Barcelona 4 - 1 Villarreal,1,2679194,visible
+train,spain_laliga/2016-2017/2017-05-06 - 19-30 Barcelona 4 - 1 Villarreal,2,1381138,visible
+train,spain_laliga/2016-2017/2017-05-06 - 19-30 Barcelona 4 - 1 Villarreal,2,2175587,visible
+train,spain_laliga/2016-2017/2017-05-06 - 21-45 Granada CF 0 - 4 Real Madrid,1,137953,visible
+train,spain_laliga/2016-2017/2017-05-06 - 21-45 Granada CF 0 - 4 Real Madrid,1,605007,visible
+train,spain_laliga/2016-2017/2017-05-06 - 21-45 Granada CF 0 - 4 Real Madrid,1,1767020,visible
+train,spain_laliga/2016-2017/2017-05-06 - 21-45 Granada CF 0 - 4 Real Madrid,1,2065569,visible
+train,spain_laliga/2016-2017/2017-05-14 - 21-00 Real Madrid 4 - 1 Sevilla,1,573172,visible
+train,spain_laliga/2016-2017/2017-05-14 - 21-00 Real Madrid 4 - 1 Sevilla,1,910196,visible
+train,spain_laliga/2016-2017/2017-05-14 - 21-00 Real Madrid 4 - 1 Sevilla,1,1322123,visible
+train,spain_laliga/2016-2017/2017-05-14 - 21-00 Real Madrid 4 - 1 Sevilla,2,218149,visible
+train,spain_laliga/2016-2017/2017-05-14 - 21-00 Real Madrid 4 - 1 Sevilla,2,1955015,visible
+train,spain_laliga/2016-2017/2017-05-14 - 21-00 Real Madrid 4 - 1 Sevilla,2,2282927,visible
+train,spain_laliga/2016-2017/2017-05-17 - 22-00 Celta Vigo 1 - 4 Real Madrid,1,574172,visible
+train,spain_laliga/2016-2017/2017-05-17 - 22-00 Celta Vigo 1 - 4 Real Madrid,2,141417,visible
+train,spain_laliga/2016-2017/2017-05-17 - 22-00 Celta Vigo 1 - 4 Real Madrid,2,1397000,visible
+train,spain_laliga/2016-2017/2017-05-17 - 22-00 Celta Vigo 1 - 4 Real Madrid,2,1397271,visible
+train,spain_laliga/2016-2017/2017-05-17 - 22-00 Celta Vigo 1 - 4 Real Madrid,2,1480494,visible
+train,spain_laliga/2016-2017/2017-05-17 - 22-00 Celta Vigo 1 - 4 Real Madrid,2,2550754,visible
+train,spain_laliga/2016-2017/2017-05-21 - 21-00 Barcelona 4 - 2 Eibar,1,404818,visible
+train,spain_laliga/2016-2017/2017-05-21 - 21-00 Barcelona 4 - 2 Eibar,2,920930,visible
+train,spain_laliga/2016-2017/2017-05-21 - 21-00 Barcelona 4 - 2 Eibar,2,1055977,visible
+train,spain_laliga/2016-2017/2017-05-21 - 21-00 Barcelona 4 - 2 Eibar,2,1057000,visible
+train,spain_laliga/2016-2017/2017-05-21 - 21-00 Barcelona 4 - 2 Eibar,2,1669140,visible
+train,spain_laliga/2016-2017/2017-05-21 - 21-00 Barcelona 4 - 2 Eibar,2,1796000,visible
+train,spain_laliga/2016-2017/2017-05-21 - 21-00 Barcelona 4 - 2 Eibar,2,1796140,visible
+train,spain_laliga/2016-2017/2017-05-21 - 21-00 Barcelona 4 - 2 Eibar,2,2774273,visible
+train,spain_laliga/2016-2017/2017-05-21 - 21-00 Malaga 0 - 2 Real Madrid,1,97488,visible
+train,spain_laliga/2016-2017/2017-05-21 - 21-00 Malaga 0 - 2 Real Madrid,2,578211,visible
+valid,england_epl/2014-2015/2015-04-11 - 19-30 Burnley 0 - 1 Arsenal,1,662787,visible
+valid,england_epl/2015-2016/2015-08-30 - 18-00 Swansea 2 - 1 Manchester United,2,179520,visible
+valid,england_epl/2015-2016/2015-08-30 - 18-00 Swansea 2 - 1 Manchester United,2,905600,visible
+valid,england_epl/2015-2016/2015-08-30 - 18-00 Swansea 2 - 1 Manchester United,2,1214520,visible
+valid,england_epl/2015-2016/2015-09-26 - 17-00 Leicester 2 - 5 Arsenal,1,731520,visible
+valid,england_epl/2015-2016/2015-09-26 - 17-00 Leicester 2 - 5 Arsenal,1,1052760,visible
+valid,england_epl/2015-2016/2015-09-26 - 17-00 Leicester 2 - 5 Arsenal,1,1972939,visible
+valid,england_epl/2015-2016/2015-09-26 - 17-00 Leicester 2 - 5 Arsenal,2,714902,visible
+valid,england_epl/2015-2016/2015-09-26 - 17-00 Leicester 2 - 5 Arsenal,2,2114240,visible
+valid,england_epl/2015-2016/2015-09-26 - 17-00 Leicester 2 - 5 Arsenal,2,2592693,visible
+valid,england_epl/2015-2016/2015-09-26 - 17-00 Leicester 2 - 5 Arsenal,2,2862000,visible
+valid,england_epl/2015-2016/2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,2888646,visible
+valid,england_epl/2015-2016/2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,37880,visible
+valid,england_epl/2015-2016/2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,2668000,visible
+valid,england_epl/2015-2016/2015-10-03 - 17-00 Manchester City 6 - 1 Newcastle Utd,1,1017989,visible
+valid,england_epl/2015-2016/2015-10-03 - 17-00 Manchester City 6 - 1 Newcastle Utd,1,2475524,visible
+valid,england_epl/2015-2016/2015-10-03 - 17-00 Manchester City 6 - 1 Newcastle Utd,2,221000,visible
+valid,england_epl/2015-2016/2015-10-03 - 17-00 Manchester City 6 - 1 Newcastle Utd,2,293680,visible
+valid,england_epl/2015-2016/2015-10-03 - 17-00 Manchester City 6 - 1 Newcastle Utd,2,477880,visible
+valid,england_epl/2015-2016/2015-10-03 - 17-00 Manchester City 6 - 1 Newcastle Utd,2,845040,visible
+valid,england_epl/2015-2016/2015-10-03 - 17-00 Manchester City 6 - 1 Newcastle Utd,2,1002760,visible
+valid,england_epl/2015-2016/2015-12-26 - 18-00 Chelsea 2 - 2 Watford,1,1908000,visible
+valid,england_epl/2015-2016/2015-12-26 - 18-00 Chelsea 2 - 2 Watford,1,2497640,visible
+valid,england_epl/2015-2016/2015-12-26 - 18-00 Chelsea 2 - 2 Watford,2,647600,visible
+valid,england_epl/2015-2016/2015-12-26 - 18-00 Chelsea 2 - 2 Watford,2,1174520,visible
+valid,england_epl/2015-2016/2016-01-23 - 20-30 West Ham 2 - 2 Manchester City,1,53000,visible
+valid,england_epl/2015-2016/2016-01-23 - 20-30 West Ham 2 - 2 Manchester City,1,526000,visible
+valid,england_epl/2015-2016/2016-01-23 - 20-30 West Ham 2 - 2 Manchester City,2,624600,visible
+valid,england_epl/2015-2016/2016-01-23 - 20-30 West Ham 2 - 2 Manchester City,2,2103600,visible
+valid,england_epl/2015-2016/2016-01-24 - 19-00 Arsenal 0 - 1 Chelsea,1,1334120,visible
+valid,england_epl/2015-2016/2016-02-13 - 20-30 Chelsea 5 - 1 Newcastle Utd,1,248200,visible
+valid,england_epl/2015-2016/2016-02-13 - 20-30 Chelsea 5 - 1 Newcastle Utd,1,501720,visible
+valid,england_epl/2015-2016/2016-02-13 - 20-30 Chelsea 5 - 1 Newcastle Utd,1,971000,visible
+valid,england_epl/2015-2016/2016-02-13 - 20-30 Chelsea 5 - 1 Newcastle Utd,2,795360,visible
+valid,england_epl/2015-2016/2016-02-13 - 20-30 Chelsea 5 - 1 Newcastle Utd,2,2264480,visible
+valid,england_epl/2015-2016/2016-02-13 - 20-30 Chelsea 5 - 1 Newcastle Utd,2,2648760,visible
+valid,england_epl/2015-2016/2016-02-27 - 18-00 Southampton 1 - 2 Chelsea,1,2509960,visible
+valid,england_epl/2015-2016/2016-02-27 - 18-00 Southampton 1 - 2 Chelsea,2,1773320,visible
+valid,england_epl/2015-2016/2016-02-27 - 18-00 Southampton 1 - 2 Chelsea,2,2578760,visible
+valid,england_epl/2015-2016/2016-03-05 - 18-00 Manchester City 4 - 0 Aston Villa,2,160000,visible
+valid,england_epl/2015-2016/2016-03-05 - 18-00 Manchester City 4 - 0 Aston Villa,2,271240,visible
+valid,england_epl/2015-2016/2016-03-05 - 18-00 Manchester City 4 - 0 Aston Villa,2,870920,visible
+valid,england_epl/2015-2016/2016-03-05 - 18-00 Manchester City 4 - 0 Aston Villa,2,1243640,visible
+valid,england_epl/2015-2016/2016-03-20 - 19-00 Manchester City 0 - 1 Manchester United,1,901840,visible
+valid,england_epl/2015-2016/2016-04-23 - 17-00 Bournemouth 1 - 4 Chelsea,1,294960,visible
+valid,england_epl/2015-2016/2016-04-23 - 17-00 Bournemouth 1 - 4 Chelsea,1,2026320,visible
+valid,england_epl/2015-2016/2016-04-23 - 17-00 Bournemouth 1 - 4 Chelsea,1,2117800,visible
+valid,england_epl/2015-2016/2016-04-23 - 17-00 Bournemouth 1 - 4 Chelsea,2,1530680,visible
+valid,england_epl/2015-2016/2016-04-23 - 17-00 Bournemouth 1 - 4 Chelsea,2,2717928,visible
+valid,england_epl/2016-2017/2016-10-01 - 14-30 Swansea 1 - 2 Liverpool,1,436538,visible
+valid,england_epl/2016-2017/2016-10-01 - 14-30 Swansea 1 - 2 Liverpool,2,522560,visible
+valid,england_epl/2016-2017/2016-10-01 - 14-30 Swansea 1 - 2 Liverpool,2,2306920,visible
+valid,england_epl/2016-2017/2016-10-02 - 18-30 Burnley 0 - 1 Arsenal,2,2826000,visible
+valid,england_epl/2016-2017/2016-10-29 - 19-30 Crystal Palace 2 - 4 Liverpool,1,908129,visible
+valid,england_epl/2016-2017/2016-10-29 - 19-30 Crystal Palace 2 - 4 Liverpool,1,1051574,visible
+valid,england_epl/2016-2017/2016-10-29 - 19-30 Crystal Palace 2 - 4 Liverpool,1,1252289,visible
+valid,england_epl/2016-2017/2016-10-29 - 19-30 Crystal Palace 2 - 4 Liverpool,1,1923964,visible
+valid,england_epl/2016-2017/2016-10-29 - 19-30 Crystal Palace 2 - 4 Liverpool,1,2585675,visible
+valid,england_epl/2016-2017/2016-10-29 - 19-30 Crystal Palace 2 - 4 Liverpool,2,1514932,visible
+valid,england_epl/2016-2017/2016-12-04 - 16-30 Bournemouth 4 - 3 Liverpool,1,1195041,visible
+valid,england_epl/2016-2017/2016-12-04 - 16-30 Bournemouth 4 - 3 Liverpool,1,1319556,visible
+valid,england_epl/2016-2017/2016-12-04 - 16-30 Bournemouth 4 - 3 Liverpool,2,648920,visible
+valid,england_epl/2016-2017/2016-12-04 - 16-30 Bournemouth 4 - 3 Liverpool,2,1084187,visible
+valid,england_epl/2016-2017/2016-12-04 - 16-30 Bournemouth 4 - 3 Liverpool,2,1828383,visible
+valid,england_epl/2016-2017/2016-12-04 - 16-30 Bournemouth 4 - 3 Liverpool,2,1981868,visible
+valid,england_epl/2016-2017/2016-12-04 - 16-30 Bournemouth 4 - 3 Liverpool,2,2859640,visible
+valid,england_epl/2016-2017/2017-04-09 - 18-00 Everton 4 - 2 Leicester,1,29215,visible
+valid,england_epl/2016-2017/2017-04-09 - 18-00 Everton 4 - 2 Leicester,1,238820,visible
+valid,england_epl/2016-2017/2017-04-09 - 18-00 Everton 4 - 2 Leicester,1,570170,visible
+valid,england_epl/2016-2017/2017-04-09 - 18-00 Everton 4 - 2 Leicester,1,1358081,visible
+valid,england_epl/2016-2017/2017-04-09 - 18-00 Everton 4 - 2 Leicester,1,2406556,visible
+valid,england_epl/2016-2017/2017-04-09 - 18-00 Everton 4 - 2 Leicester,2,717283,visible
+valid,europe_uefa-champions-league/2014-2015/2014-11-04 - 22-45 Real Madrid 1 - 0 Liverpool,1,1579000,visible
+valid,europe_uefa-champions-league/2014-2015/2014-11-04 - 22-45 Real Madrid 1 - 0 Liverpool,1,1579410,visible
+valid,europe_uefa-champions-league/2014-2015/2014-11-05 - 22-45 Ajax 0 - 2 Barcelona,1,2117475,visible
+valid,europe_uefa-champions-league/2014-2015/2014-11-05 - 22-45 Ajax 0 - 2 Barcelona,2,1807456,visible
+valid,europe_uefa-champions-league/2014-2015/2014-11-05 - 22-45 Manchester City 1 - 2 CSKA Moscow,1,96505,visible
+valid,europe_uefa-champions-league/2014-2015/2014-11-05 - 22-45 Manchester City 1 - 2 CSKA Moscow,1,461818,visible
+valid,europe_uefa-champions-league/2014-2015/2014-11-05 - 22-45 Manchester City 1 - 2 CSKA Moscow,1,2017505,visible
+valid,europe_uefa-champions-league/2014-2015/2014-12-09 - 22-45 Galatasaray 1 - 4 Arsenal,1,121000,visible
+valid,europe_uefa-champions-league/2014-2015/2014-12-09 - 22-45 Galatasaray 1 - 4 Arsenal,1,121231,visible
+valid,europe_uefa-champions-league/2014-2015/2014-12-09 - 22-45 Galatasaray 1 - 4 Arsenal,1,616260,visible
+valid,europe_uefa-champions-league/2014-2015/2014-12-09 - 22-45 Galatasaray 1 - 4 Arsenal,1,1693454,visible
+valid,europe_uefa-champions-league/2014-2015/2014-12-09 - 22-45 Galatasaray 1 - 4 Arsenal,2,2543000,visible
+valid,europe_uefa-champions-league/2014-2015/2014-12-09 - 22-45 Galatasaray 1 - 4 Arsenal,2,2543251,visible
+valid,europe_uefa-champions-league/2014-2015/2014-12-09 - 22-45 Galatasaray 1 - 4 Arsenal,2,2813409,visible
+valid,europe_uefa-champions-league/2014-2015/2014-12-09 - 22-45 Real Madrid 4 - 0 Ludogorets,1,1183136,visible
+valid,europe_uefa-champions-league/2014-2015/2014-12-09 - 22-45 Real Madrid 4 - 0 Ludogorets,1,2226153,visible
+valid,europe_uefa-champions-league/2014-2015/2014-12-09 - 22-45 Real Madrid 4 - 0 Ludogorets,2,2033498,visible
+valid,europe_uefa-champions-league/2014-2015/2014-12-09 - 22-45 Real Madrid 4 - 0 Ludogorets,2,2535444,visible
+valid,europe_uefa-champions-league/2014-2015/2015-03-11 - 22-45 Bayern Munich 7 - 0 Shakhtar Donetsk,1,209428,visible
+valid,europe_uefa-champions-league/2014-2015/2015-03-11 - 22-45 Bayern Munich 7 - 0 Shakhtar Donetsk,1,1991000,visible
+valid,europe_uefa-champions-league/2014-2015/2015-03-11 - 22-45 Bayern Munich 7 - 0 Shakhtar Donetsk,1,1991109,visible
+valid,europe_uefa-champions-league/2014-2015/2015-03-11 - 22-45 Bayern Munich 7 - 0 Shakhtar Donetsk,2,234000,visible
+valid,europe_uefa-champions-league/2014-2015/2015-03-11 - 22-45 Bayern Munich 7 - 0 Shakhtar Donetsk,2,234945,visible
+valid,europe_uefa-champions-league/2014-2015/2015-03-11 - 22-45 Bayern Munich 7 - 0 Shakhtar Donetsk,2,357974,visible
+valid,europe_uefa-champions-league/2014-2015/2015-03-11 - 22-45 Bayern Munich 7 - 0 Shakhtar Donetsk,2,358000,visible
+valid,europe_uefa-champions-league/2014-2015/2015-03-11 - 22-45 Bayern Munich 7 - 0 Shakhtar Donetsk,2,1044000,visible
+valid,europe_uefa-champions-league/2014-2015/2015-03-11 - 22-45 Bayern Munich 7 - 0 Shakhtar Donetsk,2,1044848,visible
+valid,europe_uefa-champions-league/2014-2015/2015-03-11 - 22-45 Bayern Munich 7 - 0 Shakhtar Donetsk,2,1752000,visible
+valid,europe_uefa-champions-league/2014-2015/2015-03-11 - 22-45 Bayern Munich 7 - 0 Shakhtar Donetsk,2,1752011,visible
+valid,europe_uefa-champions-league/2014-2015/2015-03-11 - 22-45 Bayern Munich 7 - 0 Shakhtar Donetsk,2,2515744,visible
+valid,europe_uefa-champions-league/2014-2015/2015-04-15 - 21-45 Paris SG 1 - 3 Barcelona,1,1074777,visible
+valid,europe_uefa-champions-league/2014-2015/2015-04-15 - 21-45 Paris SG 1 - 3 Barcelona,2,1292000,visible
+valid,europe_uefa-champions-league/2014-2015/2015-04-15 - 21-45 Paris SG 1 - 3 Barcelona,2,1292823,visible
+valid,europe_uefa-champions-league/2014-2015/2015-04-15 - 21-45 Paris SG 1 - 3 Barcelona,2,2010000,visible
+valid,europe_uefa-champions-league/2014-2015/2015-04-15 - 21-45 Paris SG 1 - 3 Barcelona,2,2010303,visible
+valid,europe_uefa-champions-league/2014-2015/2015-04-15 - 21-45 Paris SG 1 - 3 Barcelona,2,2169153,visible
+valid,europe_uefa-champions-league/2014-2015/2015-04-21 - 21-45 Barcelona 2 - 0 Paris SG,1,785171,visible
+valid,europe_uefa-champions-league/2014-2015/2015-04-21 - 21-45 Barcelona 2 - 0 Paris SG,1,1991000,visible
+valid,europe_uefa-champions-league/2014-2015/2015-04-21 - 21-45 Barcelona 2 - 0 Paris SG,1,1991579,visible
+valid,europe_uefa-champions-league/2015-2016/2015-09-15 - 21-45 PSV 2 - 1 Manchester United,1,2435040,visible
+valid,europe_uefa-champions-league/2015-2016/2015-09-15 - 21-45 PSV 2 - 1 Manchester United,1,2792040,visible
+valid,europe_uefa-champions-league/2015-2016/2015-09-15 - 21-45 PSV 2 - 1 Manchester United,2,667880,visible
+valid,europe_uefa-champions-league/2015-2016/2015-09-16 - 21-45 Chelsea 4 - 0 Maccabi Tel Aviv,1,878365,visible
+valid,europe_uefa-champions-league/2015-2016/2015-09-16 - 21-45 Chelsea 4 - 0 Maccabi Tel Aviv,1,2910629,visible
+valid,europe_uefa-champions-league/2015-2016/2015-09-16 - 21-45 Chelsea 4 - 0 Maccabi Tel Aviv,2,774483,visible
+valid,europe_uefa-champions-league/2015-2016/2015-09-16 - 21-45 Chelsea 4 - 0 Maccabi Tel Aviv,2,1957200,visible
+valid,europe_uefa-champions-league/2015-2016/2015-09-16 - 21-45 Dyn. Kiev 2 - 2 FC Porto,1,1177965,visible
+valid,europe_uefa-champions-league/2015-2016/2015-09-16 - 21-45 Dyn. Kiev 2 - 2 FC Porto,1,1340360,visible
+valid,europe_uefa-champions-league/2015-2016/2015-09-16 - 21-45 Dyn. Kiev 2 - 2 FC Porto,2,2146840,visible
+valid,europe_uefa-champions-league/2015-2016/2015-09-16 - 21-45 Dyn. Kiev 2 - 2 FC Porto,2,2592640,visible
+valid,europe_uefa-champions-league/2015-2016/2015-09-16 - 21-45 Olympiakos Piraeus 0 - 3 Bayern Munich,2,361727,visible
+valid,europe_uefa-champions-league/2015-2016/2015-09-16 - 21-45 Olympiakos Piraeus 0 - 3 Bayern Munich,2,2587000,visible
+valid,europe_uefa-champions-league/2015-2016/2015-09-16 - 21-45 Olympiakos Piraeus 0 - 3 Bayern Munich,2,2779480,visible
+valid,europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 Barcelona 2 - 1 Bayer Leverkusen,1,1301360,visible
+valid,europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 Barcelona 2 - 1 Bayer Leverkusen,2,2088200,visible
+valid,europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 Barcelona 2 - 1 Bayer Leverkusen,2,2181520,visible
+valid,europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 FC Porto 2 - 1 Chelsea,1,2293560,visible
+valid,europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 FC Porto 2 - 1 Chelsea,1,2770760,visible
+valid,europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 FC Porto 2 - 1 Chelsea,2,370322,visible
+valid,europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 Benfica 2 - 1 Galatasaray,2,396963,visible
+valid,europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 Benfica 2 - 1 Galatasaray,2,723800,visible
+valid,europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 Benfica 2 - 1 Galatasaray,2,1276240,visible
+valid,europe_uefa-champions-league/2015-2016/2015-11-04 - 22-45 Barcelona 3 - 0 BATE,1,1794800,visible
+valid,europe_uefa-champions-league/2015-2016/2015-11-04 - 22-45 Barcelona 3 - 0 BATE,2,855760,visible
+valid,europe_uefa-champions-league/2015-2016/2015-11-04 - 22-45 Barcelona 3 - 0 BATE,2,2235800,visible
+valid,europe_uefa-champions-league/2015-2016/2015-11-24 - 20-00 BATE 1 - 1 Bayer Leverkusen,1,68120,visible
+valid,europe_uefa-champions-league/2015-2016/2015-11-24 - 20-00 BATE 1 - 1 Bayer Leverkusen,2,1336640,visible
+valid,europe_uefa-champions-league/2015-2016/2015-11-25 - 22-45 Juventus 1 - 0 Manchester City,1,1033200,visible
+valid,europe_uefa-champions-league/2016-2017/2016-09-28 - 21-45 Napoli 4 - 2 Benfica,1,1145560,visible
+valid,europe_uefa-champions-league/2016-2017/2016-09-28 - 21-45 Napoli 4 - 2 Benfica,2,328077,visible
+valid,europe_uefa-champions-league/2016-2017/2016-09-28 - 21-45 Napoli 4 - 2 Benfica,2,507801,visible
+valid,europe_uefa-champions-league/2016-2017/2016-09-28 - 21-45 Napoli 4 - 2 Benfica,2,721360,visible
+valid,europe_uefa-champions-league/2016-2017/2016-09-28 - 21-45 Napoli 4 - 2 Benfica,2,1496460,visible
+valid,europe_uefa-champions-league/2016-2017/2016-09-28 - 21-45 Napoli 4 - 2 Benfica,2,2429394,visible
+valid,europe_uefa-champions-league/2016-2017/2016-10-19 - 21-45 Paris SG 3 - 0 Basel,1,2363160,visible
+valid,europe_uefa-champions-league/2016-2017/2016-10-19 - 21-45 Paris SG 3 - 0 Basel,2,996560,visible
+valid,europe_uefa-champions-league/2016-2017/2016-10-19 - 21-45 Paris SG 3 - 0 Basel,2,2834040,visible
+valid,france_ligue-1/2015-2016/2015-09-19 - 18-30 Reims 1 - 1 Paris SG,2,2223000,visible
+valid,france_ligue-1/2015-2016/2015-09-19 - 18-30 Reims 1 - 1 Paris SG,2,2224418,visible
+valid,france_ligue-1/2015-2016/2015-09-19 - 18-30 Reims 1 - 1 Paris SG,2,2295000,visible
+valid,france_ligue-1/2015-2016/2015-09-19 - 18-30 Reims 1 - 1 Paris SG,2,2296635,visible
+valid,france_ligue-1/2016-2017/2016-08-21 - 21-45 Paris SG 3 - 0 Metz,2,405872,visible
+valid,france_ligue-1/2016-2017/2016-08-21 - 21-45 Paris SG 3 - 0 Metz,2,1266035,visible
+valid,france_ligue-1/2016-2017/2016-08-21 - 21-45 Paris SG 3 - 0 Metz,2,2892548,visible
+valid,france_ligue-1/2016-2017/2016-09-09 - 21-45 Paris SG 1 - 1 St Etienne,2,1262720,visible
+valid,france_ligue-1/2016-2017/2016-09-09 - 21-45 Paris SG 1 - 1 St Etienne,2,2816978,visible
+valid,france_ligue-1/2016-2017/2016-09-20 - 22-00 Paris SG 3 - 0 Dijon,1,863996,visible
+valid,france_ligue-1/2016-2017/2016-09-20 - 22-00 Paris SG 3 - 0 Dijon,1,1564170,visible
+valid,france_ligue-1/2016-2017/2016-09-20 - 22-00 Paris SG 3 - 0 Dijon,2,1274802,visible
+valid,france_ligue-1/2016-2017/2016-12-03 - 19-00 Montpellier 3 - 0 Paris SG,1,2503760,visible
+valid,france_ligue-1/2016-2017/2016-12-03 - 19-00 Montpellier 3 - 0 Paris SG,2,163503,visible
+valid,france_ligue-1/2016-2017/2016-12-03 - 19-00 Montpellier 3 - 0 Paris SG,2,2076600,visible
+valid,france_ligue-1/2016-2017/2017-03-04 - 19-00 Paris SG 1 - 0 Nancy,2,2083880,visible
+valid,france_ligue-1/2016-2017/2017-04-09 - 22-00 Paris SG 4 - 0 Guingamp,2,637000,visible
+valid,france_ligue-1/2016-2017/2017-04-09 - 22-00 Paris SG 4 - 0 Guingamp,2,861680,visible
+valid,france_ligue-1/2016-2017/2017-04-09 - 22-00 Paris SG 4 - 0 Guingamp,2,1498200,visible
+valid,france_ligue-1/2016-2017/2017-04-09 - 22-00 Paris SG 4 - 0 Guingamp,2,2799245,visible
+valid,france_ligue-1/2016-2017/2017-05-14 - 22-00 St Etienne 0 - 5 Paris SG,1,79756,visible
+valid,france_ligue-1/2016-2017/2017-05-14 - 22-00 St Etienne 0 - 5 Paris SG,1,2242659,visible
+valid,france_ligue-1/2016-2017/2017-05-14 - 22-00 St Etienne 0 - 5 Paris SG,2,1583277,visible
+valid,france_ligue-1/2016-2017/2017-05-14 - 22-00 St Etienne 0 - 5 Paris SG,2,1965216,visible
+valid,france_ligue-1/2016-2017/2017-05-14 - 22-00 St Etienne 0 - 5 Paris SG,2,2662199,visible
+valid,germany_bundesliga/2014-2015/2015-04-25 - 19-30 Bayern Munich 1 - 0 Hertha Berlin,2,2053396,visible
+valid,germany_bundesliga/2014-2015/2015-05-02 - 16-30 Hoffenheim 1 - 1 Dortmund,1,1958498,visible
+valid,germany_bundesliga/2014-2015/2015-05-02 - 16-30 Hoffenheim 1 - 1 Dortmund,1,2081380,visible
+valid,germany_bundesliga/2015-2016/2015-09-20 - 18-30 Dortmund 3 - 0 Bayer Leverkusen,1,1097128,visible
+valid,germany_bundesliga/2015-2016/2015-09-20 - 18-30 Dortmund 3 - 0 Bayer Leverkusen,2,790020,visible
+valid,germany_bundesliga/2015-2016/2015-09-20 - 18-30 Dortmund 3 - 0 Bayer Leverkusen,2,1692162,visible
+valid,germany_bundesliga/2015-2016/2015-10-04 - 18-30 Bayern Munich 5 - 1 Dortmund,1,1519672,visible
+valid,germany_bundesliga/2015-2016/2015-10-04 - 18-30 Bayern Munich 5 - 1 Dortmund,1,2040889,visible
+valid,germany_bundesliga/2015-2016/2015-10-04 - 18-30 Bayern Munich 5 - 1 Dortmund,1,2159176,visible
+valid,germany_bundesliga/2015-2016/2015-10-04 - 18-30 Bayern Munich 5 - 1 Dortmund,2,18370,visible
+valid,germany_bundesliga/2015-2016/2015-10-04 - 18-30 Bayern Munich 5 - 1 Dortmund,2,721986,visible
+valid,germany_bundesliga/2015-2016/2015-10-04 - 18-30 Bayern Munich 5 - 1 Dortmund,2,1220336,visible
+valid,germany_bundesliga/2015-2016/2015-11-07 - 17-30 Bayern Munich 4 - 0 VfB Stuttgart,1,607653,visible
+valid,germany_bundesliga/2015-2016/2015-11-07 - 17-30 Bayern Munich 4 - 0 VfB Stuttgart,1,1019680,visible
+valid,germany_bundesliga/2015-2016/2015-11-07 - 17-30 Bayern Munich 4 - 0 VfB Stuttgart,1,2182400,visible
+valid,germany_bundesliga/2015-2016/2015-11-07 - 17-30 Bayern Munich 4 - 0 VfB Stuttgart,1,2352982,visible
+valid,germany_bundesliga/2015-2016/2016-04-23 - 16-30 Hertha Berlin 0 - 2 Bayern Munich,2,123329,visible
+valid,germany_bundesliga/2015-2016/2016-04-23 - 16-30 Hertha Berlin 0 - 2 Bayern Munich,2,2023699,visible
+valid,germany_bundesliga/2016-2017/2016-12-03 - 17-30 Dortmund 4 - 1 B. Monchengladbach,1,322794,visible
+valid,germany_bundesliga/2016-2017/2016-12-03 - 17-30 Dortmund 4 - 1 B. Monchengladbach,1,382632,visible
+valid,germany_bundesliga/2016-2017/2016-12-03 - 17-30 Dortmund 4 - 1 B. Monchengladbach,1,892758,visible
+valid,germany_bundesliga/2016-2017/2016-12-03 - 17-30 Dortmund 4 - 1 B. Monchengladbach,2,1090350,visible
+valid,germany_bundesliga/2016-2017/2016-12-03 - 17-30 Dortmund 4 - 1 B. Monchengladbach,2,1378005,visible
+valid,germany_bundesliga/2016-2017/2017-02-25 - 17-30 SC Freiburg 0 - 3 Dortmund,1,722893,visible
+valid,germany_bundesliga/2016-2017/2017-02-25 - 17-30 SC Freiburg 0 - 3 Dortmund,2,576514,visible
+valid,germany_bundesliga/2016-2017/2017-02-25 - 17-30 SC Freiburg 0 - 3 Dortmund,2,1489960,visible
+valid,italy_serie-a/2014-2015/2015-04-25 - 19-00 Udinese 2 - 1 AC Milan,2,763000,visible
+valid,italy_serie-a/2014-2015/2015-04-25 - 19-00 Udinese 2 - 1 AC Milan,2,1736840,visible
+valid,italy_serie-a/2014-2015/2015-04-25 - 19-00 Udinese 2 - 1 AC Milan,2,2541503,visible
+valid,italy_serie-a/2014-2015/2015-05-10 - 21-45 Lazio 1 - 2 Inter,1,452960,visible
+valid,italy_serie-a/2014-2015/2015-05-10 - 21-45 Lazio 1 - 2 Inter,1,1547760,visible
+valid,italy_serie-a/2014-2015/2015-05-10 - 21-45 Lazio 1 - 2 Inter,2,2289960,visible
+valid,italy_serie-a/2014-2015/2015-05-17 - 13-30 Sassuolo 3 - 2 AC Milan,1,770440,visible
+valid,italy_serie-a/2014-2015/2015-05-17 - 13-30 Sassuolo 3 - 2 AC Milan,1,1816200,visible
+valid,italy_serie-a/2014-2015/2015-05-17 - 13-30 Sassuolo 3 - 2 AC Milan,1,1946800,visible
+valid,italy_serie-a/2014-2015/2015-05-17 - 13-30 Sassuolo 3 - 2 AC Milan,2,307840,visible
+valid,italy_serie-a/2014-2015/2015-05-17 - 13-30 Sassuolo 3 - 2 AC Milan,2,1919160,visible
+valid,italy_serie-a/2015-2016/2015-09-26 - 21-45 Napoli 2 - 1 Juventus,1,1508890,visible
+valid,italy_serie-a/2015-2016/2015-09-26 - 21-45 Napoli 2 - 1 Juventus,2,982406,visible
+valid,italy_serie-a/2015-2016/2015-09-26 - 21-45 Napoli 2 - 1 Juventus,2,1067416,visible
+valid,italy_serie-a/2016-2017/2016-08-20 - 19-00 AS Roma 4 - 0 Udinese,2,1146254,visible
+valid,italy_serie-a/2016-2017/2016-08-20 - 19-00 AS Roma 4 - 0 Udinese,2,1796298,visible
+valid,italy_serie-a/2016-2017/2016-08-20 - 19-00 AS Roma 4 - 0 Udinese,2,2210721,visible
+valid,italy_serie-a/2016-2017/2016-08-20 - 19-00 AS Roma 4 - 0 Udinese,2,2326003,visible
+valid,italy_serie-a/2016-2017/2016-09-18 - 21-45 Fiorentina 1 - 0 AS Roma,2,2218411,visible
+valid,italy_serie-a/2016-2017/2016-10-02 - 19-00 AC Milan 4 - 3 Sassuolo,1,490271,visible
+valid,italy_serie-a/2016-2017/2016-10-02 - 19-00 AC Milan 4 - 3 Sassuolo,1,594469,visible
+valid,italy_serie-a/2016-2017/2016-10-02 - 19-00 AC Milan 4 - 3 Sassuolo,2,525610,visible
+valid,italy_serie-a/2016-2017/2016-10-02 - 19-00 AC Milan 4 - 3 Sassuolo,2,620122,visible
+valid,italy_serie-a/2016-2017/2016-10-02 - 19-00 AC Milan 4 - 3 Sassuolo,2,1420448,visible
+valid,italy_serie-a/2016-2017/2016-10-02 - 19-00 AC Milan 4 - 3 Sassuolo,2,1622168,visible
+valid,italy_serie-a/2016-2017/2016-10-02 - 19-00 AC Milan 4 - 3 Sassuolo,2,1891362,visible
+valid,italy_serie-a/2016-2017/2016-10-29 - 21-45 Juventus 2 - 1 Napoli,2,249266,visible
+valid,italy_serie-a/2016-2017/2016-10-29 - 21-45 Juventus 2 - 1 Napoli,2,507898,visible
+valid,italy_serie-a/2016-2017/2016-10-29 - 21-45 Juventus 2 - 1 Napoli,2,1499119,visible
+valid,italy_serie-a/2016-2017/2016-11-05 - 22-45 Napoli 1 - 1 Lazio,2,411546,visible
+valid,italy_serie-a/2016-2017/2016-11-05 - 22-45 Napoli 1 - 1 Lazio,2,497394,visible
+valid,italy_serie-a/2016-2017/2016-12-12 - 23-00 AS Roma 1 - 0 AC Milan,2,1011607,visible
+valid,italy_serie-a/2016-2017/2017-01-22 - 22-45 AS Roma 1 - 0 Cagliari,2,579040,visible
+valid,italy_serie-a/2016-2017/2017-02-19 - 17-00 Chievo 1 - 3 Napoli,1,1834147,visible
+valid,italy_serie-a/2016-2017/2017-02-19 - 17-00 Chievo 1 - 3 Napoli,1,2242680,visible
+valid,italy_serie-a/2016-2017/2017-02-19 - 17-00 Chievo 1 - 3 Napoli,2,736360,visible
+valid,italy_serie-a/2016-2017/2017-02-19 - 17-00 Chievo 1 - 3 Napoli,2,1588374,visible
+valid,italy_serie-a/2016-2017/2017-03-12 - 22-45 Palermo 0 - 3 AS Roma,1,1286688,visible
+valid,italy_serie-a/2016-2017/2017-03-12 - 22-45 Palermo 0 - 3 AS Roma,2,1801824,visible
+valid,italy_serie-a/2016-2017/2017-03-12 - 22-45 Palermo 0 - 3 AS Roma,2,2711365,visible
+valid,italy_serie-a/2016-2017/2017-04-02 - 21-45 Napoli 1 - 1 Juventus,1,361580,visible
+valid,italy_serie-a/2016-2017/2017-04-02 - 21-45 Napoli 1 - 1 Juventus,2,877250,visible
+valid,italy_serie-a/2016-2017/2017-04-15 - 21-45 Napoli 3 - 0 Udinese,2,120180,visible
+valid,italy_serie-a/2016-2017/2017-04-15 - 21-45 Napoli 3 - 0 Udinese,2,1022867,visible
+valid,italy_serie-a/2016-2017/2017-04-15 - 21-45 Napoli 3 - 0 Udinese,2,1572818,visible
+valid,italy_serie-a/2016-2017/2017-04-30 - 13-30 AS Roma 1 - 3 Lazio,1,661419,visible
+valid,italy_serie-a/2016-2017/2017-04-30 - 13-30 AS Roma 1 - 3 Lazio,1,2694654,visible
+valid,italy_serie-a/2016-2017/2017-04-30 - 13-30 AS Roma 1 - 3 Lazio,2,271478,visible
+valid,italy_serie-a/2016-2017/2017-04-30 - 13-30 AS Roma 1 - 3 Lazio,2,2383522,visible
+valid,italy_serie-a/2016-2017/2017-05-06 - 19-00 Napoli 3 - 1 Cagliari,1,114891,visible
+valid,italy_serie-a/2016-2017/2017-05-06 - 19-00 Napoli 3 - 1 Cagliari,2,238404,visible
+valid,italy_serie-a/2016-2017/2017-05-06 - 19-00 Napoli 3 - 1 Cagliari,2,1308741,visible
+valid,italy_serie-a/2016-2017/2017-05-06 - 19-00 Napoli 3 - 1 Cagliari,2,2785814,visible
+valid,spain_laliga/2014-2015/2015-04-11 - 17-00 Real Madrid 3 - 0 Eibar,1,1238046,visible
+valid,spain_laliga/2014-2015/2015-04-11 - 17-00 Real Madrid 3 - 0 Eibar,1,1840932,visible
+valid,spain_laliga/2014-2015/2015-04-11 - 17-00 Real Madrid 3 - 0 Eibar,2,2251080,visible
+valid,spain_laliga/2014-2015/2015-04-11 - 21-00 Sevilla 2 - 2 Barcelona,1,836800,visible
+valid,spain_laliga/2014-2015/2015-04-11 - 21-00 Sevilla 2 - 2 Barcelona,1,1802256,visible
+valid,spain_laliga/2014-2015/2015-04-11 - 21-00 Sevilla 2 - 2 Barcelona,1,2223840,visible
+valid,spain_laliga/2014-2015/2015-04-11 - 21-00 Sevilla 2 - 2 Barcelona,2,2280880,visible
+valid,spain_laliga/2014-2015/2015-04-28 - 21-00 Barcelona 6 - 0 Getafe,1,525533,visible
+valid,spain_laliga/2014-2015/2015-04-28 - 21-00 Barcelona 6 - 0 Getafe,1,1474760,visible
+valid,spain_laliga/2014-2015/2015-04-28 - 21-00 Barcelona 6 - 0 Getafe,1,1639920,visible
+valid,spain_laliga/2014-2015/2015-04-28 - 21-00 Barcelona 6 - 0 Getafe,1,1776360,visible
+valid,spain_laliga/2014-2015/2015-04-28 - 21-00 Barcelona 6 - 0 Getafe,1,2354000,visible
+valid,spain_laliga/2014-2015/2015-04-28 - 21-00 Barcelona 6 - 0 Getafe,2,105690,visible
+valid,spain_laliga/2014-2015/2015-05-02 - 21-00 Sevilla 2 - 3 Real Madrid,1,2107007,visible
+valid,spain_laliga/2014-2015/2015-05-02 - 21-00 Sevilla 2 - 3 Real Madrid,1,2204803,visible
+valid,spain_laliga/2014-2015/2015-05-02 - 21-00 Sevilla 2 - 3 Real Madrid,1,2783590,visible
+valid,spain_laliga/2014-2015/2015-05-02 - 21-00 Sevilla 2 - 3 Real Madrid,2,1383000,visible
+valid,spain_laliga/2014-2015/2015-05-02 - 21-00 Sevilla 2 - 3 Real Madrid,2,2013000,visible
+valid,spain_laliga/2014-2015/2015-05-23 - 21-30 Real Madrid 7 - 3 Getafe,1,764028,visible
+valid,spain_laliga/2014-2015/2015-05-23 - 21-30 Real Madrid 7 - 3 Getafe,1,1321040,visible
+valid,spain_laliga/2014-2015/2015-05-23 - 21-30 Real Madrid 7 - 3 Getafe,1,1522320,visible
+valid,spain_laliga/2014-2015/2015-05-23 - 21-30 Real Madrid 7 - 3 Getafe,1,1898766,visible
+valid,spain_laliga/2014-2015/2015-05-23 - 21-30 Real Madrid 7 - 3 Getafe,1,2035146,visible
+valid,spain_laliga/2014-2015/2015-05-23 - 21-30 Real Madrid 7 - 3 Getafe,1,2479325,visible
+valid,spain_laliga/2014-2015/2015-05-23 - 21-30 Real Madrid 7 - 3 Getafe,2,98640,visible
+valid,spain_laliga/2014-2015/2015-05-23 - 21-30 Real Madrid 7 - 3 Getafe,2,352040,visible
+valid,spain_laliga/2014-2015/2015-05-23 - 21-30 Real Madrid 7 - 3 Getafe,2,1510520,visible
+valid,spain_laliga/2014-2015/2015-05-23 - 21-30 Real Madrid 7 - 3 Getafe,2,2677720,visible
+valid,spain_laliga/2015-2016/2015-09-12 - 21-30 Atl. Madrid 1 - 2 Barcelona,2,356971,visible
+valid,spain_laliga/2015-2016/2015-09-12 - 21-30 Atl. Madrid 1 - 2 Barcelona,2,561000,visible
+valid,spain_laliga/2015-2016/2015-09-12 - 21-30 Atl. Madrid 1 - 2 Barcelona,2,1886102,visible
+valid,spain_laliga/2015-2016/2015-09-26 - 17-00 Barcelona 2 - 1 Las Palmas,1,1465878,visible
+valid,spain_laliga/2015-2016/2015-09-26 - 17-00 Barcelona 2 - 1 Las Palmas,2,520000,visible
+valid,spain_laliga/2015-2016/2015-09-26 - 17-00 Barcelona 2 - 1 Las Palmas,2,2527920,visible
+valid,spain_laliga/2015-2016/2015-10-24 - 17-00 Celta Vigo 1 - 3 Real Madrid,1,466403,visible
+valid,spain_laliga/2015-2016/2015-10-24 - 17-00 Celta Vigo 1 - 3 Real Madrid,1,1354240,visible
+valid,spain_laliga/2015-2016/2015-10-24 - 17-00 Celta Vigo 1 - 3 Real Madrid,2,2367440,visible
+valid,spain_laliga/2015-2016/2015-10-24 - 17-00 Celta Vigo 1 - 3 Real Madrid,2,2998982,visible
+valid,spain_laliga/2015-2016/2015-12-13 - 22-30 Villarreal 1 - 0 Real Madrid,1,478335,visible
+valid,spain_laliga/2015-2016/2015-12-20 - 18-00 Real Madrid 1 - 0 Rayo Vallecano,1,157840,visible
+valid,spain_laliga/2015-2016/2015-12-20 - 18-00 Real Madrid 1 - 0 Rayo Vallecano,1,569059,visible
+valid,spain_laliga/2015-2016/2015-12-20 - 18-00 Real Madrid 1 - 0 Rayo Vallecano,1,679138,visible
+valid,spain_laliga/2015-2016/2015-12-20 - 18-00 Real Madrid 1 - 0 Rayo Vallecano,1,1466840,visible
+valid,spain_laliga/2015-2016/2015-12-20 - 18-00 Real Madrid 1 - 0 Rayo Vallecano,1,1763649,visible
+valid,spain_laliga/2015-2016/2015-12-20 - 18-00 Real Madrid 1 - 0 Rayo Vallecano,1,2454747,visible
+valid,spain_laliga/2015-2016/2015-12-20 - 18-00 Real Madrid 1 - 0 Rayo Vallecano,2,170400,visible
+valid,spain_laliga/2015-2016/2015-12-20 - 18-00 Real Madrid 1 - 0 Rayo Vallecano,2,476109,visible
+valid,spain_laliga/2015-2016/2015-12-20 - 18-00 Real Madrid 1 - 0 Rayo Vallecano,2,914806,visible
+valid,spain_laliga/2015-2016/2015-12-20 - 18-00 Real Madrid 1 - 0 Rayo Vallecano,2,1465960,visible
+valid,spain_laliga/2015-2016/2015-12-20 - 18-00 Real Madrid 1 - 0 Rayo Vallecano,2,2035640,visible
+valid,spain_laliga/2015-2016/2015-12-20 - 18-00 Real Madrid 1 - 0 Rayo Vallecano,2,2656280,visible
+valid,spain_laliga/2015-2016/2016-01-03 - 22-30 Valencia 2 - 2 Real Madrid,1,954619,visible
+valid,spain_laliga/2015-2016/2016-01-03 - 22-30 Valencia 2 - 2 Real Madrid,1,2710000,visible
+valid,spain_laliga/2015-2016/2016-01-03 - 22-30 Valencia 2 - 2 Real Madrid,2,2167705,visible
+valid,spain_laliga/2015-2016/2016-01-03 - 22-30 Valencia 2 - 2 Real Madrid,2,2239462,visible
+valid,spain_laliga/2015-2016/2016-01-09 - 22-30 Real Madrid 5 - 0 Dep. La Coruna,1,860015,visible
+valid,spain_laliga/2015-2016/2016-01-09 - 22-30 Real Madrid 5 - 0 Dep. La Coruna,1,1316420,visible
+valid,spain_laliga/2015-2016/2016-01-09 - 22-30 Real Madrid 5 - 0 Dep. La Coruna,2,216040,visible
+valid,spain_laliga/2015-2016/2016-01-09 - 22-30 Real Madrid 5 - 0 Dep. La Coruna,2,1029920,visible
+valid,spain_laliga/2015-2016/2016-01-09 - 22-30 Real Madrid 5 - 0 Dep. La Coruna,2,2714007,visible
+valid,spain_laliga/2015-2016/2016-02-13 - 18-00 Real Madrid 4 - 2 Ath Bilbao,1,134540,visible
+valid,spain_laliga/2015-2016/2016-02-13 - 18-00 Real Madrid 4 - 2 Ath Bilbao,1,586206,visible
+valid,spain_laliga/2015-2016/2016-02-13 - 18-00 Real Madrid 4 - 2 Ath Bilbao,1,2212522,visible
+valid,spain_laliga/2015-2016/2016-02-13 - 18-00 Real Madrid 4 - 2 Ath Bilbao,1,2698014,visible
+valid,spain_laliga/2015-2016/2016-02-13 - 18-00 Real Madrid 4 - 2 Ath Bilbao,2,2464680,visible
+valid,spain_laliga/2015-2016/2016-02-13 - 18-00 Real Madrid 4 - 2 Ath Bilbao,2,2690760,visible
+valid,spain_laliga/2015-2016/2016-03-20 - 22-30 Real Madrid 4 - 0 Sevilla,1,327765,visible
+valid,spain_laliga/2015-2016/2016-03-20 - 22-30 Real Madrid 4 - 0 Sevilla,2,1098480,visible
+valid,spain_laliga/2015-2016/2016-03-20 - 22-30 Real Madrid 4 - 0 Sevilla,2,1233680,visible
+valid,spain_laliga/2015-2016/2016-03-20 - 22-30 Real Madrid 4 - 0 Sevilla,2,2400406,visible
+valid,spain_laliga/2016-2017/2016-08-21 - 21-15 Real Sociedad 0 - 3 Real Madrid,1,73090,visible
+valid,spain_laliga/2016-2017/2016-08-21 - 21-15 Real Sociedad 0 - 3 Real Madrid,1,2377115,visible
+valid,spain_laliga/2016-2017/2016-08-21 - 21-15 Real Sociedad 0 - 3 Real Madrid,2,2928000,visible
+valid,spain_laliga/2016-2017/2016-08-21 - 21-15 Real Sociedad 0 - 3 Real Madrid,2,2929255,visible
+valid,spain_laliga/2016-2017/2016-09-17 - 14-00 Leganes 1 - 5 Barcelona,1,890400,visible
+valid,spain_laliga/2016-2017/2016-09-17 - 14-00 Leganes 1 - 5 Barcelona,1,1841072,visible
+valid,spain_laliga/2016-2017/2016-09-17 - 14-00 Leganes 1 - 5 Barcelona,1,2606800,visible
+valid,spain_laliga/2016-2017/2016-09-17 - 14-00 Leganes 1 - 5 Barcelona,2,566760,visible
+valid,spain_laliga/2016-2017/2016-09-17 - 14-00 Leganes 1 - 5 Barcelona,2,1106684,visible
+valid,spain_laliga/2016-2017/2016-09-17 - 14-00 Leganes 1 - 5 Barcelona,2,2093720,visible
+valid,spain_laliga/2016-2017/2016-10-02 - 21-45 Celta Vigo 4 - 3 Barcelona,1,1310931,visible
+valid,spain_laliga/2016-2017/2016-10-02 - 21-45 Celta Vigo 4 - 3 Barcelona,1,1852360,visible
+valid,spain_laliga/2016-2017/2016-10-02 - 21-45 Celta Vigo 4 - 3 Barcelona,1,1938160,visible
+valid,spain_laliga/2016-2017/2016-10-02 - 21-45 Celta Vigo 4 - 3 Barcelona,2,736960,visible
+valid,spain_laliga/2016-2017/2016-10-02 - 21-45 Celta Vigo 4 - 3 Barcelona,2,1127360,visible
+valid,spain_laliga/2016-2017/2016-10-02 - 21-45 Celta Vigo 4 - 3 Barcelona,2,1873934,visible
+valid,spain_laliga/2016-2017/2016-10-02 - 21-45 Celta Vigo 4 - 3 Barcelona,2,2469000,visible
+valid,spain_laliga/2016-2017/2016-10-15 - 17-15 Barcelona 4 - 0 Dep. La Coruna,1,1217882,visible
+valid,spain_laliga/2016-2017/2016-10-15 - 17-15 Barcelona 4 - 0 Dep. La Coruna,1,2137320,visible
+valid,spain_laliga/2016-2017/2016-10-15 - 17-15 Barcelona 4 - 0 Dep. La Coruna,1,2548600,visible
+valid,spain_laliga/2016-2017/2016-10-15 - 17-15 Barcelona 4 - 0 Dep. La Coruna,2,734680,visible
+valid,spain_laliga/2016-2017/2017-01-07 - 15-00 Real Madrid 5 - 0 Granada CF,1,701640,visible
+valid,spain_laliga/2016-2017/2017-01-07 - 15-00 Real Madrid 5 - 0 Granada CF,1,1199026,visible
+valid,spain_laliga/2016-2017/2017-01-07 - 15-00 Real Madrid 5 - 0 Granada CF,1,1568391,visible
+valid,spain_laliga/2016-2017/2017-01-07 - 15-00 Real Madrid 5 - 0 Granada CF,1,1855478,visible
+valid,spain_laliga/2016-2017/2017-01-07 - 15-00 Real Madrid 5 - 0 Granada CF,2,758824,visible
+valid,spain_laliga/2016-2017/2017-01-21 - 18-15 Real Madrid 2 - 1 Malaga,1,2091960,visible
+valid,spain_laliga/2016-2017/2017-01-21 - 18-15 Real Madrid 2 - 1 Malaga,1,2526142,visible
+valid,spain_laliga/2016-2017/2017-01-21 - 18-15 Real Madrid 2 - 1 Malaga,2,1063228,visible
+valid,spain_laliga/2016-2017/2017-02-18 - 18-15 Real Madrid 2 - 0 Espanyol,1,1958634,visible
+valid,spain_laliga/2016-2017/2017-02-18 - 18-15 Real Madrid 2 - 0 Espanyol,2,2278533,visible
+valid,spain_laliga/2016-2017/2017-04-23 - 21-45 Real Madrid 2 - 3 Barcelona,1,1667797,visible
+valid,spain_laliga/2016-2017/2017-04-23 - 21-45 Real Madrid 2 - 3 Barcelona,1,1928761,visible
+valid,spain_laliga/2016-2017/2017-04-23 - 21-45 Real Madrid 2 - 3 Barcelona,2,1633647,visible
+valid,spain_laliga/2016-2017/2017-04-23 - 21-45 Real Madrid 2 - 3 Barcelona,2,2402031,visible
+valid,spain_laliga/2016-2017/2017-04-23 - 21-45 Real Madrid 2 - 3 Barcelona,2,2810204,visible
+valid,spain_laliga/2016-2017/2017-04-29 - 17-15 Real Madrid 2 - 1 Valencia,1,1581871,visible
+valid,spain_laliga/2016-2017/2017-04-29 - 17-15 Real Madrid 2 - 1 Valencia,2,2202942,visible
+valid,spain_laliga/2016-2017/2017-04-29 - 17-15 Real Madrid 2 - 1 Valencia,2,2437729,visible
+valid,spain_laliga/2016-2017/2017-04-29 - 21-45 Espanyol 0 - 3 Barcelona,2,286855,visible
+valid,spain_laliga/2016-2017/2017-04-29 - 21-45 Espanyol 0 - 3 Barcelona,2,1859667,visible
+valid,spain_laliga/2016-2017/2017-04-29 - 21-45 Espanyol 0 - 3 Barcelona,2,2468840,visible
+valid,spain_laliga/2016-2017/2017-05-14 - 21-00 Las Palmas 1 - 4 Barcelona,1,1467697,visible
+valid,spain_laliga/2016-2017/2017-05-14 - 21-00 Las Palmas 1 - 4 Barcelona,1,1608769,visible
+valid,spain_laliga/2016-2017/2017-05-14 - 21-00 Las Palmas 1 - 4 Barcelona,2,1049731,visible
+valid,spain_laliga/2016-2017/2017-05-14 - 21-00 Las Palmas 1 - 4 Barcelona,2,1301592,visible
+valid,spain_laliga/2016-2017/2017-05-14 - 21-00 Las Palmas 1 - 4 Barcelona,2,1302000,visible
+valid,spain_laliga/2016-2017/2017-05-14 - 21-00 Las Palmas 1 - 4 Barcelona,2,1551277,visible
+test,england_epl/2014-2015/2015-05-17 - 18-00 Manchester United 1 - 1 Arsenal,1,1759283,visible
+test,england_epl/2014-2015/2015-05-17 - 18-00 Manchester United 1 - 1 Arsenal,2,2194468,visible
+test,england_epl/2015-2016/2015-08-16 - 18-00 Manchester City 3 - 0 Chelsea,1,1860800,visible
+test,england_epl/2015-2016/2015-08-16 - 18-00 Manchester City 3 - 0 Chelsea,2,2023680,visible
+test,england_epl/2015-2016/2015-08-16 - 18-00 Manchester City 3 - 0 Chelsea,2,2352576,visible
+test,england_epl/2015-2016/2015-08-23 - 15-30 West Brom 2 - 3 Chelsea,1,1169360,visible
+test,england_epl/2015-2016/2015-08-23 - 15-30 West Brom 2 - 3 Chelsea,1,1749200,visible
+test,england_epl/2015-2016/2015-08-23 - 15-30 West Brom 2 - 3 Chelsea,1,2090400,visible
+test,england_epl/2015-2016/2015-08-23 - 15-30 West Brom 2 - 3 Chelsea,1,2499676,visible
+test,england_epl/2015-2016/2015-08-23 - 15-30 West Brom 2 - 3 Chelsea,2,813600,visible
+test,england_epl/2015-2016/2015-08-29 - 17-00 Liverpool 0 - 3 West Ham,1,144560,visible
+test,england_epl/2015-2016/2015-08-29 - 17-00 Liverpool 0 - 3 West Ham,1,1700000,visible
+test,england_epl/2015-2016/2015-08-29 - 17-00 Liverpool 0 - 3 West Ham,2,2781680,visible
+test,england_epl/2015-2016/2015-09-20 - 18-00 Southampton 2 - 3 Manchester United,1,749840,visible
+test,england_epl/2015-2016/2015-09-20 - 18-00 Southampton 2 - 3 Manchester United,1,2037716,visible
+test,england_epl/2015-2016/2015-09-20 - 18-00 Southampton 2 - 3 Manchester United,2,302120,visible
+test,england_epl/2015-2016/2015-09-20 - 18-00 Southampton 2 - 3 Manchester United,2,1364023,visible
+test,england_epl/2015-2016/2015-09-20 - 18-00 Southampton 2 - 3 Manchester United,2,2424480,visible
+test,england_epl/2015-2016/2015-09-26 - 19-30 Newcastle Utd 2 - 2 Chelsea,1,2498880,visible
+test,england_epl/2015-2016/2015-09-26 - 19-30 Newcastle Utd 2 - 2 Chelsea,2,865120,visible
+test,england_epl/2015-2016/2015-09-26 - 19-30 Newcastle Utd 2 - 2 Chelsea,2,2006120,visible
+test,england_epl/2015-2016/2015-09-26 - 19-30 Newcastle Utd 2 - 2 Chelsea,2,2458000,visible
+test,england_epl/2015-2016/2015-10-03 - 19-30 Chelsea 1 - 3 Southampton,1,536845,visible
+test,england_epl/2015-2016/2015-10-03 - 19-30 Chelsea 1 - 3 Southampton,1,2486165,visible
+test,england_epl/2015-2016/2015-10-03 - 19-30 Chelsea 1 - 3 Southampton,2,873880,visible
+test,england_epl/2015-2016/2015-10-03 - 19-30 Chelsea 1 - 3 Southampton,2,1613120,visible
+test,england_epl/2015-2016/2015-10-24 - 17-00 West Ham 2 - 1 Chelsea,1,991353,visible
+test,england_epl/2015-2016/2015-10-24 - 17-00 West Ham 2 - 1 Chelsea,2,626160,visible
+test,england_epl/2015-2016/2015-10-24 - 17-00 West Ham 2 - 1 Chelsea,2,1996840,visible
+test,england_epl/2015-2016/2015-11-07 - 20-30 Stoke City 1 - 0 Chelsea,2,469136,visible
+test,england_epl/2015-2016/2015-11-08 - 19-00 Arsenal 1 - 1 Tottenham,1,1906825,visible
+test,england_epl/2015-2016/2015-11-08 - 19-00 Arsenal 1 - 1 Tottenham,2,1862880,visible
+test,england_epl/2015-2016/2016-03-01 - 22-45 Norwich 1 - 2 Chelsea,1,39280,visible
+test,england_epl/2015-2016/2016-03-01 - 22-45 Norwich 1 - 2 Chelsea,1,2743880,visible
+test,england_epl/2015-2016/2016-03-01 - 22-45 Norwich 1 - 2 Chelsea,2,1342840,visible
+test,england_epl/2016-2017/2016-08-27 - 14-30 Tottenham 1 - 1 Liverpool,1,2569024,visible
+test,england_epl/2016-2017/2016-08-27 - 14-30 Tottenham 1 - 1 Liverpool,2,1578000,visible
+test,england_epl/2016-2017/2016-09-24 - 14-30 Manchester United 4 - 1 Leicester,1,1308462,visible
+test,england_epl/2016-2017/2016-09-24 - 14-30 Manchester United 4 - 1 Leicester,1,2161240,visible
+test,england_epl/2016-2017/2016-09-24 - 14-30 Manchester United 4 - 1 Leicester,1,2340480,visible
+test,england_epl/2016-2017/2016-09-24 - 14-30 Manchester United 4 - 1 Leicester,1,2475880,visible
+test,england_epl/2016-2017/2016-09-24 - 14-30 Manchester United 4 - 1 Leicester,2,839320,visible
+test,england_epl/2016-2017/2016-10-15 - 14-30 Chelsea 3 - 0 Leicester,1,382618,visible
+test,england_epl/2016-2017/2016-10-15 - 14-30 Chelsea 3 - 0 Leicester,1,1938040,visible
+test,england_epl/2016-2017/2016-10-15 - 14-30 Chelsea 3 - 0 Leicester,2,2070080,visible
+test,england_epl/2016-2017/2017-01-21 - 15-30 Liverpool 2 - 3 Swansea,2,124420,visible
+test,england_epl/2016-2017/2017-01-21 - 15-30 Liverpool 2 - 3 Swansea,2,403388,visible
+test,england_epl/2016-2017/2017-01-21 - 15-30 Liverpool 2 - 3 Swansea,2,558520,visible
+test,england_epl/2016-2017/2017-01-21 - 15-30 Liverpool 2 - 3 Swansea,2,1425655,visible
+test,england_epl/2016-2017/2017-01-21 - 15-30 Liverpool 2 - 3 Swansea,2,1717223,visible
+test,england_epl/2016-2017/2017-05-06 - 17-00 Leicester 3 - 0 Watford,1,2267580,visible
+test,england_epl/2016-2017/2017-05-06 - 17-00 Leicester 3 - 0 Watford,2,737313,visible
+test,england_epl/2016-2017/2017-05-06 - 17-00 Leicester 3 - 0 Watford,2,2830276,visible
+test,europe_uefa-champions-league/2014-2015/2014-11-04 - 20-00 Zenit Petersburg 1 - 2 Bayer Leverkusen,2,1353717,visible
+test,europe_uefa-champions-league/2014-2015/2014-11-04 - 20-00 Zenit Petersburg 1 - 2 Bayer Leverkusen,2,1626732,visible
+test,europe_uefa-champions-league/2014-2015/2014-11-04 - 20-00 Zenit Petersburg 1 - 2 Bayer Leverkusen,2,2591683,visible
+test,europe_uefa-champions-league/2014-2015/2015-02-24 - 22-45 Manchester City 1 - 2 Barcelona,1,927217,visible
+test,europe_uefa-champions-league/2014-2015/2015-02-24 - 22-45 Manchester City 1 - 2 Barcelona,1,1781000,visible
+test,europe_uefa-champions-league/2014-2015/2015-02-24 - 22-45 Manchester City 1 - 2 Barcelona,1,1781335,visible
+test,europe_uefa-champions-league/2014-2015/2015-02-24 - 22-45 Manchester City 1 - 2 Barcelona,2,1402000,visible
+test,europe_uefa-champions-league/2014-2015/2015-02-24 - 22-45 Manchester City 1 - 2 Barcelona,2,1402538,visible
+test,europe_uefa-champions-league/2014-2015/2015-03-10 - 22-45 Real Madrid 3 - 4 Schalke,1,1190000,visible
+test,europe_uefa-champions-league/2014-2015/2015-03-10 - 22-45 Real Madrid 3 - 4 Schalke,1,1190195,visible
+test,europe_uefa-champions-league/2014-2015/2015-03-10 - 22-45 Real Madrid 3 - 4 Schalke,1,1464216,visible
+test,europe_uefa-champions-league/2014-2015/2015-03-10 - 22-45 Real Madrid 3 - 4 Schalke,1,2371000,visible
+test,europe_uefa-champions-league/2014-2015/2015-03-10 - 22-45 Real Madrid 3 - 4 Schalke,1,2371936,visible
+test,europe_uefa-champions-league/2014-2015/2015-03-10 - 22-45 Real Madrid 3 - 4 Schalke,1,2694892,visible
+test,europe_uefa-champions-league/2014-2015/2015-03-10 - 22-45 Real Madrid 3 - 4 Schalke,2,419000,visible
+test,europe_uefa-champions-league/2014-2015/2015-03-10 - 22-45 Real Madrid 3 - 4 Schalke,2,419249,visible
+test,europe_uefa-champions-league/2014-2015/2015-03-10 - 22-45 Real Madrid 3 - 4 Schalke,2,673357,visible
+test,europe_uefa-champions-league/2014-2015/2015-03-10 - 22-45 Real Madrid 3 - 4 Schalke,2,2335011,visible
+test,europe_uefa-champions-league/2014-2015/2015-03-17 - 22-45 Monaco 0 - 2 Arsenal,1,2104000,visible
+test,europe_uefa-champions-league/2014-2015/2015-03-17 - 22-45 Monaco 0 - 2 Arsenal,1,2104818,visible
+test,europe_uefa-champions-league/2014-2015/2015-03-17 - 22-45 Monaco 0 - 2 Arsenal,2,1996373,visible
+test,europe_uefa-champions-league/2014-2015/2015-04-15 - 21-45 FC Porto 3 - 1 Bayern Munich,1,176000,visible
+test,europe_uefa-champions-league/2014-2015/2015-04-15 - 21-45 FC Porto 3 - 1 Bayern Munich,1,176569,visible
+test,europe_uefa-champions-league/2014-2015/2015-04-15 - 21-45 FC Porto 3 - 1 Bayern Munich,1,547023,visible
+test,europe_uefa-champions-league/2014-2015/2015-04-15 - 21-45 FC Porto 3 - 1 Bayern Munich,1,1662000,visible
+test,europe_uefa-champions-league/2014-2015/2015-04-15 - 21-45 FC Porto 3 - 1 Bayern Munich,1,1662971,visible
+test,europe_uefa-champions-league/2014-2015/2015-04-15 - 21-45 FC Porto 3 - 1 Bayern Munich,2,1148665,visible
+test,europe_uefa-champions-league/2014-2015/2015-04-22 - 21-45 Real Madrid 1 - 0 Atl. Madrid,2,2531000,visible
+test,europe_uefa-champions-league/2014-2015/2015-04-22 - 21-45 Real Madrid 1 - 0 Atl. Madrid,2,2531862,visible
+test,europe_uefa-champions-league/2014-2015/2015-05-05 - 21-45 Juventus 2 - 1 Real Madrid,1,472129,visible
+test,europe_uefa-champions-league/2014-2015/2015-05-05 - 21-45 Juventus 2 - 1 Real Madrid,1,1570210,visible
+test,europe_uefa-champions-league/2014-2015/2015-05-05 - 21-45 Juventus 2 - 1 Real Madrid,2,717653,visible
+test,europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 Bayern Munich 5 - 0 D. Zagreb,1,770643,visible
+test,europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 Bayern Munich 5 - 0 D. Zagreb,1,1238760,visible
+test,europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 Bayern Munich 5 - 0 D. Zagreb,1,1425800,visible
+test,europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 Bayern Munich 5 - 0 D. Zagreb,1,1609000,visible
+test,europe_uefa-champions-league/2015-2016/2015-09-29 - 21-45 Bayern Munich 5 - 0 D. Zagreb,2,581520,visible
+test,europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 Real Madrid 1 - 0 Paris SG,1,2071360,visible
+test,europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 Sevilla 1 - 3 Manchester City,1,463621,visible
+test,europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 Sevilla 1 - 3 Manchester City,1,633040,visible
+test,europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 Sevilla 1 - 3 Manchester City,1,1450240,visible
+test,europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 Sevilla 1 - 3 Manchester City,1,2108200,visible
+test,europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 Shakhtar Donetsk 4 - 0 Malmo FF,1,1662360,visible
+test,europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 Shakhtar Donetsk 4 - 0 Malmo FF,2,141080,visible
+test,europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 Shakhtar Donetsk 4 - 0 Malmo FF,2,570520,visible
+test,europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 Shakhtar Donetsk 4 - 0 Malmo FF,2,1635080,visible
+test,europe_uefa-champions-league/2015-2016/2015-11-25 - 22-45 Shakhtar Donetsk 3 - 4 Real Madrid,1,1042240,visible
+test,europe_uefa-champions-league/2015-2016/2015-11-25 - 22-45 Shakhtar Donetsk 3 - 4 Real Madrid,2,243600,visible
+test,europe_uefa-champions-league/2015-2016/2015-11-25 - 22-45 Shakhtar Donetsk 3 - 4 Real Madrid,2,401965,visible
+test,europe_uefa-champions-league/2015-2016/2015-11-25 - 22-45 Shakhtar Donetsk 3 - 4 Real Madrid,2,1474120,visible
+test,europe_uefa-champions-league/2015-2016/2015-11-25 - 22-45 Shakhtar Donetsk 3 - 4 Real Madrid,2,1908200,visible
+test,europe_uefa-champions-league/2015-2016/2015-11-25 - 22-45 Shakhtar Donetsk 3 - 4 Real Madrid,2,2244000,visible
+test,europe_uefa-champions-league/2015-2016/2015-11-25 - 22-45 Shakhtar Donetsk 3 - 4 Real Madrid,2,2559062,visible
+test,europe_uefa-champions-league/2015-2016/2016-04-05 - 21-45 Bayern Munich 1 - 0 Benfica,1,108360,visible
+test,europe_uefa-champions-league/2016-2017/2016-11-01 - 20-45 Besiktas 1 - 1 Napoli,2,1978280,visible
+test,europe_uefa-champions-league/2016-2017/2016-11-01 - 20-45 Besiktas 1 - 1 Napoli,2,2172400,visible
+test,europe_uefa-champions-league/2016-2017/2016-11-01 - 22-45 Manchester City 3 - 1 Barcelona,1,1239680,visible
+test,europe_uefa-champions-league/2016-2017/2016-11-01 - 22-45 Manchester City 3 - 1 Barcelona,1,2329000,visible
+test,europe_uefa-champions-league/2016-2017/2016-11-01 - 22-45 Manchester City 3 - 1 Barcelona,2,311600,visible
+test,europe_uefa-champions-league/2016-2017/2016-11-01 - 22-45 Manchester City 3 - 1 Barcelona,2,1716560,visible
+test,europe_uefa-champions-league/2016-2017/2016-11-23 - 22-45 Arsenal 2 - 2 Paris SG,1,1068240,visible
+test,europe_uefa-champions-league/2016-2017/2016-11-23 - 22-45 Arsenal 2 - 2 Paris SG,1,2742200,visible
+test,europe_uefa-champions-league/2016-2017/2016-11-23 - 22-45 Arsenal 2 - 2 Paris SG,2,839160,visible
+test,europe_uefa-champions-league/2016-2017/2016-11-23 - 22-45 Arsenal 2 - 2 Paris SG,2,1859920,visible
+test,europe_uefa-champions-league/2016-2017/2017-03-08 - 22-45 Barcelona 6 - 1 Paris SG,1,147495,visible
+test,europe_uefa-champions-league/2016-2017/2017-03-08 - 22-45 Barcelona 6 - 1 Paris SG,1,2364982,visible
+test,europe_uefa-champions-league/2016-2017/2017-03-08 - 22-45 Barcelona 6 - 1 Paris SG,2,250200,visible
+test,europe_uefa-champions-league/2016-2017/2017-03-08 - 22-45 Barcelona 6 - 1 Paris SG,2,965240,visible
+test,europe_uefa-champions-league/2016-2017/2017-03-08 - 22-45 Barcelona 6 - 1 Paris SG,2,2543320,visible
+test,europe_uefa-champions-league/2016-2017/2017-03-08 - 22-45 Barcelona 6 - 1 Paris SG,2,2708680,visible
+test,europe_uefa-champions-league/2016-2017/2017-03-08 - 22-45 Barcelona 6 - 1 Paris SG,2,2979827,visible
+test,europe_uefa-champions-league/2016-2017/2017-04-12 - 21-45 Bayern Munich 1 - 2 Real Madrid,1,1483960,visible
+test,europe_uefa-champions-league/2016-2017/2017-04-12 - 21-45 Bayern Munich 1 - 2 Real Madrid,2,95440,visible
+test,europe_uefa-champions-league/2016-2017/2017-04-12 - 21-45 Bayern Munich 1 - 2 Real Madrid,2,1863440,visible
+test,europe_uefa-champions-league/2016-2017/2017-05-02 - 21-45 Real Madrid 3 - 0 Atl. Madrid,1,543336,visible
+test,europe_uefa-champions-league/2016-2017/2017-05-02 - 21-45 Real Madrid 3 - 0 Atl. Madrid,2,1662280,visible
+test,europe_uefa-champions-league/2016-2017/2017-05-02 - 21-45 Real Madrid 3 - 0 Atl. Madrid,2,2406418,visible
+test,france_ligue-1/2016-2017/2016-08-28 - 21-45 Monaco 3 - 1 Paris SG,1,751061,visible
+test,france_ligue-1/2016-2017/2016-08-28 - 21-45 Monaco 3 - 1 Paris SG,1,2784862,visible
+test,france_ligue-1/2016-2017/2016-08-28 - 21-45 Monaco 3 - 1 Paris SG,2,1041615,visible
+test,france_ligue-1/2016-2017/2016-08-28 - 21-45 Monaco 3 - 1 Paris SG,2,2076159,visible
+test,france_ligue-1/2016-2017/2016-11-30 - 23-00 Paris SG 2 - 0 Angers,1,2023000,visible
+test,france_ligue-1/2016-2017/2016-11-30 - 23-00 Paris SG 2 - 0 Angers,1,2023138,visible
+test,france_ligue-1/2016-2017/2016-11-30 - 23-00 Paris SG 2 - 0 Angers,2,1232120,visible
+test,germany_bundesliga/2014-2015/2015-05-09 - 16-30 Bayern Munich 0 - 1 FC Augsburg,2,1503160,visible
+test,germany_bundesliga/2015-2016/2015-08-29 - 19-30 Bayern Munich 3 - 0 Bayer Leverkusen,1,1548792,visible
+test,germany_bundesliga/2015-2016/2015-08-29 - 19-30 Bayern Munich 3 - 0 Bayer Leverkusen,2,870683,visible
+test,germany_bundesliga/2015-2016/2015-08-29 - 19-30 Bayern Munich 3 - 0 Bayer Leverkusen,2,1507760,visible
+test,germany_bundesliga/2015-2016/2015-09-12 - 16-30 Bayern Munich 2 - 1 FC Augsburg,1,2528539,visible
+test,germany_bundesliga/2015-2016/2015-09-12 - 16-30 Bayern Munich 2 - 1 FC Augsburg,2,1891120,visible
+test,germany_bundesliga/2015-2016/2015-09-12 - 16-30 Bayern Munich 2 - 1 FC Augsburg,2,2641960,visible
+test,germany_bundesliga/2015-2016/2015-10-24 - 16-30 Bayern Munich 4 - 0 FC Koln,1,2098395,visible
+test,germany_bundesliga/2015-2016/2015-10-24 - 16-30 Bayern Munich 4 - 0 FC Koln,1,2395280,visible
+test,germany_bundesliga/2015-2016/2015-10-24 - 16-30 Bayern Munich 4 - 0 FC Koln,2,990221,visible
+test,germany_bundesliga/2015-2016/2015-10-24 - 16-30 Bayern Munich 4 - 0 FC Koln,2,1905666,visible
+test,germany_bundesliga/2015-2016/2015-11-08 - 17-30 Dortmund 3 - 2 Schalke,1,1777243,visible
+test,germany_bundesliga/2015-2016/2015-11-08 - 17-30 Dortmund 3 - 2 Schalke,1,1926160,visible
+test,germany_bundesliga/2015-2016/2015-11-08 - 17-30 Dortmund 3 - 2 Schalke,1,2553826,visible
+test,germany_bundesliga/2015-2016/2015-11-08 - 17-30 Dortmund 3 - 2 Schalke,2,114866,visible
+test,germany_bundesliga/2015-2016/2015-11-08 - 17-30 Dortmund 3 - 2 Schalke,2,1511480,visible
+test,germany_bundesliga/2016-2017/2016-09-10 - 19-30 RB Leipzig 1 - 0 Dortmund,2,2588548,visible
+test,germany_bundesliga/2016-2017/2016-10-01 - 19-30 Bayer Leverkusen 2 - 0 Dortmund,1,561849,visible
+test,germany_bundesliga/2016-2017/2016-10-01 - 19-30 Bayer Leverkusen 2 - 0 Dortmund,2,1990298,visible
+test,germany_bundesliga/2016-2017/2016-11-05 - 17-30 Hamburger SV 2 - 5 Dortmund,1,183680,visible
+test,germany_bundesliga/2016-2017/2016-11-05 - 17-30 Hamburger SV 2 - 5 Dortmund,1,1344240,visible
+test,germany_bundesliga/2016-2017/2016-11-05 - 17-30 Hamburger SV 2 - 5 Dortmund,1,1616600,visible
+test,germany_bundesliga/2016-2017/2016-11-05 - 17-30 Hamburger SV 2 - 5 Dortmund,2,165522,visible
+test,germany_bundesliga/2016-2017/2016-11-05 - 17-30 Hamburger SV 2 - 5 Dortmund,2,581185,visible
+test,germany_bundesliga/2016-2017/2016-11-05 - 17-30 Hamburger SV 2 - 5 Dortmund,2,1855029,visible
+test,germany_bundesliga/2016-2017/2016-11-05 - 17-30 Hamburger SV 2 - 5 Dortmund,2,2154954,visible
+test,germany_bundesliga/2016-2017/2016-11-19 - 20-30 Dortmund 1 - 0 Bayern Munich,1,601468,visible
+test,germany_bundesliga/2016-2017/2016-12-16 - 22-30 Hoffenheim 2 - 2 Dortmund,1,121941,visible
+test,germany_bundesliga/2016-2017/2016-12-16 - 22-30 Hoffenheim 2 - 2 Dortmund,1,606815,visible
+test,germany_bundesliga/2016-2017/2016-12-16 - 22-30 Hoffenheim 2 - 2 Dortmund,1,1156975,visible
+test,germany_bundesliga/2016-2017/2016-12-16 - 22-30 Hoffenheim 2 - 2 Dortmund,2,167381,visible
+test,germany_bundesliga/2016-2017/2017-01-21 - 17-30 SV Werder Bremen 1 - 2 Dortmund,1,244535,visible
+test,germany_bundesliga/2016-2017/2017-01-21 - 17-30 SV Werder Bremen 1 - 2 Dortmund,2,808120,visible
+test,germany_bundesliga/2016-2017/2017-01-21 - 17-30 SV Werder Bremen 1 - 2 Dortmund,2,1521760,visible
+test,germany_bundesliga/2016-2017/2017-01-29 - 19-30 1. FSV Mainz 05 1 - 1 Dortmund,2,2244401,visible
+test,germany_bundesliga/2016-2017/2017-03-04 - 17-30 Dortmund 6 - 2 Bayer Leverkusen,1,344757,visible
+test,germany_bundesliga/2016-2017/2017-03-04 - 17-30 Dortmund 6 - 2 Bayer Leverkusen,1,1547686,visible
+test,germany_bundesliga/2016-2017/2017-03-04 - 17-30 Dortmund 6 - 2 Bayer Leverkusen,2,124442,visible
+test,germany_bundesliga/2016-2017/2017-03-04 - 17-30 Dortmund 6 - 2 Bayer Leverkusen,2,1436129,visible
+test,germany_bundesliga/2016-2017/2017-03-04 - 17-30 Dortmund 6 - 2 Bayer Leverkusen,2,1725472,visible
+test,germany_bundesliga/2016-2017/2017-03-04 - 17-30 Dortmund 6 - 2 Bayer Leverkusen,2,1891117,visible
+test,germany_bundesliga/2016-2017/2017-03-04 - 17-30 Dortmund 6 - 2 Bayer Leverkusen,2,2356872,visible
+test,germany_bundesliga/2016-2017/2017-03-04 - 17-30 Dortmund 6 - 2 Bayer Leverkusen,2,2763712,visible
+test,germany_bundesliga/2016-2017/2017-04-29 - 16-30 Dortmund 0 - 0 FC Koln,1,1996667,visible
+test,italy_serie-a/2014-2015/2015-04-29 - 21-45 Juventus 3 - 2 Fiorentina,1,1954040,visible
+test,italy_serie-a/2014-2015/2015-04-29 - 21-45 Juventus 3 - 2 Fiorentina,1,2102640,visible
+test,italy_serie-a/2014-2015/2015-04-29 - 21-45 Juventus 3 - 2 Fiorentina,1,2702066,visible
+test,italy_serie-a/2014-2015/2015-04-29 - 21-45 Juventus 3 - 2 Fiorentina,2,1454760,visible
+test,italy_serie-a/2014-2015/2015-04-29 - 21-45 Juventus 3 - 2 Fiorentina,2,2686979,visible
+test,italy_serie-a/2015-2016/2015-08-29 - 21-45 AC Milan 2 - 1 Empoli,1,955009,visible
+test,italy_serie-a/2015-2016/2015-08-29 - 21-45 AC Milan 2 - 1 Empoli,1,1141360,visible
+test,italy_serie-a/2015-2016/2015-08-29 - 21-45 AC Milan 2 - 1 Empoli,2,1387996,visible
+test,italy_serie-a/2015-2016/2015-09-20 - 16-00 Genoa 0 - 2 Juventus,1,2163224,visible
+test,italy_serie-a/2015-2016/2015-09-20 - 16-00 Genoa 0 - 2 Juventus,2,875718,visible
+test,italy_serie-a/2015-2016/2015-09-27 - 21-45 Inter 1 - 4 Fiorentina,1,203039,visible
+test,italy_serie-a/2015-2016/2015-09-27 - 21-45 Inter 1 - 4 Fiorentina,1,1057457,visible
+test,italy_serie-a/2015-2016/2015-09-27 - 21-45 Inter 1 - 4 Fiorentina,1,1353599,visible
+test,italy_serie-a/2015-2016/2015-09-27 - 21-45 Inter 1 - 4 Fiorentina,2,887116,visible
+test,italy_serie-a/2015-2016/2015-09-27 - 21-45 Inter 1 - 4 Fiorentina,2,1850412,visible
+test,italy_serie-a/2016-2017/2016-08-27 - 21-45 Napoli 4 - 2 AC Milan,1,1075897,visible
+test,italy_serie-a/2016-2017/2016-08-27 - 21-45 Napoli 4 - 2 AC Milan,1,1952310,visible
+test,italy_serie-a/2016-2017/2016-08-27 - 21-45 Napoli 4 - 2 AC Milan,2,322666,visible
+test,italy_serie-a/2016-2017/2016-08-27 - 21-45 Napoli 4 - 2 AC Milan,2,550855,visible
+test,italy_serie-a/2016-2017/2016-08-27 - 21-45 Napoli 4 - 2 AC Milan,2,1691765,visible
+test,italy_serie-a/2016-2017/2016-08-27 - 21-45 Napoli 4 - 2 AC Milan,2,2873240,visible
+test,italy_serie-a/2016-2017/2016-09-11 - 16-00 AC Milan 0 - 1 Udinese,2,2552585,visible
+test,italy_serie-a/2016-2017/2016-09-20 - 21-45 AC Milan 2 - 0 Lazio,1,2169749,visible
+test,italy_serie-a/2016-2017/2016-09-20 - 21-45 AC Milan 2 - 0 Lazio,2,1688836,visible
+test,italy_serie-a/2016-2017/2016-09-24 - 21-45 Napoli 2 - 0 Chievo,1,1384114,visible
+test,italy_serie-a/2016-2017/2016-09-24 - 21-45 Napoli 2 - 0 Chievo,1,2306579,visible
+test,italy_serie-a/2016-2017/2016-09-25 - 13-30 Torino 3 - 1 AS Roma,1,467444,visible
+test,italy_serie-a/2016-2017/2016-09-25 - 13-30 Torino 3 - 1 AS Roma,2,421360,visible
+test,italy_serie-a/2016-2017/2016-09-25 - 13-30 Torino 3 - 1 AS Roma,2,579995,visible
+test,italy_serie-a/2016-2017/2016-09-25 - 13-30 Torino 3 - 1 AS Roma,2,1181385,visible
+test,italy_serie-a/2016-2017/2016-10-02 - 21-45 AS Roma 2 - 1 Inter,1,266476,visible
+test,italy_serie-a/2016-2017/2016-10-02 - 21-45 AS Roma 2 - 1 Inter,2,1589559,visible
+test,italy_serie-a/2016-2017/2016-10-02 - 21-45 AS Roma 2 - 1 Inter,2,1843455,visible
+test,italy_serie-a/2016-2017/2016-11-20 - 17-00 Atalanta 2 - 1 AS Roma,1,2375563,visible
+test,italy_serie-a/2016-2017/2016-11-20 - 17-00 Atalanta 2 - 1 AS Roma,2,986691,visible
+test,italy_serie-a/2016-2017/2016-11-20 - 17-00 Atalanta 2 - 1 AS Roma,2,2695211,visible
+test,italy_serie-a/2016-2017/2016-11-26 - 22-45 Empoli 1 - 4 AC Milan,1,853051,visible
+test,italy_serie-a/2016-2017/2016-11-26 - 22-45 Empoli 1 - 4 AC Milan,1,974230,visible
+test,italy_serie-a/2016-2017/2016-11-26 - 22-45 Empoli 1 - 4 AC Milan,2,949256,visible
+test,italy_serie-a/2016-2017/2016-11-26 - 22-45 Empoli 1 - 4 AC Milan,2,1096611,visible
+test,italy_serie-a/2016-2017/2016-11-26 - 22-45 Empoli 1 - 4 AC Milan,2,1911794,visible
+test,italy_serie-a/2016-2017/2016-12-04 - 17-00 Lazio 0 - 2 AS Roma,2,1115520,visible
+test,italy_serie-a/2016-2017/2016-12-04 - 17-00 Lazio 0 - 2 AS Roma,2,1869815,visible
+test,italy_serie-a/2016-2017/2017-01-08 - 17-00 Genoa 0 - 1 AS Roma,1,2103440,visible
+test,italy_serie-a/2016-2017/2017-01-29 - 17-00 Sampdoria 3 - 2 AS Roma,1,274070,visible
+test,italy_serie-a/2016-2017/2017-01-29 - 17-00 Sampdoria 3 - 2 AS Roma,1,1201718,visible
+test,italy_serie-a/2016-2017/2017-01-29 - 17-00 Sampdoria 3 - 2 AS Roma,2,1225604,visible
+test,italy_serie-a/2016-2017/2017-01-29 - 17-00 Sampdoria 3 - 2 AS Roma,2,1503862,visible
+test,italy_serie-a/2016-2017/2017-01-29 - 17-00 Sampdoria 3 - 2 AS Roma,2,1661000,visible
+test,italy_serie-a/2016-2017/2017-02-07 - 22-45 AS Roma 4 - 0 Fiorentina,1,2306760,visible
+test,italy_serie-a/2016-2017/2017-02-07 - 22-45 AS Roma 4 - 0 Fiorentina,2,749640,visible
+test,italy_serie-a/2016-2017/2017-02-07 - 22-45 AS Roma 4 - 0 Fiorentina,2,1790200,visible
+test,italy_serie-a/2016-2017/2017-02-07 - 22-45 AS Roma 4 - 0 Fiorentina,2,2258832,visible
+test,italy_serie-a/2016-2017/2017-02-25 - 20-00 Napoli 0 - 2 Atalanta,1,1668300,visible
+test,italy_serie-a/2016-2017/2017-02-25 - 20-00 Napoli 0 - 2 Atalanta,2,1444283,visible
+test,italy_serie-a/2016-2017/2017-02-26 - 22-45 Inter 1 - 3 AS Roma,1,676593,visible
+test,italy_serie-a/2016-2017/2017-02-26 - 22-45 Inter 1 - 3 AS Roma,2,621300,visible
+test,italy_serie-a/2016-2017/2017-02-26 - 22-45 Inter 1 - 3 AS Roma,2,2137127,visible
+test,italy_serie-a/2016-2017/2017-02-26 - 22-45 Inter 1 - 3 AS Roma,2,2396915,visible
+test,italy_serie-a/2016-2017/2017-04-01 - 21-45 AS Roma 2 - 0 Empoli,1,700948,visible
+test,italy_serie-a/2016-2017/2017-04-01 - 21-45 AS Roma 2 - 0 Empoli,2,636381,visible
+test,italy_serie-a/2016-2017/2017-04-30 - 21-45 Inter 0 - 1 Napoli,1,2551195,visible
+test,italy_serie-a/2016-2017/2017-05-20 - 21-45 Napoli 4 - 1 Fiorentina,1,445316,visible
+test,italy_serie-a/2016-2017/2017-05-20 - 21-45 Napoli 4 - 1 Fiorentina,1,2117811,visible
+test,italy_serie-a/2016-2017/2017-05-20 - 21-45 Napoli 4 - 1 Fiorentina,2,694756,visible
+test,italy_serie-a/2016-2017/2017-05-20 - 21-45 Napoli 4 - 1 Fiorentina,2,860747,visible
+test,italy_serie-a/2016-2017/2017-05-20 - 21-45 Napoli 4 - 1 Fiorentina,2,1133449,visible
+test,spain_laliga/2014-2015/2015-02-14 - 20-00 Real Madrid 2 - 0 Dep. La Coruna,1,1320176,visible
+test,spain_laliga/2014-2015/2015-02-14 - 20-00 Real Madrid 2 - 0 Dep. La Coruna,2,1637000,visible
+test,spain_laliga/2014-2015/2015-04-18 - 21-00 Real Madrid 3 - 1 Malaga,1,1423777,visible
+test,spain_laliga/2014-2015/2015-04-18 - 21-00 Real Madrid 3 - 1 Malaga,2,1398600,visible
+test,spain_laliga/2014-2015/2015-04-18 - 21-00 Real Madrid 3 - 1 Malaga,2,1517280,visible
+test,spain_laliga/2014-2015/2015-04-18 - 21-00 Real Madrid 3 - 1 Malaga,2,2762280,visible
+test,spain_laliga/2014-2015/2015-04-25 - 17-00 Espanyol 0 - 2 Barcelona,1,990960,visible
+test,spain_laliga/2014-2015/2015-04-25 - 17-00 Espanyol 0 - 2 Barcelona,1,1477932,visible
+test,spain_laliga/2014-2015/2015-04-29 - 21-00 Real Madrid 3 - 0 Almeria,1,2640000,visible
+test,spain_laliga/2014-2015/2015-04-29 - 21-00 Real Madrid 3 - 0 Almeria,2,211634,visible
+test,spain_laliga/2014-2015/2015-04-29 - 21-00 Real Madrid 3 - 0 Almeria,2,2335320,visible
+test,spain_laliga/2014-2015/2015-05-02 - 17-00 Cordoba 0 - 8 Barcelona,1,2508840,visible
+test,spain_laliga/2014-2015/2015-05-02 - 17-00 Cordoba 0 - 8 Barcelona,1,2814160,visible
+test,spain_laliga/2014-2015/2015-05-02 - 17-00 Cordoba 0 - 8 Barcelona,2,60035,visible
+test,spain_laliga/2014-2015/2015-05-02 - 17-00 Cordoba 0 - 8 Barcelona,2,463440,visible
+test,spain_laliga/2014-2015/2015-05-02 - 17-00 Cordoba 0 - 8 Barcelona,2,1188840,visible
+test,spain_laliga/2014-2015/2015-05-02 - 17-00 Cordoba 0 - 8 Barcelona,2,2053200,visible
+test,spain_laliga/2014-2015/2015-05-02 - 17-00 Cordoba 0 - 8 Barcelona,2,2356240,visible
+test,spain_laliga/2014-2015/2015-05-02 - 17-00 Cordoba 0 - 8 Barcelona,2,2530320,visible
+test,spain_laliga/2014-2015/2015-05-09 - 19-00 Barcelona 2 - 0 Real Sociedad,2,305182,visible
+test,spain_laliga/2014-2015/2015-05-09 - 19-00 Barcelona 2 - 0 Real Sociedad,2,2372880,visible
+test,spain_laliga/2015-2016/2015-08-29 - 23-30 Real Madrid 5 - 0 Betis,1,93382,visible
+test,spain_laliga/2015-2016/2015-08-29 - 23-30 Real Madrid 5 - 0 Betis,1,2295742,visible
+test,spain_laliga/2015-2016/2015-08-29 - 23-30 Real Madrid 5 - 0 Betis,2,96359,visible
+test,spain_laliga/2015-2016/2015-08-29 - 23-30 Real Madrid 5 - 0 Betis,2,240565,visible
+test,spain_laliga/2015-2016/2015-08-29 - 23-30 Real Madrid 5 - 0 Betis,2,2584869,visible
+test,spain_laliga/2015-2016/2015-09-19 - 17-00 Real Madrid 1 - 0 Granada CF,2,555521,visible
+test,spain_laliga/2015-2016/2015-11-08 - 18-00 Barcelona 3 - 0 Villarreal,2,872800,visible
+test,spain_laliga/2015-2016/2015-11-08 - 18-00 Barcelona 3 - 0 Villarreal,2,1482535,visible
+test,spain_laliga/2015-2016/2015-11-08 - 18-00 Barcelona 3 - 0 Villarreal,2,2369044,visible
+test,spain_laliga/2015-2016/2015-12-05 - 18-00 Real Madrid 4 - 1 Getafe,1,225779,visible
+test,spain_laliga/2015-2016/2015-12-05 - 18-00 Real Madrid 4 - 1 Getafe,1,938895,visible
+test,spain_laliga/2015-2016/2015-12-05 - 18-00 Real Madrid 4 - 1 Getafe,1,2063606,visible
+test,spain_laliga/2015-2016/2015-12-05 - 18-00 Real Madrid 4 - 1 Getafe,1,2262560,visible
+test,spain_laliga/2015-2016/2015-12-05 - 18-00 Real Madrid 4 - 1 Getafe,2,1469638,visible
+test,spain_laliga/2015-2016/2015-12-30 - 18-00 Real Madrid 3 - 1 Real Sociedad,1,2503000,visible
+test,spain_laliga/2015-2016/2015-12-30 - 18-00 Real Madrid 3 - 1 Real Sociedad,2,190334,visible
+test,spain_laliga/2015-2016/2015-12-30 - 18-00 Real Madrid 3 - 1 Real Sociedad,2,1316880,visible
+test,spain_laliga/2015-2016/2015-12-30 - 18-00 Real Madrid 3 - 1 Real Sociedad,2,2455043,visible
+test,spain_laliga/2015-2016/2016-02-27 - 18-00 Real Madrid 0 - 1 Atl. Madrid,2,441160,visible
+test,spain_laliga/2015-2016/2016-03-02 - 23-00 Levante 1 - 3 Real Madrid,1,2016680,visible
+test,spain_laliga/2015-2016/2016-03-02 - 23-00 Levante 1 - 3 Real Madrid,1,2228568,visible
+test,spain_laliga/2015-2016/2016-03-02 - 23-00 Levante 1 - 3 Real Madrid,1,2308783,visible
+test,spain_laliga/2015-2016/2016-03-02 - 23-00 Levante 1 - 3 Real Madrid,2,2772040,visible
+test,spain_laliga/2015-2016/2016-05-08 - 18-00 Real Madrid 3 - 2 Valencia,1,1525837,visible
+test,spain_laliga/2015-2016/2016-05-08 - 18-00 Real Madrid 3 - 2 Valencia,1,2503791,visible
+test,spain_laliga/2015-2016/2016-05-08 - 18-00 Real Madrid 3 - 2 Valencia,2,585221,visible
+test,spain_laliga/2015-2016/2016-05-08 - 18-00 Real Madrid 3 - 2 Valencia,2,778485,visible
+test,spain_laliga/2015-2016/2016-05-08 - 18-00 Real Madrid 3 - 2 Valencia,2,2132806,visible
+test,spain_laliga/2015-2016/2016-05-14 - 18-00 Dep. La Coruna 0 - 2 Real Madrid,1,417397,visible
+test,spain_laliga/2015-2016/2016-05-14 - 18-00 Dep. La Coruna 0 - 2 Real Madrid,1,1491125,visible
+test,spain_laliga/2016-2017/2016-09-10 - 21-30 Barcelona 1 - 2 Alaves,1,2300553,visible
+test,spain_laliga/2016-2017/2016-09-10 - 21-30 Barcelona 1 - 2 Alaves,2,58658,visible
+test,spain_laliga/2016-2017/2016-09-10 - 21-30 Barcelona 1 - 2 Alaves,2,1119405,visible
+test,spain_laliga/2016-2017/2016-09-21 - 21-00 Real Madrid 1 - 1 Villarreal,1,2718480,visible
+test,spain_laliga/2016-2017/2016-09-21 - 21-00 Real Madrid 1 - 1 Villarreal,2,160046,visible
+test,spain_laliga/2016-2017/2016-09-24 - 21-45 Las Palmas 2 - 2 Real Madrid,1,1940720,visible
+test,spain_laliga/2016-2017/2016-09-24 - 21-45 Las Palmas 2 - 2 Real Madrid,1,2225400,visible
+test,spain_laliga/2016-2017/2016-09-24 - 21-45 Las Palmas 2 - 2 Real Madrid,2,1298840,visible
+test,spain_laliga/2016-2017/2016-09-24 - 21-45 Las Palmas 2 - 2 Real Madrid,2,2351000,visible
+test,spain_laliga/2016-2017/2016-11-26 - 18-15 Real Madrid 2 - 1 Gijon,1,249960,visible
+test,spain_laliga/2016-2017/2016-11-26 - 18-15 Real Madrid 2 - 1 Gijon,1,1060898,visible
+test,spain_laliga/2016-2017/2016-11-26 - 18-15 Real Madrid 2 - 1 Gijon,1,2078056,visible
+test,spain_laliga/2016-2017/2016-12-18 - 22-45 Barcelona 4 - 1 Espanyol,1,1036923,visible
+test,spain_laliga/2016-2017/2016-12-18 - 22-45 Barcelona 4 - 1 Espanyol,2,1279996,visible
+test,spain_laliga/2016-2017/2016-12-18 - 22-45 Barcelona 4 - 1 Espanyol,2,1378290,visible
+test,spain_laliga/2016-2017/2016-12-18 - 22-45 Barcelona 4 - 1 Espanyol,2,2023021,visible
+test,spain_laliga/2016-2017/2016-12-18 - 22-45 Barcelona 4 - 1 Espanyol,2,2640583,visible
+test,spain_laliga/2016-2017/2017-02-11 - 22-45 Osasuna 1 - 3 Real Madrid,1,1403080,visible
+test,spain_laliga/2016-2017/2017-02-11 - 22-45 Osasuna 1 - 3 Real Madrid,1,1929910,visible
+test,spain_laliga/2016-2017/2017-02-11 - 22-45 Osasuna 1 - 3 Real Madrid,2,1006360,visible
+test,spain_laliga/2016-2017/2017-02-11 - 22-45 Osasuna 1 - 3 Real Madrid,2,2856386,visible
+test,spain_laliga/2016-2017/2017-03-12 - 22-45 Real Madrid 2 - 1 Betis,1,1440652,visible
+test,spain_laliga/2016-2017/2017-03-12 - 22-45 Real Madrid 2 - 1 Betis,1,2401226,visible
+test,spain_laliga/2016-2017/2017-03-12 - 22-45 Real Madrid 2 - 1 Betis,2,2127094,visible
+test,spain_laliga/2016-2017/2017-04-02 - 17-15 Real Madrid 3 - 0 Alaves,1,1814160,visible
+test,spain_laliga/2016-2017/2017-04-02 - 17-15 Real Madrid 3 - 0 Alaves,2,2387000,visible
+test,spain_laliga/2016-2017/2017-04-02 - 17-15 Real Madrid 3 - 0 Alaves,2,2548560,visible
+test,spain_laliga/2016-2017/2017-04-08 - 21-45 Malaga 2 - 0 Barcelona,1,1892400,visible
+test,spain_laliga/2016-2017/2017-04-08 - 21-45 Malaga 2 - 0 Barcelona,2,2697665,visible
+test,spain_laliga/2016-2017/2017-04-26 - 20-30 Barcelona 7 - 1 Osasuna,1,704006,visible
+test,spain_laliga/2016-2017/2017-04-26 - 20-30 Barcelona 7 - 1 Osasuna,1,1789775,visible
+test,spain_laliga/2016-2017/2017-04-26 - 20-30 Barcelona 7 - 1 Osasuna,2,127197,visible
+test,spain_laliga/2016-2017/2017-04-26 - 20-30 Barcelona 7 - 1 Osasuna,2,714853,visible
+test,spain_laliga/2016-2017/2017-04-26 - 20-30 Barcelona 7 - 1 Osasuna,2,952754,visible
+test,spain_laliga/2016-2017/2017-04-26 - 20-30 Barcelona 7 - 1 Osasuna,2,1114866,visible
+test,spain_laliga/2016-2017/2017-04-26 - 20-30 Barcelona 7 - 1 Osasuna,2,1301350,visible
+test,spain_laliga/2016-2017/2017-04-26 - 20-30 Barcelona 7 - 1 Osasuna,2,2442000,visible
+test,spain_laliga/2016-2017/2017-04-26 - 20-30 Barcelona 7 - 1 Osasuna,2,2442515,visible
